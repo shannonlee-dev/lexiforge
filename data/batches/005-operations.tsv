@@ -1,0 +1,24 @@
+shipment	goods	n	배송 물품 / 화물	logistics	2	track a shipment;partial shipment	The shipment contains fifty replacement keyboards.	배송 물품에는 교체용 키보드 50개가 들어 있습니다.
+consignment	goods	n	탁송 화물	logistics	4	consignment note;on consignment	The consignment was inspected before it left the warehouse.	탁송 화물은 창고를 떠나기 전에 검사를 받았습니다.
+freight	cargo	n	화물 / 운송	logistics	3	freight charges;air freight	Air freight is faster but more expensive than shipping by sea.	항공 운송은 해상 운송보다 빠르지만 더 비쌉니다.
+customs	border	n	세관	logistics	3	customs clearance;customs declaration	The goods cannot be released until customs clearance is complete.	통관이 완료될 때까지 물품을 반출할 수 없습니다.
+warehouse	storage	n	창고	logistics	2	warehouse capacity;warehouse staff	The new warehouse has enough space for seasonal inventory.	새 창고에는 계절 재고를 보관할 공간이 충분합니다.
+inventory	stock	n	재고	procurement	3	inventory levels;take inventory	We check inventory levels before placing new orders.	새 주문을 하기 전에 재고 수준을 확인합니다.
+vendor	seller	n	판매업체	procurement	3	approved vendor;vendor agreement	Please choose a supplier from the approved vendor list.	승인된 판매업체 목록에서 공급업체를 선택해 주세요.
+bid	offer	n	입찰	procurement	3	submit a bid;competitive bid	Three firms submitted bids for the renovation project.	세 업체가 개보수 사업에 입찰서를 제출했습니다.
+specification	requirement	n	사양	procurement	4	technical specifications;meet specifications	The equipment must meet the specifications in the purchase order.	장비는 구매 주문서에 명시된 사양을 충족해야 합니다.
+bulk	largequantity	n	대량	procurement	3	in bulk;bulk order	Ordering paper in bulk reduces the cost per box.	종이를 대량 주문하면 상자당 비용이 줄어듭니다.
+backorder	unfilled	n	재고 부족으로 미처리된 주문	procurement	4	on backorder;fill a backorder	The printer is on backorder and will ship next week.	프린터는 재고 부족으로 주문이 미처리된 상태이며 다음 주에 발송될 예정입니다.
+defect	fault	n	결함	production	3	manufacturing defect;detect a defect	The inspection revealed a defect in the cooling system.	검사에서 냉각 시스템의 결함이 발견되었습니다.
+recall	withdraw	v	리콜하다 / 회수하다	production	3	recall a product;recall defective units	The manufacturer recalled the heaters after discovering a safety issue.	제조업체는 안전 문제를 발견한 후 난방기를 회수했습니다.
+recall	remember	v	기억해 내다	general	2	recall a detail;recall a conversation	I cannot recall the exact date of our last inspection.	지난 검사 날짜를 정확히 기억해 낼 수 없습니다.
+assemble	puttogether	v	조립하다	production	2	assemble components;assemble a product	Workers assemble the components before testing the finished product.	작업자들은 완제품을 시험하기 전에 부품을 조립합니다.
+inspect	examine	v	점검하다 / 검사하다	production	2	inspect equipment;inspect for damage	Please inspect each package for damage before signing the receipt.	인수증에 서명하기 전에 각 소포의 파손 여부를 확인해 주세요.
+capacity	maximum	n	수용 능력 / 생산 능력	production	3	production capacity;at full capacity	The factory is operating at full capacity to meet demand.	공장은 수요를 충족하기 위해 최대 생산 능력으로 가동되고 있습니다.
+maintenance	upkeep	n	유지 보수	facility	2	routine maintenance;scheduled maintenance	The elevator will be unavailable during scheduled maintenance.	예정된 유지 보수 중에는 엘리베이터를 이용할 수 없습니다.
+premises	property	n	사업장 / 건물과 부지	facility	3	on the premises;leave the premises	Visitors must wear identification badges while on the premises.	방문객은 사업장 내에서 신분증을 착용해야 합니다.
+lease	rental	n	임대차 계약	facility	3	sign a lease;lease agreement	The company signed a five-year lease for the office.	회사는 그 사무실에 대해 5년 임대차 계약을 체결했습니다.
+renovate	improve	v	개보수하다	facility	3	renovate a building;newly renovated	The library will close for two weeks while workers renovate the entrance.	작업자들이 입구를 개보수하는 동안 도서관은 2주간 문을 닫습니다.
+tenant	renter	n	임차인	facility	3	commercial tenant;tenant agreement	Tenants are responsible for keeping shared areas clean.	임차인은 공용 공간을 깨끗하게 유지할 책임이 있습니다.
+utility	service	n	공공요금 관련 서비스	facility	3	utility bill;utility costs	The monthly rent does not include utility costs.	월세에는 공과금이 포함되지 않습니다.
+occupancy	use	n	입주 / 객실 사용	facility	4	occupancy rate;ready for occupancy	The renovated offices will be ready for occupancy in June.	개보수한 사무실은 6월에 입주할 수 있게 됩니다.

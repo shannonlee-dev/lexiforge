@@ -1,0 +1,25 @@
+itinerary	plan	n	여행 일정표	travel	3	travel itinerary;revised itinerary	Please review the updated itinerary before your departure.	출발 전에 갱신된 여행 일정표를 확인해 주세요.
+fare	price	n	교통 요금	travel	2	round-trip fare;reduced fare	The fare includes one checked bag and a light meal.	요금에는 위탁 수하물 한 개와 간단한 식사가 포함됩니다.
+commute	travel	v	통근하다	travel	2	commute to work;commute by train	Many employees commute by train to avoid traffic.	많은 직원은 교통 체증을 피하기 위해 기차로 통근합니다.
+detour	alternative	n	우회로	travel	3	take a detour;follow a detour	Drivers should follow the marked detour while the bridge is closed.	다리가 폐쇄된 동안 운전자는 표시된 우회로를 따라야 합니다.
+valid	usable	adj	유효한	travel	2	valid ticket;valid for	This ticket is valid for thirty days from the date of purchase.	이 표는 구매일로부터 30일간 유효합니다.
+boarding	entering	n	탑승	travel	2	boarding pass;boarding gate	Boarding will begin twenty minutes before the scheduled departure.	탑승은 예정된 출발 시각 20분 전에 시작됩니다.
+layover	stop	n	경유 대기	travel	3	short layover;overnight layover	The flight includes a two-hour layover in Singapore.	그 항공편에는 싱가포르에서 두 시간의 경유 대기가 포함됩니다.
+amenity	facility	n	편의 시설	hotel	3	hotel amenities;modern amenities	Hotel amenities include a gym and a heated pool.	호텔 편의 시설에는 체육관과 온수 수영장이 포함됩니다.
+reservation	booking	n	예약	hotel	1	confirm a reservation;make a reservation	Please confirm your reservation at least one day before arrival.	도착하기 최소 하루 전에 예약을 확인해 주세요.
+vacancy	room	n	빈 객실	hotel	2	no vacancies;room vacancy	The hotel has no vacancies during the annual festival.	연례 축제 기간에는 호텔에 빈 객실이 없습니다.
+concierge	assistant	n	호텔 안내 직원	hotel	3	concierge desk;concierge service	The concierge can help you book tickets for local attractions.	호텔 안내 직원이 지역 관광 명소의 입장권 예약을 도와드릴 수 있습니다.
+venue	place	n	행사 장소	education	2	conference venue;change of venue	The organizers selected a larger venue for the workshop.	주최 측은 워크숍을 위해 더 큰 장소를 선정했습니다.
+registration	enrollment	n	등록	education	2	registration fee;advance registration	Advance registration is required for all training sessions.	모든 교육 과정은 사전 등록이 필요합니다.
+prerequisite	requirement	n	선수 요건 / 필수 조건	education	4	course prerequisite;prerequisite for	Basic spreadsheet skills are a prerequisite for this course.	기본적인 스프레드시트 활용 능력은 이 과정의 필수 조건입니다.
+attendee	participant	n	참석자	education	2	conference attendee;registered attendee	Each attendee will receive a digital copy of the presentation.	각 참석자는 발표 자료의 디지털 사본을 받게 됩니다.
+compatible	workswith	adj	호환되는	it	3	compatible with;fully compatible	The software is compatible with most recent operating systems.	이 소프트웨어는 대부분의 최신 운영 체제와 호환됩니다.
+subscription	service	n	구독	it	2	annual subscription;renew a subscription	Your subscription will renew automatically unless you cancel it.	취소하지 않으면 구독이 자동으로 갱신됩니다.
+outage	interruption	n	서비스 중단	it	3	power outage;network outage	A network outage prevented staff from accessing the shared drive.	네트워크 중단으로 직원들이 공유 드라이브에 접근하지 못했습니다.
+retrieve	getback	v	검색하여 가져오다 / 복구하다	it	3	retrieve a file;retrieve data	You can retrieve archived invoices through the customer portal.	고객 포털에서 보관된 청구서를 조회할 수 있습니다.
+deploy	install	v	배포하다 / 배치하다	it	4	deploy software;deploy an update	The team will deploy the update after business hours.	팀은 업무 시간 이후에 업데이트를 배포할 것입니다.
+credential	proof	n	자격 증명	it	4	login credentials;verify credentials	Never share your login credentials with other users.	로그인 자격 증명을 다른 사용자와 공유하지 마세요.
+backup	copy	n	백업 사본	it	2	create a backup;restore a backup	Create a backup before installing the new software.	새 소프트웨어를 설치하기 전에 백업 사본을 만드세요.
+coverage	insurance	n	보장 범위	health	3	insurance coverage;extend coverage	The new plan provides coverage for routine dental examinations.	새 보험은 정기 치과 검진을 보장합니다.
+benefit	advantage	n	복리후생 혜택	health	2	employee benefits;health benefits	Details of employee benefits are available from human resources.	직원 복리후생 혜택의 자세한 내용은 인사부에서 확인할 수 있습니다.
+prescription	medicine	n	처방전	health	2	fill a prescription;valid prescription	You will need a valid prescription to obtain this medication.	이 약을 받으려면 유효한 처방전이 필요합니다.

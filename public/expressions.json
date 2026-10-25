@@ -1,0 +1,4740 @@
+[
+  {
+    "id": "expr-7234f13c7dee",
+    "text": "tentative schedule",
+    "senseIds": [
+      "tentative-provisional"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d070b8d45d8d",
+    "text": "tentative agreement",
+    "senseIds": [
+      "tentative-provisional"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-33d45df28313",
+    "text": "prospective employee",
+    "senseIds": [
+      "prospective-potential"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b11a3debec97",
+    "text": "prospective client",
+    "senseIds": [
+      "prospective-potential"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d7c541720e2b",
+    "text": "retain staff",
+    "senseIds": [
+      "retain-keep"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a5504f9c49e3",
+    "text": "retain a copy",
+    "senseIds": [
+      "retain-keep"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-bc06be6c8ca9",
+    "text": "stipulate that",
+    "senseIds": [
+      "stipulate-require"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ebdd94ca5982",
+    "text": "stipulate a deadline",
+    "senseIds": [
+      "stipulate-require"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6c5bb746b94d",
+    "text": "impose a fee",
+    "senseIds": [
+      "impose-levy"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c03b788dcddd",
+    "text": "impose restrictions",
+    "senseIds": [
+      "impose-levy"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d5f9fcd344f4",
+    "text": "reconcile accounts",
+    "senseIds": [
+      "reconcile-compare"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-47b11eaba84c",
+    "text": "reconcile differences",
+    "senseIds": [
+      "reconcile-compare"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-872b48f16a92",
+    "text": "remit payment",
+    "senseIds": [
+      "remit-send"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-854fcd0ef372",
+    "text": "remit funds",
+    "senseIds": [
+      "remit-send"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-bcf59e7e4879",
+    "text": "allocate funds",
+    "senseIds": [
+      "allocate-assign"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b57306f12c28",
+    "text": "allocate resources",
+    "senseIds": [
+      "allocate-assign"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8cf47184337f",
+    "text": "deduct expenses",
+    "senseIds": [
+      "deduct-subtract"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-32ee760acc85",
+    "text": "deduct from",
+    "senseIds": [
+      "deduct-subtract"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c959368861e5",
+    "text": "accrue interest",
+    "senseIds": [
+      "accrue-accumulate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-7ca663e7c7aa",
+    "text": "accrue benefits",
+    "senseIds": [
+      "accrue-accumulate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f2d7fa36dab5",
+    "text": "facilitate communication",
+    "senseIds": [
+      "facilitate-enable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-596ca47ee72a",
+    "text": "facilitate access",
+    "senseIds": [
+      "facilitate-enable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a062ad7b068a",
+    "text": "designate a representative",
+    "senseIds": [
+      "designate-appoint"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c3fe2628d160",
+    "text": "designate as",
+    "senseIds": [
+      "designate-appoint"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-75243238b719",
+    "text": "procurement process",
+    "senseIds": [
+      "procurement-purchasing"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9dd4676f25a3",
+    "text": "procurement department",
+    "senseIds": [
+      "procurement-purchasing"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-08d38f885c7a",
+    "text": "expedite delivery",
+    "senseIds": [
+      "expedite-speed"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-271fba3b7e96",
+    "text": "expedite the process",
+    "senseIds": [
+      "expedite-speed"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-520b3da2ac73",
+    "text": "contingency plan",
+    "senseIds": [
+      "contingency-unexpected"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9ec2b3d94149",
+    "text": "contingency fund",
+    "senseIds": [
+      "contingency-unexpected"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4f064ce71677",
+    "text": "quote a price",
+    "senseIds": [
+      "quote-price"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e10aaf489ecd",
+    "text": "quoted amount",
+    "senseIds": [
+      "quote-price"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a5b250e8ae1f",
+    "text": "quote an author",
+    "senseIds": [
+      "quote-cite"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-94d6f860252f",
+    "text": "quote a passage",
+    "senseIds": [
+      "quote-cite"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f91e0b910ca7",
+    "text": "keep a receipt",
+    "senseIds": [
+      "receipt-document"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-376a605d7075",
+    "text": "issue a receipt",
+    "senseIds": [
+      "receipt-document"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b51e14d3b454",
+    "text": "upon receipt of",
+    "senseIds": [
+      "receipt-receiving"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2407ab63796a",
+    "text": "acknowledge receipt",
+    "senseIds": [
+      "receipt-receiving",
+      "acknowledge-confirm"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9ada5a50c359",
+    "text": "outstanding balance",
+    "senseIds": [
+      "outstanding-unpaid"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-02a48655c63e",
+    "text": "outstanding invoice",
+    "senseIds": [
+      "outstanding-unpaid"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-242fae981082",
+    "text": "outstanding performance",
+    "senseIds": [
+      "outstanding-excellent"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-15724b90023e",
+    "text": "outstanding service",
+    "senseIds": [
+      "outstanding-excellent"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1637b3b5ec3c",
+    "text": "outstanding issue",
+    "senseIds": [
+      "outstanding-unresolved"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-50c48e217c00",
+    "text": "outstanding matter",
+    "senseIds": [
+      "outstanding-unresolved"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b79731297dbe",
+    "text": "settle an account",
+    "senseIds": [
+      "settle-pay"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e8f61f21f355",
+    "text": "settle a bill",
+    "senseIds": [
+      "settle-pay"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8b40a27f5a33",
+    "text": "settle a dispute",
+    "senseIds": [
+      "settle-resolve"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5316c0fe273a",
+    "text": "settle a claim",
+    "senseIds": [
+      "settle-resolve"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e0f374b2370a",
+    "text": "settle in",
+    "senseIds": [
+      "settle-live"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9975217550eb",
+    "text": "settle into",
+    "senseIds": [
+      "settle-live"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3a58938e8cd7",
+    "text": "suspend service",
+    "senseIds": [
+      "suspend-pause"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d6e6090995c2",
+    "text": "suspend operations",
+    "senseIds": [
+      "suspend-pause"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-40db6befb368",
+    "text": "incur costs",
+    "senseIds": [
+      "incur-cost"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8a12ed7815c3",
+    "text": "incur a penalty",
+    "senseIds": [
+      "incur-cost"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e51450a5b598",
+    "text": "refrain from",
+    "senseIds": [
+      "refrain-from-avoid"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2fc21a9ccd1a",
+    "text": "refrain from smoking",
+    "senseIds": [
+      "refrain-from-avoid"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4825ef3ec04b",
+    "text": "refrain from using",
+    "senseIds": [
+      "refrain-from-avoid"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-dda8b38f7f09",
+    "text": "carry forward",
+    "senseIds": [
+      "carry-forward-transfer"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-84b9affe447c",
+    "text": "carry forward a balance",
+    "senseIds": [
+      "carry-forward-transfer"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1fa7bfc94372",
+    "text": "carry forward unused leave",
+    "senseIds": [
+      "carry-forward-transfer"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2e143511dfa0",
+    "text": "claim that",
+    "senseIds": [
+      "claim-assert"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-aab8cd4201c6",
+    "text": "claim responsibility",
+    "senseIds": [
+      "claim-assert"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f45ecaf9c327",
+    "text": "claim expenses",
+    "senseIds": [
+      "claim-request"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cc8320f0714c",
+    "text": "claim a refund",
+    "senseIds": [
+      "claim-request"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0e242e197f81",
+    "text": "claim baggage",
+    "senseIds": [
+      "claim-take"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-dd31336b0ca2",
+    "text": "claim a seat",
+    "senseIds": [
+      "claim-take"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d6160753b176",
+    "text": "job placement",
+    "senseIds": [
+      "placement-assignment"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4e219076f2d2",
+    "text": "staff placement",
+    "senseIds": [
+      "placement-assignment"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-207f4622f8b9",
+    "text": "replacement part",
+    "senseIds": [
+      "replacement-substitute"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-16978bf23453",
+    "text": "replacement employee",
+    "senseIds": [
+      "replacement-substitute"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e0039d6fdee5",
+    "text": "advance notice",
+    "senseIds": [
+      "notice-announcement"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-bcba0d0b55ec",
+    "text": "written notice",
+    "senseIds": [
+      "notice-announcement"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c45969fcdc8e",
+    "text": "notice a change",
+    "senseIds": [
+      "notice-observe"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-970799a6b616",
+    "text": "notice a difference",
+    "senseIds": [
+      "notice-observe"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c3bb647e2a70",
+    "text": "notify someone of",
+    "senseIds": [
+      "notify-inform"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-63510e7ed2f1",
+    "text": "notify in advance",
+    "senseIds": [
+      "notify-inform"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8171bbd549a2",
+    "text": "total amount",
+    "senseIds": [
+      "amount-sum"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2441946e96d7",
+    "text": "amount due",
+    "senseIds": [
+      "amount-sum",
+      "due-payable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-dbb28f858c3f",
+    "text": "order quantity",
+    "senseIds": [
+      "quantity-number"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e6b560676a4d",
+    "text": "large quantities",
+    "senseIds": [
+      "quantity-number"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9d46fb8891b3",
+    "text": "dispatch an order",
+    "senseIds": [
+      "dispatch-send"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-95a95a5be6d7",
+    "text": "dispatch a courier",
+    "senseIds": [
+      "dispatch-send"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d11ce88d7362",
+    "text": "deliver a package",
+    "senseIds": [
+      "deliver-bring"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f06071f27cdd",
+    "text": "deliver goods",
+    "senseIds": [
+      "deliver-bring"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f216a3c3835d",
+    "text": "return an item",
+    "senseIds": [
+      "return-giveback"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a43567c70a6a",
+    "text": "return a product",
+    "senseIds": [
+      "return-giveback"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1e1e5721b475",
+    "text": "issue a refund",
+    "senseIds": [
+      "refund-money"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f2e4fbb39b83",
+    "text": "full refund",
+    "senseIds": [
+      "refund-money"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a164166c5853",
+    "text": "reimburse expenses",
+    "senseIds": [
+      "reimburse-repay"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-57b2d0aea14e",
+    "text": "reimburse someone for",
+    "senseIds": [
+      "reimburse-repay"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ba436fef8f34",
+    "text": "request a quotation",
+    "senseIds": [
+      "quotation-estimate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c047160a6bd1",
+    "text": "written quotation",
+    "senseIds": [
+      "quotation-estimate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-45cc5e4425ae",
+    "text": "address a concern",
+    "senseIds": [
+      "address-deal"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-192290662a18",
+    "text": "address an issue",
+    "senseIds": [
+      "address-deal"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-189a7eae82a3",
+    "text": "service charge",
+    "senseIds": [
+      "charge-fee"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8a0cb15d26de",
+    "text": "additional charge",
+    "senseIds": [
+      "charge-fee"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-47e9e0e62a6d",
+    "text": "charge a fee",
+    "senseIds": [
+      "charge-bill"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8311e330fb9c",
+    "text": "charge for",
+    "senseIds": [
+      "charge-bill"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ca71e4b79576",
+    "text": "subject to",
+    "senseIds": [
+      "subject-to-conditional"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b96ba2bf556d",
+    "text": "subject to approval",
+    "senseIds": [
+      "subject-to-conditional"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6dae8a904ec8",
+    "text": "subject to change",
+    "senseIds": [
+      "subject-to-conditional"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-416ea7053e92",
+    "text": "payment due",
+    "senseIds": [
+      "due-payable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-bb6d8277fade",
+    "text": "comply with regulations",
+    "senseIds": [
+      "comply-obey"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e41dd9e9bc18",
+    "text": "comply with requirements",
+    "senseIds": [
+      "comply-obey"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1d3fc5f91a8c",
+    "text": "contract provision",
+    "senseIds": [
+      "provision-clause"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f48a755f92c5",
+    "text": "under a provision",
+    "senseIds": [
+      "provision-clause"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-20ec977bd8da",
+    "text": "terminate a contract",
+    "senseIds": [
+      "terminate-end"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-04d266601c20",
+    "text": "terminate employment",
+    "senseIds": [
+      "terminate-end"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-67ab95810044",
+    "text": "renew a contract",
+    "senseIds": [
+      "renew-extend"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5cca9b639a1f",
+    "text": "renew a license",
+    "senseIds": [
+      "renew-extend"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a71e6b77ce19",
+    "text": "waive a fee",
+    "senseIds": [
+      "waive-giveup"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-61e14b6520aa",
+    "text": "waive a right",
+    "senseIds": [
+      "waive-giveup"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-04278847aca8",
+    "text": "liable for damages",
+    "senseIds": [
+      "liable-responsible"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6850162a5a2b",
+    "text": "legally liable",
+    "senseIds": [
+      "liable-responsible"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cfdc4e91fd64",
+    "text": "legally binding",
+    "senseIds": [
+      "binding-obligatory"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-473e8af28e0e",
+    "text": "binding agreement",
+    "senseIds": [
+      "binding-obligatory"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-79eeca8603ad",
+    "text": "amend a contract",
+    "senseIds": [
+      "amend-revise"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6c7d6c1f3e23",
+    "text": "amend a policy",
+    "senseIds": [
+      "amend-revise"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-fab2acf8c5b8",
+    "text": "breach of contract",
+    "senseIds": [
+      "breach-violation"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b35cc56381e4",
+    "text": "security breach",
+    "senseIds": [
+      "breach-violation"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-41e32bb9841a",
+    "text": "written consent",
+    "senseIds": [
+      "consent-permission"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-71d8c46d6c32",
+    "text": "prior consent",
+    "senseIds": [
+      "consent-permission"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b4f6f39ac7eb",
+    "text": "issue an invoice",
+    "senseIds": [
+      "invoice-bill"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-58abc7519dfe",
+    "text": "itemized invoice",
+    "senseIds": [
+      "invoice-bill"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-633dabf2b3eb",
+    "text": "annual revenue",
+    "senseIds": [
+      "revenue-income"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-7bee5cb1787b",
+    "text": "generate revenue",
+    "senseIds": [
+      "revenue-income"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2e75075e8707",
+    "text": "capital expenditure",
+    "senseIds": [
+      "expenditure-spending"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-fb5d277cc72e",
+    "text": "reduce expenditure",
+    "senseIds": [
+      "expenditure-spending"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3244adcbd3ba",
+    "text": "fixed assets",
+    "senseIds": [
+      "asset-property"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-38d7091a03c1",
+    "text": "valuable asset",
+    "senseIds": [
+      "asset-property"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-eb6a285038c9",
+    "text": "current liabilities",
+    "senseIds": [
+      "liability-debt"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-da71a1eb5b0d",
+    "text": "financial liability",
+    "senseIds": [
+      "liability-debt"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-577d968d0540",
+    "text": "conduct an audit",
+    "senseIds": [
+      "audit-examination"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-252c643e7425",
+    "text": "annual audit",
+    "senseIds": [
+      "audit-examination"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-23f5c3de90da",
+    "text": "budget surplus",
+    "senseIds": [
+      "surplus-excess"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8396df34e285",
+    "text": "surplus stock",
+    "senseIds": [
+      "surplus-excess"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3109a1241fcb",
+    "text": "budget deficit",
+    "senseIds": [
+      "deficit-shortfall"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f0c216563726",
+    "text": "reduce a deficit",
+    "senseIds": [
+      "deficit-shortfall"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c69ac9ac5ea8",
+    "text": "monthly installment",
+    "senseIds": [
+      "installment-payment"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1df4a4875470",
+    "text": "pay in installments",
+    "senseIds": [
+      "installment-payment"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-504d97d2e77f",
+    "text": "provide collateral",
+    "senseIds": [
+      "collateral-security"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ae9d6b1c9a3f",
+    "text": "use as collateral",
+    "senseIds": [
+      "collateral-security"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d27a29d1cf7e",
+    "text": "withdraw cash",
+    "senseIds": [
+      "withdraw-take"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b0db3b3e363b",
+    "text": "withdraw funds",
+    "senseIds": [
+      "withdraw-take"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c6699514fa6f",
+    "text": "transfer funds",
+    "senseIds": [
+      "transfer-move"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2c5d8e8fdff0",
+    "text": "bank transfer",
+    "senseIds": [
+      "transfer-move"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-96cc05001c2b",
+    "text": "account balance",
+    "senseIds": [
+      "balance-remainder"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1645af46bd8b",
+    "text": "remaining balance",
+    "senseIds": [
+      "balance-remainder"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-483a0ead9850",
+    "text": "remittance advice",
+    "senseIds": [
+      "remittance-payment"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-bb37e8526836",
+    "text": "overseas remittance",
+    "senseIds": [
+      "remittance-payment"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1b2f5d23a1ab",
+    "text": "overdue payment",
+    "senseIds": [
+      "overdue-late"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5f2213e6f7b2",
+    "text": "overdue invoice",
+    "senseIds": [
+      "overdue-late"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1774413e7939",
+    "text": "job applicant",
+    "senseIds": [
+      "applicant-candidate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-277b965e1cff",
+    "text": "qualified applicant",
+    "senseIds": [
+      "applicant-candidate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-293722f297ef",
+    "text": "recruit staff",
+    "senseIds": [
+      "recruit-hire"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9e9fbb7ec5b9",
+    "text": "recruit employees",
+    "senseIds": [
+      "recruit-hire"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8f3f633a836b",
+    "text": "fill a vacancy",
+    "senseIds": [
+      "vacancy-opening"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e2c042efadd2",
+    "text": "job vacancy",
+    "senseIds": [
+      "vacancy-opening"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-27d373f68c31",
+    "text": "probation period",
+    "senseIds": [
+      "probation-trial"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a5a86af896ee",
+    "text": "on probation",
+    "senseIds": [
+      "probation-trial"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f6394f1b39b3",
+    "text": "during one's tenure",
+    "senseIds": [
+      "tenure-service"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e2ddd20b1722",
+    "text": "long tenure",
+    "senseIds": [
+      "tenure-service"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b8024113e993",
+    "text": "resign from",
+    "senseIds": [
+      "resign-leave"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f50232102a01",
+    "text": "resign as",
+    "senseIds": [
+      "resign-leave"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0b58fceb7286",
+    "text": "eligible for",
+    "senseIds": [
+      "eligible-qualified"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9bdfb707ec43",
+    "text": "eligible to apply",
+    "senseIds": [
+      "eligible-qualified"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0c15d0cbbb3f",
+    "text": "compensation package",
+    "senseIds": [
+      "compensation-pay"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-30212d26944c",
+    "text": "receive compensation",
+    "senseIds": [
+      "compensation-pay"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e62d252b8f5c",
+    "text": "performance appraisal",
+    "senseIds": [
+      "appraisal-evaluation"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ae80db21182b",
+    "text": "annual appraisal",
+    "senseIds": [
+      "appraisal-evaluation"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2247effda1e8",
+    "text": "mandatory training",
+    "senseIds": [
+      "mandatory-required"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a3f5c79625e4",
+    "text": "mandatory attendance",
+    "senseIds": [
+      "mandatory-required"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-57e6307ea35b",
+    "text": "circulate a memo",
+    "senseIds": [
+      "circulate-distribute"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b8af629f85eb",
+    "text": "circulate information",
+    "senseIds": [
+      "circulate-distribute"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5725d20f0ad2",
+    "text": "meeting agenda",
+    "senseIds": [
+      "agenda-topics"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3712e53cb60f",
+    "text": "on the agenda",
+    "senseIds": [
+      "agenda-topics"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-54c553e1407f",
+    "text": "meeting minutes",
+    "senseIds": [
+      "minutes-record"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e75e93bc82b6",
+    "text": "take minutes",
+    "senseIds": [
+      "minutes-record"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5259f2b55841",
+    "text": "delegate responsibility",
+    "senseIds": [
+      "delegate-assign"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-39a116471ebc",
+    "text": "delegate tasks",
+    "senseIds": [
+      "delegate-assign"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0366b778ab08",
+    "text": "confidential information",
+    "senseIds": [
+      "confidential-private"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-058c47b581ab",
+    "text": "strictly confidential",
+    "senseIds": [
+      "confidential-private"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f645c401aa09",
+    "text": "adhere to guidelines",
+    "senseIds": [
+      "adhere-follow"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-414f215373e9",
+    "text": "adhere to a schedule",
+    "senseIds": [
+      "adhere-follow"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-71e9b4f8f91e",
+    "text": "prompt response",
+    "senseIds": [
+      "prompt-quick"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-913320cd58e8",
+    "text": "prompt payment",
+    "senseIds": [
+      "prompt-quick"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d41d84dfe1e6",
+    "text": "resolve an issue",
+    "senseIds": [
+      "resolve-solve",
+      "issue-problem"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6b4c074124db",
+    "text": "resolve a complaint",
+    "senseIds": [
+      "resolve-solve"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-7615229a1b79",
+    "text": "assure a customer",
+    "senseIds": [
+      "assure-reassure"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a8ed43a36015",
+    "text": "assure someone that",
+    "senseIds": [
+      "assure-reassure"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2213263d3803",
+    "text": "ensure safety",
+    "senseIds": [
+      "ensure-makecertain"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5b815405b0f1",
+    "text": "ensure compliance",
+    "senseIds": [
+      "ensure-makecertain"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c0b0b3c48d86",
+    "text": "complimentary breakfast",
+    "senseIds": [
+      "complimentary-free"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2ec02d9ba346",
+    "text": "complimentary ticket",
+    "senseIds": [
+      "complimentary-free"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3cb193508884",
+    "text": "file a complaint",
+    "senseIds": [
+      "complaint-grievance"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-677d36bbc2b5",
+    "text": "handle complaints",
+    "senseIds": [
+      "complaint-grievance"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-aea428b7e2f1",
+    "text": "under warranty",
+    "senseIds": [
+      "warranty-guarantee"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cbeff3cf20a8",
+    "text": "extended warranty",
+    "senseIds": [
+      "warranty-guarantee"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-dc6b9eb1ff98",
+    "text": "redeem a voucher",
+    "senseIds": [
+      "redeem-exchange"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6d56a64db402",
+    "text": "redeem points",
+    "senseIds": [
+      "redeem-exchange"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-50b10ec7ede5",
+    "text": "accommodate a request",
+    "senseIds": [
+      "accommodate-meet"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-60e9c5004cad",
+    "text": "accommodate guests",
+    "senseIds": [
+      "accommodate-meet"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c7e18217bfdf",
+    "text": "track a shipment",
+    "senseIds": [
+      "shipment-goods"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-af44ea33f8d0",
+    "text": "partial shipment",
+    "senseIds": [
+      "shipment-goods"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3dd7faef1d7f",
+    "text": "consignment note",
+    "senseIds": [
+      "consignment-goods"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-553781617eb8",
+    "text": "on consignment",
+    "senseIds": [
+      "consignment-goods"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b8496a6e31c8",
+    "text": "freight charges",
+    "senseIds": [
+      "freight-cargo"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-85d0da38527e",
+    "text": "air freight",
+    "senseIds": [
+      "freight-cargo"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3a5f140c8d11",
+    "text": "customs clearance",
+    "senseIds": [
+      "customs-border"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a4b64f2b9532",
+    "text": "customs declaration",
+    "senseIds": [
+      "customs-border"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-da961b68487a",
+    "text": "warehouse capacity",
+    "senseIds": [
+      "warehouse-storage"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e8c42a478ad9",
+    "text": "warehouse staff",
+    "senseIds": [
+      "warehouse-storage"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-59fd35c810e7",
+    "text": "inventory levels",
+    "senseIds": [
+      "inventory-stock"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-544eba3a3de5",
+    "text": "take inventory",
+    "senseIds": [
+      "inventory-stock"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-fa5399951b0b",
+    "text": "approved vendor",
+    "senseIds": [
+      "vendor-seller"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-067191ac0bf4",
+    "text": "vendor agreement",
+    "senseIds": [
+      "vendor-seller"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-fdb2611ba32f",
+    "text": "submit a bid",
+    "senseIds": [
+      "bid-offer"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5066574818c7",
+    "text": "competitive bid",
+    "senseIds": [
+      "bid-offer"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a59d44d5e56e",
+    "text": "technical specifications",
+    "senseIds": [
+      "specification-requirement"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-12ae209a6552",
+    "text": "meet specifications",
+    "senseIds": [
+      "specification-requirement"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2f67d75c54d4",
+    "text": "in bulk",
+    "senseIds": [
+      "bulk-largequantity"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-743a6b282667",
+    "text": "bulk order",
+    "senseIds": [
+      "bulk-largequantity"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d1612000b7b3",
+    "text": "on backorder",
+    "senseIds": [
+      "backorder-unfilled"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-28713b534eaf",
+    "text": "fill a backorder",
+    "senseIds": [
+      "backorder-unfilled"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-be55d229d146",
+    "text": "manufacturing defect",
+    "senseIds": [
+      "defect-fault"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1a1b3ddaebe2",
+    "text": "detect a defect",
+    "senseIds": [
+      "defect-fault"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-08ff5c352ac4",
+    "text": "recall a product",
+    "senseIds": [
+      "recall-withdraw"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-da0bc2c27fa2",
+    "text": "recall defective units",
+    "senseIds": [
+      "recall-withdraw"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d67485970e59",
+    "text": "recall a detail",
+    "senseIds": [
+      "recall-remember"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9defa4415e14",
+    "text": "recall a conversation",
+    "senseIds": [
+      "recall-remember"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-84071ea1789d",
+    "text": "assemble components",
+    "senseIds": [
+      "assemble-puttogether"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-53418c2cb8b4",
+    "text": "assemble a product",
+    "senseIds": [
+      "assemble-puttogether"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8e8d0be45355",
+    "text": "inspect equipment",
+    "senseIds": [
+      "inspect-examine"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-055e957b3c72",
+    "text": "inspect for damage",
+    "senseIds": [
+      "inspect-examine"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1007180a7102",
+    "text": "production capacity",
+    "senseIds": [
+      "capacity-maximum"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-716f4d17903c",
+    "text": "at full capacity",
+    "senseIds": [
+      "capacity-maximum"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-55a1334a3dc7",
+    "text": "routine maintenance",
+    "senseIds": [
+      "maintenance-upkeep"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-631a56a01b04",
+    "text": "scheduled maintenance",
+    "senseIds": [
+      "maintenance-upkeep"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4b23e582b80b",
+    "text": "on the premises",
+    "senseIds": [
+      "premises-property"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3fea1eb18101",
+    "text": "leave the premises",
+    "senseIds": [
+      "premises-property"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cfc0f353b3c2",
+    "text": "sign a lease",
+    "senseIds": [
+      "lease-rental"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0b9517aa11c3",
+    "text": "lease agreement",
+    "senseIds": [
+      "lease-rental"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3fc8022c6bd6",
+    "text": "renovate a building",
+    "senseIds": [
+      "renovate-improve"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-16b5cf94af92",
+    "text": "newly renovated",
+    "senseIds": [
+      "renovate-improve"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cc5d7712de0d",
+    "text": "commercial tenant",
+    "senseIds": [
+      "tenant-renter"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-313f2cfe2e2c",
+    "text": "tenant agreement",
+    "senseIds": [
+      "tenant-renter"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8200d4db2c54",
+    "text": "utility bill",
+    "senseIds": [
+      "utility-service"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cc472690c9d7",
+    "text": "utility costs",
+    "senseIds": [
+      "utility-service"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4fd5855f038d",
+    "text": "occupancy rate",
+    "senseIds": [
+      "occupancy-use"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0959b49dc053",
+    "text": "ready for occupancy",
+    "senseIds": [
+      "occupancy-use"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e9204ae3c487",
+    "text": "travel itinerary",
+    "senseIds": [
+      "itinerary-plan"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-22b2541a70eb",
+    "text": "revised itinerary",
+    "senseIds": [
+      "itinerary-plan"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4be5285e53d3",
+    "text": "round-trip fare",
+    "senseIds": [
+      "fare-price"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ceaf8d8dfc71",
+    "text": "reduced fare",
+    "senseIds": [
+      "fare-price"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-54d9a0ccce8f",
+    "text": "commute to work",
+    "senseIds": [
+      "commute-travel"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2271a3f615bd",
+    "text": "commute by train",
+    "senseIds": [
+      "commute-travel"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-bbdc5ff1d153",
+    "text": "take a detour",
+    "senseIds": [
+      "detour-alternative"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b30bfebd4b46",
+    "text": "follow a detour",
+    "senseIds": [
+      "detour-alternative"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e2a24464eb9b",
+    "text": "valid ticket",
+    "senseIds": [
+      "valid-usable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-de8d9e862ec6",
+    "text": "valid for",
+    "senseIds": [
+      "valid-usable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a3cfd09d8afb",
+    "text": "boarding pass",
+    "senseIds": [
+      "boarding-entering"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-02f07e42d768",
+    "text": "boarding gate",
+    "senseIds": [
+      "boarding-entering"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-49fbe1b967e5",
+    "text": "short layover",
+    "senseIds": [
+      "layover-stop"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-addbfcc2712f",
+    "text": "overnight layover",
+    "senseIds": [
+      "layover-stop"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d8270de8c3c1",
+    "text": "hotel amenities",
+    "senseIds": [
+      "amenity-facility"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d26f5c9927ba",
+    "text": "modern amenities",
+    "senseIds": [
+      "amenity-facility"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3c35e04b84d8",
+    "text": "confirm a reservation",
+    "senseIds": [
+      "reservation-booking"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2c0854fa48c7",
+    "text": "make a reservation",
+    "senseIds": [
+      "reservation-booking"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9519984ade63",
+    "text": "no vacancies",
+    "senseIds": [
+      "vacancy-room"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-780cbeacd248",
+    "text": "room vacancy",
+    "senseIds": [
+      "vacancy-room"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5f27963285ff",
+    "text": "concierge desk",
+    "senseIds": [
+      "concierge-assistant"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3734d54f0747",
+    "text": "concierge service",
+    "senseIds": [
+      "concierge-assistant"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5367c0a1eca2",
+    "text": "conference venue",
+    "senseIds": [
+      "venue-place"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-17aa8774ac5c",
+    "text": "change of venue",
+    "senseIds": [
+      "venue-place"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-7d29aebdb7bc",
+    "text": "registration fee",
+    "senseIds": [
+      "registration-enrollment"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cb0fa86d68cf",
+    "text": "advance registration",
+    "senseIds": [
+      "registration-enrollment"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5ebc4f8ee823",
+    "text": "course prerequisite",
+    "senseIds": [
+      "prerequisite-requirement"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a9c36c52887b",
+    "text": "prerequisite for",
+    "senseIds": [
+      "prerequisite-requirement"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d4c76a781bbc",
+    "text": "conference attendee",
+    "senseIds": [
+      "attendee-participant"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-eca7e393822f",
+    "text": "registered attendee",
+    "senseIds": [
+      "attendee-participant"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ea6ad361388d",
+    "text": "compatible with",
+    "senseIds": [
+      "compatible-workswith"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9a2062cebdda",
+    "text": "fully compatible",
+    "senseIds": [
+      "compatible-workswith"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cc31e3f75904",
+    "text": "annual subscription",
+    "senseIds": [
+      "subscription-service"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2af6c95e7b69",
+    "text": "renew a subscription",
+    "senseIds": [
+      "subscription-service"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9243089117ad",
+    "text": "power outage",
+    "senseIds": [
+      "outage-interruption"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f1c0eca380e2",
+    "text": "network outage",
+    "senseIds": [
+      "outage-interruption"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-397822111dfa",
+    "text": "retrieve a file",
+    "senseIds": [
+      "retrieve-getback"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-97a2a5e27c5d",
+    "text": "retrieve data",
+    "senseIds": [
+      "retrieve-getback"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-fc2161b962bd",
+    "text": "deploy software",
+    "senseIds": [
+      "deploy-install"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6e4735300233",
+    "text": "deploy an update",
+    "senseIds": [
+      "deploy-install"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6781a67fa316",
+    "text": "login credentials",
+    "senseIds": [
+      "credential-proof"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-371117ff0030",
+    "text": "verify credentials",
+    "senseIds": [
+      "credential-proof"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5fd7550f908a",
+    "text": "create a backup",
+    "senseIds": [
+      "backup-copy"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-68459379bb90",
+    "text": "restore a backup",
+    "senseIds": [
+      "backup-copy"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8e136a4e19f6",
+    "text": "insurance coverage",
+    "senseIds": [
+      "coverage-insurance"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4d20c244ac94",
+    "text": "extend coverage",
+    "senseIds": [
+      "coverage-insurance"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a379a287afc6",
+    "text": "employee benefits",
+    "senseIds": [
+      "benefit-advantage"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-aecb2e38f2e8",
+    "text": "health benefits",
+    "senseIds": [
+      "benefit-advantage"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2bf9ca23790c",
+    "text": "fill a prescription",
+    "senseIds": [
+      "prescription-medicine"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-94fa54263a4e",
+    "text": "valid prescription",
+    "senseIds": [
+      "prescription-medicine"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b08319645c7f",
+    "text": "launch a product",
+    "senseIds": [
+      "launch-introduce"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4d2a3513bc97",
+    "text": "launch a campaign",
+    "senseIds": [
+      "launch-introduce"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a17112e4e56f",
+    "text": "endorse a product",
+    "senseIds": [
+      "endorse-support"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-63cf5ac49518",
+    "text": "endorse a proposal",
+    "senseIds": [
+      "endorse-support"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c126ec92d6d9",
+    "text": "growth prospects",
+    "senseIds": [
+      "prospect-possibility"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-fd4778329f5d",
+    "text": "future prospects",
+    "senseIds": [
+      "prospect-possibility"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-544f977ab194",
+    "text": "forecast demand",
+    "senseIds": [
+      "forecast-predict"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d1d7feb4f424",
+    "text": "forecast growth",
+    "senseIds": [
+      "forecast-predict"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-05e5c9a8c4ea",
+    "text": "merge with",
+    "senseIds": [
+      "merge-combine"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4618786867a7",
+    "text": "merge operations",
+    "senseIds": [
+      "merge-combine"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a40511bc8db3",
+    "text": "company acquisition",
+    "senseIds": [
+      "acquisition-purchase"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ef244d469db8",
+    "text": "complete an acquisition",
+    "senseIds": [
+      "acquisition-purchase"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-fc8af00ce63f",
+    "text": "wholly owned subsidiary",
+    "senseIds": [
+      "subsidiary-company"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-569419379e95",
+    "text": "overseas subsidiary",
+    "senseIds": [
+      "subsidiary-company"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-da725f0bad2b",
+    "text": "pledge support",
+    "senseIds": [
+      "pledge-promise"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-294b80f3fbb0",
+    "text": "pledge to reduce",
+    "senseIds": [
+      "pledge-promise"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-850419141cad",
+    "text": "substantial increase",
+    "senseIds": [
+      "substantial-large"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-411a92cb5665",
+    "text": "substantial savings",
+    "senseIds": [
+      "substantial-large"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c167054a9aba",
+    "text": "unless otherwise stated",
+    "senseIds": [
+      "otherwise-alternative"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0ffa595f4d5b",
+    "text": "otherwise required",
+    "senseIds": [
+      "otherwise-alternative"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e8a676ae68fd",
+    "text": "provided that",
+    "senseIds": [
+      "provided-that-condition"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2a9b12a8ecdc",
+    "text": "provided that payment is received",
+    "senseIds": [
+      "provided-that-condition"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0a55339e38ae",
+    "text": "regardless of",
+    "senseIds": [
+      "regardless-of-irrespective"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ede10ea1cdf6",
+    "text": "regardless of size",
+    "senseIds": [
+      "regardless-of-irrespective"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3d3af88bee23",
+    "text": "regardless of experience",
+    "senseIds": [
+      "regardless-of-irrespective"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-47f659004a50",
+    "text": "in lieu of",
+    "senseIds": [
+      "in-lieu-of-instead"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1e1c644dd139",
+    "text": "in lieu of payment",
+    "senseIds": [
+      "in-lieu-of-instead"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e0a60272e6b7",
+    "text": "in lieu of cash",
+    "senseIds": [
+      "in-lieu-of-instead"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3082878b2295",
+    "text": "on behalf of",
+    "senseIds": [
+      "on-behalf-of-represent"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-976e9d4c704b",
+    "text": "on behalf of the team",
+    "senseIds": [
+      "on-behalf-of-represent"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8f5652fc4f76",
+    "text": "on behalf of a client",
+    "senseIds": [
+      "on-behalf-of-represent"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cbd9e401508a",
+    "text": "in accordance with",
+    "senseIds": [
+      "in-accordance-with-conform"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-014fc292f348",
+    "text": "in accordance with policy",
+    "senseIds": [
+      "in-accordance-with-conform"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5641bbc86f13",
+    "text": "in accordance with the agreement",
+    "senseIds": [
+      "in-accordance-with-conform"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-73fa4b1e312d",
+    "text": "as of",
+    "senseIds": [
+      "as-of-starting"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3297c0cabb2d",
+    "text": "as of today",
+    "senseIds": [
+      "as-of-starting"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-381b8e7e8565",
+    "text": "as of next month",
+    "senseIds": [
+      "as-of-starting"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a6b616eb63be",
+    "text": "pending approval",
+    "senseIds": [
+      "pending-awaiting"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c785cea28bbc",
+    "text": "pending investigation",
+    "senseIds": [
+      "pending-awaiting"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-71e28e86ee3c",
+    "text": "account for",
+    "senseIds": [
+      "account-for-explain",
+      "account-for-proportion"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-03208617c95d",
+    "text": "account for a difference",
+    "senseIds": [
+      "account-for-explain"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1c650281727a",
+    "text": "account for a delay",
+    "senseIds": [
+      "account-for-explain"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-05bf526817c0",
+    "text": "account for sales",
+    "senseIds": [
+      "account-for-proportion"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6df8f0a77ab3",
+    "text": "account for a share",
+    "senseIds": [
+      "account-for-proportion"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1bb35b0ac346",
+    "text": "annual turnover",
+    "senseIds": [
+      "turnover-revenue"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3a223cc86bdb",
+    "text": "total turnover",
+    "senseIds": [
+      "turnover-revenue"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2bc724fcea63",
+    "text": "staff turnover",
+    "senseIds": [
+      "turnover-staff"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-eaeeacfde74c",
+    "text": "reduce turnover",
+    "senseIds": [
+      "turnover-staff"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-18286194a65d",
+    "text": "technical issue",
+    "senseIds": [
+      "issue-problem"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a776982e3db2",
+    "text": "issue a permit",
+    "senseIds": [
+      "issue-provide"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-739f5f716ecb",
+    "text": "issue a ticket",
+    "senseIds": [
+      "issue-provide"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8b90906a4c48",
+    "text": "meet a deadline",
+    "senseIds": [
+      "meet-satisfy"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3f86df606f0b",
+    "text": "meet requirements",
+    "senseIds": [
+      "meet-satisfy"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-96e7b9766a0e",
+    "text": "fee waiver",
+    "senseIds": [
+      "waiver-exemption"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e5d4a3818e8b",
+    "text": "sign a waiver",
+    "senseIds": [
+      "waiver-exemption"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5b362b101ece",
+    "text": "launch an initiative",
+    "senseIds": [
+      "initiative-plan"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-aabb2feb1b73",
+    "text": "environmental initiative",
+    "senseIds": [
+      "initiative-plan"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f5695f2ba6a1",
+    "text": "sustainable growth",
+    "senseIds": [
+      "sustainable-lasting"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f03513373c4d",
+    "text": "sustainable practices",
+    "senseIds": [
+      "sustainable-lasting"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d82d610f0042",
+    "text": "prices fluctuate",
+    "senseIds": [
+      "fluctuate-vary"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-dbe51e266878",
+    "text": "fluctuate widely",
+    "senseIds": [
+      "fluctuate-vary"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4cf661bfab5e",
+    "text": "lucrative market",
+    "senseIds": [
+      "lucrative-profitable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2a441c08859c",
+    "text": "lucrative contract",
+    "senseIds": [
+      "lucrative-profitable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5796eeec5f98",
+    "text": "feasible solution",
+    "senseIds": [
+      "feasible-possible"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0658a1e22f6b",
+    "text": "financially feasible",
+    "senseIds": [
+      "feasible-possible"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d92fb38ad0ca",
+    "text": "viable alternative",
+    "senseIds": [
+      "viable-workable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9ecc9bc1dece",
+    "text": "commercially viable",
+    "senseIds": [
+      "viable-workable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c265d3b38bd7",
+    "text": "comprehensive review",
+    "senseIds": [
+      "comprehensive-complete"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e9410e58c6aa",
+    "text": "comprehensive guide",
+    "senseIds": [
+      "comprehensive-complete"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-531c3fddc4b5",
+    "text": "consecutive months",
+    "senseIds": [
+      "consecutive-successive"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0040028af8d2",
+    "text": "three consecutive years",
+    "senseIds": [
+      "consecutive-successive"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d8d4da3dc749",
+    "text": "respective departments",
+    "senseIds": [
+      "respective-individual"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8179c60f0d96",
+    "text": "respective roles",
+    "senseIds": [
+      "respective-individual"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ea725731f854",
+    "text": "listed respectively",
+    "senseIds": [
+      "respectively-inorder"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-50924a5f18d6",
+    "text": "priced respectively",
+    "senseIds": [
+      "respectively-inorder"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5c8cac9dc6ce",
+    "text": "considerable effort",
+    "senseIds": [
+      "considerable-large"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8e664f6923a7",
+    "text": "considerable savings",
+    "senseIds": [
+      "considerable-large"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d364a961448f",
+    "text": "considerate of others",
+    "senseIds": [
+      "considerate-thoughtful"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9251bc7950a3",
+    "text": "considerate behavior",
+    "senseIds": [
+      "considerate-thoughtful"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-72e6062bc9ec",
+    "text": "pertinent information",
+    "senseIds": [
+      "pertinent-relevant"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-588e226a0709",
+    "text": "pertinent to",
+    "senseIds": [
+      "pertinent-relevant"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-956439bbda46",
+    "text": "subsequent order",
+    "senseIds": [
+      "subsequent-later"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-effdcaa99a6f",
+    "text": "subsequent changes",
+    "senseIds": [
+      "subsequent-later"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e5f7c7332a00",
+    "text": "prior experience",
+    "senseIds": [
+      "prior-previous"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-13477d6287de",
+    "text": "prior approval",
+    "senseIds": [
+      "prior-previous"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-88e78cd82d98",
+    "text": "solely responsible",
+    "senseIds": [
+      "solely-only"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9800731ac244",
+    "text": "solely for",
+    "senseIds": [
+      "solely-only"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9e089a84b174",
+    "text": "respond promptly",
+    "senseIds": [
+      "promptly-quickly"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5edee5161975",
+    "text": "pay promptly",
+    "senseIds": [
+      "promptly-quickly"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3bc49cb42382",
+    "text": "adjacent to",
+    "senseIds": [
+      "adjacent-neighboring"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9d6005a69730",
+    "text": "adjacent building",
+    "senseIds": [
+      "adjacent-neighboring"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-55216adc7082",
+    "text": "accessible entrance",
+    "senseIds": [
+      "accessible-reachable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8346da81bab6",
+    "text": "easily accessible",
+    "senseIds": [
+      "accessible-reachable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-85a00a22e20f",
+    "text": "prohibit smoking",
+    "senseIds": [
+      "prohibit-forbid"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0c10b05ce428",
+    "text": "prohibit access",
+    "senseIds": [
+      "prohibit-forbid"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c5ce49da5d6a",
+    "text": "restrict access",
+    "senseIds": [
+      "restrict-limit"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5d50d2c88047",
+    "text": "restrict use",
+    "senseIds": [
+      "restrict-limit"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3009b7403c52",
+    "text": "verify identity",
+    "senseIds": [
+      "verify-check"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2512df4afb45",
+    "text": "verify information",
+    "senseIds": [
+      "verify-check"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-724b4026a425",
+    "text": "authorize a payment",
+    "senseIds": [
+      "authorize-permit"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5a9f701c4ed3",
+    "text": "authorized personnel",
+    "senseIds": [
+      "authorize-permit"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-908d44964a39",
+    "text": "payroll department",
+    "senseIds": [
+      "payroll-wages"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-badc984ffb1e",
+    "text": "on the payroll",
+    "senseIds": [
+      "payroll-wages"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-48e7e5f31fbe",
+    "text": "severance pay",
+    "senseIds": [
+      "severance-termination"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ca4f6240a79a",
+    "text": "severance package",
+    "senseIds": [
+      "severance-termination"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-21dec7e7029c",
+    "text": "medical referral",
+    "senseIds": [
+      "referral-recommendation"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3c7e3bf3c4a2",
+    "text": "employee referral",
+    "senseIds": [
+      "referral-recommendation"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4c372342fc9a",
+    "text": "annual deductible",
+    "senseIds": [
+      "deductible-threshold"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-528d915168f9",
+    "text": "meet a deductible",
+    "senseIds": [
+      "deductible-threshold"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-dddcc20a33b8",
+    "text": "insurance premium",
+    "senseIds": [
+      "premium-payment"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-34694a3a64b3",
+    "text": "monthly premium",
+    "senseIds": [
+      "premium-payment"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-88621c65bfeb",
+    "text": "preventive care",
+    "senseIds": [
+      "preventive-protective"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-31d7c60cbdc7",
+    "text": "preventive measures",
+    "senseIds": [
+      "preventive-protective"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-05e8d238e765",
+    "text": "wellness program",
+    "senseIds": [
+      "wellness-health"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-beb2cd104f7c",
+    "text": "wellness center",
+    "senseIds": [
+      "wellness-health"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-000bf99ac2e6",
+    "text": "make an appointment",
+    "senseIds": [
+      "appointment-meeting"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-85eeeaf00f39",
+    "text": "cancel an appointment",
+    "senseIds": [
+      "appointment-meeting"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d4ff32822c94",
+    "text": "refurbish an office",
+    "senseIds": [
+      "refurbish-renew"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-fa59c80e6fde",
+    "text": "refurbished equipment",
+    "senseIds": [
+      "refurbish-renew"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-bf41146e7685",
+    "text": "ventilation system",
+    "senseIds": [
+      "ventilation-airflow"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cf522405ebba",
+    "text": "adequate ventilation",
+    "senseIds": [
+      "ventilation-airflow"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-40f92d9224f8",
+    "text": "safety inspection",
+    "senseIds": [
+      "inspection-examination"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-628dd237ac8a",
+    "text": "final inspection",
+    "senseIds": [
+      "inspection-examination"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e5e2581301f9",
+    "text": "calibrate equipment",
+    "senseIds": [
+      "calibrate-adjust"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0b6ee9128a24",
+    "text": "calibrate a sensor",
+    "senseIds": [
+      "calibrate-adjust"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5ba6a42e019e",
+    "text": "within tolerance",
+    "senseIds": [
+      "tolerance-allowance"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-89ee345376f8",
+    "text": "manufacturing tolerance",
+    "senseIds": [
+      "tolerance-allowance"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8f81754ad34c",
+    "text": "durable materials",
+    "senseIds": [
+      "durable-lasting"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-efbdac1e4190",
+    "text": "durable goods",
+    "senseIds": [
+      "durable-lasting"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4ae63f4ad19c",
+    "text": "obsolete equipment",
+    "senseIds": [
+      "obsolete-outdated"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-41d982b97577",
+    "text": "become obsolete",
+    "senseIds": [
+      "obsolete-outdated"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-7fcf1cee8832",
+    "text": "configure a device",
+    "senseIds": [
+      "configure-setup"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a19a348eefba",
+    "text": "configure settings",
+    "senseIds": [
+      "configure-setup"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c76e756dadb6",
+    "text": "troubleshoot a problem",
+    "senseIds": [
+      "troubleshoot-diagnose"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9c55dfd5843e",
+    "text": "troubleshoot equipment",
+    "senseIds": [
+      "troubleshoot-diagnose"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d05389631303",
+    "text": "email attachment",
+    "senseIds": [
+      "attachment-file"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3eb04681c431",
+    "text": "open an attachment",
+    "senseIds": [
+      "attachment-file"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-e153e0bf8784",
+    "text": "business correspondence",
+    "senseIds": [
+      "correspondence-letters"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1521354c00f0",
+    "text": "written correspondence",
+    "senseIds": [
+      "correspondence-letters"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3f9b877fc551",
+    "text": "acknowledge a contribution",
+    "senseIds": [
+      "acknowledge-confirm"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0f2494ba5b79",
+    "text": "enclose a check",
+    "senseIds": [
+      "enclose-include"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b14448f5ec5e",
+    "text": "enclosed documents",
+    "senseIds": [
+      "enclose-include"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-670dec08abf2",
+    "text": "clarify a point",
+    "senseIds": [
+      "clarify-explain"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1e52fe4a5dbd",
+    "text": "clarify requirements",
+    "senseIds": [
+      "clarify-explain"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-778966a48087",
+    "text": "promotional offer",
+    "senseIds": [
+      "promotional-advertising"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6eb285808fec",
+    "text": "promotional materials",
+    "senseIds": [
+      "promotional-advertising"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-312b0913c479",
+    "text": "redeemable for",
+    "senseIds": [
+      "redeemable-exchangeable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6a68970a8bd4",
+    "text": "redeemable at",
+    "senseIds": [
+      "redeemable-exchangeable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ee35d22acf98",
+    "text": "customer loyalty",
+    "senseIds": [
+      "loyalty-faithfulness"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-43322f7d49d3",
+    "text": "loyalty program",
+    "senseIds": [
+      "loyalty-faithfulness"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6c7dad266db5",
+    "text": "display merchandise",
+    "senseIds": [
+      "merchandise-goods"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c4c7e7c1c21b",
+    "text": "return merchandise",
+    "senseIds": [
+      "merchandise-goods"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ba6bd4210166",
+    "text": "retail price",
+    "senseIds": [
+      "retail-selling"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cd04c84206c4",
+    "text": "retail outlet",
+    "senseIds": [
+      "retail-selling"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-dd0274793f68",
+    "text": "in advance",
+    "senseIds": [
+      "in-advance-beforehand"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-77ae4eb3cd20",
+    "text": "book in advance",
+    "senseIds": [
+      "in-advance-beforehand"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-de36577654db",
+    "text": "pay in advance",
+    "senseIds": [
+      "in-advance-beforehand"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-7396636f2467",
+    "text": "at your earliest convenience",
+    "senseIds": [
+      "at-your-earliest-convenience-soon"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-28451ca87e09",
+    "text": "reply at your earliest convenience",
+    "senseIds": [
+      "at-your-earliest-convenience-soon"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-19e11c0c07fe",
+    "text": "contact us at your earliest convenience",
+    "senseIds": [
+      "at-your-earliest-convenience-soon"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-add13cce193e",
+    "text": "in light of",
+    "senseIds": [
+      "in-light-of-considering"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5c5b4fb02de9",
+    "text": "in light of recent events",
+    "senseIds": [
+      "in-light-of-considering"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ca895858ad53",
+    "text": "in light of the findings",
+    "senseIds": [
+      "in-light-of-considering"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-883846e3ccb2",
+    "text": "with regard to",
+    "senseIds": [
+      "with-regard-to-concerning"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-91f131c213a6",
+    "text": "with regard to your request",
+    "senseIds": [
+      "with-regard-to-concerning"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-4da06b0b51fa",
+    "text": "with regard to payment",
+    "senseIds": [
+      "with-regard-to-concerning"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-922a4edb6ccf",
+    "text": "in the event of",
+    "senseIds": [
+      "in-the-event-of-if"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1f28da3bc98f",
+    "text": "in the event of a delay",
+    "senseIds": [
+      "in-the-event-of-if"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-cd493894356c",
+    "text": "in the event of an emergency",
+    "senseIds": [
+      "in-the-event-of-if"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ceb172a6171a",
+    "text": "as opposed to",
+    "senseIds": [
+      "as-opposed-to-contrast"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d0e8fd74fedc",
+    "text": "as opposed to cash",
+    "senseIds": [
+      "as-opposed-to-contrast"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-10eee6b2dae5",
+    "text": "as opposed to last year",
+    "senseIds": [
+      "as-opposed-to-contrast"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a4aef4dacd87",
+    "text": "no later than",
+    "senseIds": [
+      "no-later-than-deadline"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-56eaa3a70466",
+    "text": "no later than friday",
+    "senseIds": [
+      "no-later-than-deadline"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2a75f96f1060",
+    "text": "no later than noon",
+    "senseIds": [
+      "no-later-than-deadline"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-8afa2ae44937",
+    "text": "be entitled to",
+    "senseIds": [
+      "be-entitled-to-right"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-faf4dbfe9f65",
+    "text": "be entitled to leave",
+    "senseIds": [
+      "be-entitled-to-right"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-fc5b3d9d004d",
+    "text": "be entitled to a refund",
+    "senseIds": [
+      "be-entitled-to-right"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0e2c00134806",
+    "text": "follow up on",
+    "senseIds": [
+      "follow-up-on-check"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-694e77b1482f",
+    "text": "follow up on an inquiry",
+    "senseIds": [
+      "follow-up-on-check"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-68dc53da22c4",
+    "text": "follow up on a request",
+    "senseIds": [
+      "follow-up-on-check"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b1425b245cf9",
+    "text": "put off",
+    "senseIds": [
+      "put-off-postpone"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-dff9980341f6",
+    "text": "put off a meeting",
+    "senseIds": [
+      "put-off-postpone"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2b063bb289be",
+    "text": "put off a decision",
+    "senseIds": [
+      "put-off-postpone"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1d1e75bbb4b9",
+    "text": "carry out",
+    "senseIds": [
+      "carry-out-perform"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-bba810cb20af",
+    "text": "carry out an inspection",
+    "senseIds": [
+      "carry-out-perform"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-0dd7e3aa5444",
+    "text": "carry out repairs",
+    "senseIds": [
+      "carry-out-perform"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-983a768ebda5",
+    "text": "phase out",
+    "senseIds": [
+      "phase-out-discontinue"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-73233a1d2154",
+    "text": "phase out a product",
+    "senseIds": [
+      "phase-out-discontinue"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5840fd82a3bb",
+    "text": "phase out older models",
+    "senseIds": [
+      "phase-out-discontinue"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ebd442e9547a",
+    "text": "run out of",
+    "senseIds": [
+      "run-out-of-deplete"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-74cb096e1b20",
+    "text": "run out of supplies",
+    "senseIds": [
+      "run-out-of-deplete"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-62e5edda860a",
+    "text": "run out of stock",
+    "senseIds": [
+      "run-out-of-deplete"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-448140026871",
+    "text": "look into",
+    "senseIds": [
+      "look-into-investigate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1283d9fe2d2c",
+    "text": "look into a complaint",
+    "senseIds": [
+      "look-into-investigate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-a74c8b012ad5",
+    "text": "look into a matter",
+    "senseIds": [
+      "look-into-investigate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-662797b75bbf",
+    "text": "make up for",
+    "senseIds": [
+      "make-up-for-compensate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-ecbbd7b78d17",
+    "text": "make up for a delay",
+    "senseIds": [
+      "make-up-for-compensate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-72f8da449ec5",
+    "text": "make up for lost time",
+    "senseIds": [
+      "make-up-for-compensate"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-543cfdf69a96",
+    "text": "on short notice",
+    "senseIds": [
+      "on-short-notice-littlewarning"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-58d4ff6bee66",
+    "text": "available on short notice",
+    "senseIds": [
+      "on-short-notice-littlewarning"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-65b28ab20e0b",
+    "text": "arrange on short notice",
+    "senseIds": [
+      "on-short-notice-littlewarning"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-38e6be994ac2",
+    "text": "at no extra charge",
+    "senseIds": [
+      "at-no-extra-charge-free"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c8bcfacfdd67",
+    "text": "delivery at no extra charge",
+    "senseIds": [
+      "at-no-extra-charge-free"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-01fa8905a6e1",
+    "text": "installation at no extra charge",
+    "senseIds": [
+      "at-no-extra-charge-free"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-59aa9f0204fb",
+    "text": "in stock",
+    "senseIds": [
+      "in-stock-available"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-490047b9d7f1",
+    "text": "currently in stock",
+    "senseIds": [
+      "in-stock-available"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-3a22c9722daf",
+    "text": "keep in stock",
+    "senseIds": [
+      "in-stock-available"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-717dd036ce84",
+    "text": "out of stock",
+    "senseIds": [
+      "out-of-stock-unavailable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-92c095038d30",
+    "text": "currently out of stock",
+    "senseIds": [
+      "out-of-stock-unavailable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c4684dced0c2",
+    "text": "temporarily out of stock",
+    "senseIds": [
+      "out-of-stock-unavailable"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-1cd2cdbd4a4c",
+    "text": "on a regular basis",
+    "senseIds": [
+      "on-a-regular-basis-regularly"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-b63eff4f6fe2",
+    "text": "meet on a regular basis",
+    "senseIds": [
+      "on-a-regular-basis-regularly"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-5e5b280f24dd",
+    "text": "review on a regular basis",
+    "senseIds": [
+      "on-a-regular-basis-regularly"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-606d0380a13f",
+    "text": "in charge of",
+    "senseIds": [
+      "in-charge-of-responsible"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-6717e04b2fa4",
+    "text": "in charge of training",
+    "senseIds": [
+      "in-charge-of-responsible"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-f3603d37cf65",
+    "text": "in charge of purchasing",
+    "senseIds": [
+      "in-charge-of-responsible"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-9c681609bfb9",
+    "text": "take effect",
+    "senseIds": [
+      "take-effect-begin"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-621c1bac0341",
+    "text": "take effect immediately",
+    "senseIds": [
+      "take-effect-begin"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-2f9bb5ea53f5",
+    "text": "take effect next month",
+    "senseIds": [
+      "take-effect-begin"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-04f8efcc4bd5",
+    "text": "come into effect",
+    "senseIds": [
+      "come-into-effect-begin"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-23fb6a3e4635",
+    "text": "come into effect in july",
+    "senseIds": [
+      "come-into-effect-begin"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-acb228175768",
+    "text": "come into effect immediately",
+    "senseIds": [
+      "come-into-effect-begin"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-d04ccee659ad",
+    "text": "keep track of",
+    "senseIds": [
+      "keep-track-of-monitor"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-c17de4096e70",
+    "text": "keep track of shipments",
+    "senseIds": [
+      "keep-track-of-monitor"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  },
+  {
+    "id": "expr-27e071aef011",
+    "text": "keep track of expenses",
+    "senseIds": [
+      "keep-track-of-monitor"
+    ],
+    "reviewStatus": "needs-review",
+    "source": "original"
+  }
+]

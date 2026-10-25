@@ -1,0 +1,598 @@
+{
+  "tentative-provisional": {
+    "examples": [
+      {
+        "en": "The dates remain tentative until both speakers confirm their availability.",
+        "ko": "두 연사가 참석 가능 여부를 확인할 때까지 날짜는 잠정적입니다."
+      }
+    ],
+    "aliases": [
+      "잠정적인",
+      "임시의",
+      "미확정의"
+    ],
+    "misconception": "확정적인이라는 뜻이 아닙니다. 변경 가능성을 확인하세요.",
+    "family": [
+      "tentative schedule",
+      "provisional"
+    ],
+    "priority": 5
+  },
+  "prospective-potential": {
+    "examples": [
+      {
+        "en": "The brochure was sent to prospective buyers who had requested more information.",
+        "ko": "그 안내 책자는 추가 정보를 요청한 잠재 구매자들에게 발송되었습니다."
+      }
+    ],
+    "aliases": [
+      "잠재적인",
+      "장래의",
+      "예비의"
+    ],
+    "misconception": "현재 고객이나 과거 고객으로 해석하지 마세요.",
+    "family": [
+      "prospect",
+      "perspective"
+    ],
+    "priority": 5
+  },
+  "retain-keep": {
+    "examples": [
+      {
+        "en": "Members who renew before Friday will retain access to the online archive.",
+        "ko": "금요일 전에 갱신하는 회원은 온라인 자료실 접근 권한을 유지하게 됩니다."
+      }
+    ],
+    "aliases": [
+      "유지하다",
+      "보유하다",
+      "보관하다"
+    ],
+    "misconception": "return(돌려주다), regain(되찾다)과 구별하세요.",
+    "family": [
+      "retention",
+      "return"
+    ],
+    "priority": 5
+  },
+  "quote-price": {
+    "examples": [
+      {
+        "en": "Could you quote the cost of replacing all six windows?",
+        "ko": "창문 여섯 개를 모두 교체하는 비용의 견적을 제시해 주시겠어요?"
+      }
+    ],
+    "aliases": [
+      "견적을 제시하다",
+      "가격을 제시하다"
+    ],
+    "misconception": "사람의 말을 인용하는 문맥이 아니라 비용을 제시하는 문맥입니다.",
+    "family": [
+      "quotation",
+      "estimate"
+    ],
+    "priority": 5
+  },
+  "quote-cite": {
+    "examples": [
+      {
+        "en": "Please ask permission before quoting the speaker in the newsletter.",
+        "ko": "소식지에 연사의 말을 인용하기 전에 허락을 구해 주세요."
+      }
+    ],
+    "aliases": [
+      "인용하다"
+    ],
+    "misconception": "목적어가 가격인지 발언인지 구별하세요.",
+    "family": [
+      "quotation"
+    ],
+    "priority": 5
+  },
+  "receipt-receiving": {
+    "examples": [
+      {
+        "en": "We will acknowledge receipt of your application by email.",
+        "ko": "지원서를 수령했음을 이메일로 알려드리겠습니다."
+      }
+    ],
+    "aliases": [
+      "수령",
+      "받음"
+    ],
+    "misconception": "여기서 receipt는 종이 영수증이 아닌 받는 행위입니다.",
+    "family": [
+      "receive",
+      "reception"
+    ],
+    "priority": 5
+  },
+  "receipt-document": {
+    "examples": [
+      {
+        "en": "Attach a copy of the receipt to your reimbursement request.",
+        "ko": "비용 상환 신청서에 영수증 사본을 첨부하세요."
+      }
+    ],
+    "aliases": [
+      "영수증"
+    ],
+    "misconception": "발행되는 서류와 수령 행위를 구별하세요.",
+    "family": [
+      "invoice"
+    ],
+    "priority": 5
+  },
+  "outstanding-unpaid": {
+    "examples": [
+      {
+        "en": "Our records show two outstanding invoices from last month.",
+        "ko": "기록에 따르면 지난달 청구서 두 건이 아직 결제되지 않았습니다."
+      }
+    ],
+    "aliases": [
+      "미결제의",
+      "미지급의",
+      "미납의"
+    ],
+    "misconception": "뛰어나다가 아니라 대금이 아직 지급되지 않았다는 뜻입니다.",
+    "family": [
+      "overdue"
+    ],
+    "priority": 5
+  },
+  "outstanding-excellent": {
+    "examples": [
+      {
+        "en": "The team received an award for its outstanding customer support.",
+        "ko": "팀은 뛰어난 고객 지원으로 상을 받았습니다."
+      }
+    ],
+    "aliases": [
+      "뛰어난",
+      "탁월한"
+    ],
+    "misconception": "잔액이나 청구서와 결합할 때와 다른 의미입니다.",
+    "family": [
+      "excellent"
+    ],
+    "priority": 5
+  },
+  "outstanding-unresolved": {
+    "examples": [
+      {
+        "en": "Only one outstanding question remains before we can finalize the plan.",
+        "ko": "계획을 확정하기 전에 미해결 질문이 하나만 남아 있습니다."
+      }
+    ],
+    "aliases": [
+      "미해결의",
+      "해결되지 않은"
+    ],
+    "misconception": "칭찬이 아닌 아직 처리되지 않은 상태입니다.",
+    "family": [
+      "unresolved"
+    ],
+    "priority": 5
+  },
+  "settle-pay": {
+    "examples": [
+      {
+        "en": "Please settle the account at reception before collecting your keys.",
+        "ko": "열쇠를 받기 전에 안내 데스크에서 대금을 정산해 주세요."
+      }
+    ],
+    "aliases": [
+      "정산하다",
+      "결제하다"
+    ],
+    "misconception": "계좌를 정착시키는 것이 아니라 대금을 지급하는 뜻입니다.",
+    "family": [
+      "settlement"
+    ],
+    "priority": 5
+  },
+  "settle-resolve": {
+    "examples": [
+      {
+        "en": "A mediator helped the partners settle their disagreement.",
+        "ko": "중재자가 동업자들의 의견 충돌 해결을 도왔습니다."
+      }
+    ],
+    "aliases": [
+      "해결하다"
+    ],
+    "misconception": "목적어가 분쟁인지 청구서인지 살펴보세요.",
+    "family": [
+      "resolve"
+    ],
+    "priority": 5
+  },
+  "reconcile-compare": {
+    "examples": [
+      {
+        "en": "The accountant reconciled the expense report with the attached receipts.",
+        "ko": "회계사는 비용 보고서를 첨부된 영수증과 대조하여 맞췄습니다."
+      }
+    ],
+    "aliases": [
+      "대조하여 조정하다",
+      "대조하다",
+      "조정하다"
+    ],
+    "misconception": "단순 합산이 아니라 서로 다른 기록의 일치 여부를 확인합니다.",
+    "family": [
+      "reconciliation"
+    ],
+    "priority": 5,
+    "prepositions": [
+      "reconcile A with B"
+    ]
+  },
+  "stipulate-require": {
+    "examples": [
+      {
+        "en": "The lease stipulates that tenants must obtain permission before making alterations.",
+        "ko": "임대차 계약은 임차인이 변경 작업 전에 허락을 받아야 한다고 규정합니다."
+      }
+    ],
+    "aliases": [
+      "규정하다",
+      "명시하다"
+    ],
+    "misconception": "계약 조건을 정하는 의미입니다.",
+    "family": [
+      "stipulation"
+    ],
+    "priority": 5
+  },
+  "impose-levy": {
+    "examples": [
+      {
+        "en": "The city imposed restrictions on deliveries during peak hours.",
+        "ko": "시는 혼잡 시간대 배송에 제한을 부과했습니다."
+      }
+    ],
+    "aliases": [
+      "부과하다",
+      "강제하다"
+    ],
+    "misconception": "제안하는 것보다 구속력이 강합니다.",
+    "family": [
+      "imposition"
+    ],
+    "priority": 5,
+    "prepositions": [
+      "impose something on someone"
+    ]
+  },
+  "remit-send": {
+    "examples": [
+      {
+        "en": "Please remit the remaining balance by Friday to avoid a late fee.",
+        "ko": "연체료를 피하려면 금요일까지 남은 잔액을 송금해 주세요."
+      }
+    ],
+    "aliases": [
+      "송금하다",
+      "지급하다"
+    ],
+    "misconception": "문맥상 돈을 보내는 행위입니다.",
+    "family": [
+      "remittance"
+    ],
+    "priority": 5
+  },
+  "allocate-assign": {
+    "examples": [
+      {
+        "en": "Two hours have been allocated for questions after the workshop.",
+        "ko": "워크숍 후 질의응답에 두 시간이 배정되었습니다."
+      }
+    ],
+    "aliases": [
+      "배정하다",
+      "할당하다"
+    ],
+    "misconception": "돈뿐 아니라 시간과 인력도 배정할 수 있습니다.",
+    "family": [
+      "allocation"
+    ],
+    "priority": 5,
+    "prepositions": [
+      "allocate something to"
+    ]
+  },
+  "accrue-accumulate": {
+    "examples": [
+      {
+        "en": "Unused benefits may accrue over several months under the new policy.",
+        "ko": "새 정책에 따르면 사용하지 않은 혜택은 여러 달에 걸쳐 누적될 수 있습니다."
+      }
+    ],
+    "aliases": [
+      "발생하다",
+      "누적되다",
+      "쌓이다"
+    ],
+    "misconception": "시간이 흐르면서 누적되는 뜻입니다.",
+    "family": [
+      "accrual"
+    ],
+    "priority": 5
+  },
+  "expedite-speed": {
+    "examples": [
+      {
+        "en": "Submitting complete documents will help expedite your application.",
+        "ko": "서류를 빠짐없이 제출하면 신청 처리를 신속하게 진행하는 데 도움이 됩니다."
+      }
+    ],
+    "aliases": [
+      "신속히 처리하다",
+      "촉진하다"
+    ],
+    "misconception": "expedition(원정)과 혼동하지 마세요.",
+    "family": [
+      "expedited"
+    ],
+    "priority": 5
+  },
+  "claim-request": {
+    "examples": [
+      {
+        "en": "You may claim a refund if the delivery is more than a week late.",
+        "ko": "배송이 일주일 넘게 늦어지면 환불을 청구할 수 있습니다."
+      }
+    ],
+    "aliases": [
+      "청구하다",
+      "요구하다"
+    ],
+    "misconception": "주장하다와 구별하여 환불 권리를 요구하는 의미로 읽으세요.",
+    "family": [
+      "reclaim"
+    ],
+    "priority": 5
+  },
+  "claim-assert": {
+    "examples": [
+      {
+        "en": "The report claims that remote work has increased productivity.",
+        "ko": "보고서는 원격 근무가 생산성을 높였다고 주장합니다."
+      }
+    ],
+    "aliases": [
+      "주장하다"
+    ],
+    "misconception": "사실로 확인된 것과 보고서가 주장하는 것을 구별하세요.",
+    "family": [
+      "assert"
+    ],
+    "priority": 5
+  },
+  "claim-take": {
+    "examples": [
+      {
+        "en": "Arrive early to claim a seat near the front.",
+        "ko": "앞쪽 자리를 확보하려면 일찍 도착하세요."
+      }
+    ],
+    "aliases": [
+      "차지하다",
+      "확보하다",
+      "찾다"
+    ],
+    "misconception": "좌석이나 수하물을 확보하는 의미입니다.",
+    "family": [
+      "reserve"
+    ],
+    "priority": 5
+  },
+  "suspend-pause": {
+    "examples": [
+      {
+        "en": "Your account will be suspended until the overdue fee is paid.",
+        "ko": "연체 요금이 납부될 때까지 계정 이용이 일시 정지됩니다."
+      }
+    ],
+    "aliases": [
+      "일시 중단하다",
+      "일시 정지하다",
+      "중단하다"
+    ],
+    "misconception": "영구 해지와 반드시 같지는 않습니다.",
+    "family": [
+      "suspension",
+      "terminate"
+    ],
+    "priority": 5
+  },
+  "incur-cost": {
+    "examples": [
+      {
+        "en": "The company incurred unexpected costs when the delivery was delayed.",
+        "ko": "회사는 배송이 지연되어 예상치 못한 비용을 부담하게 되었습니다."
+      }
+    ],
+    "aliases": [
+      "비용을 부담하게 되다",
+      "부담하다",
+      "발생시키다"
+    ],
+    "misconception": "수익을 얻는다는 뜻이 아닙니다.",
+    "family": [
+      "expense"
+    ],
+    "priority": 5
+  },
+  "reimburse-repay": {
+    "examples": [
+      {
+        "en": "Bring your train ticket so we can reimburse you for the fare.",
+        "ko": "운임을 지급해 드릴 수 있도록 기차표를 가져오세요."
+      }
+    ],
+    "aliases": [
+      "상환하다",
+      "실비를 지급하다",
+      "변제하다"
+    ],
+    "misconception": "환불보다 이미 대신 지출한 비용을 돌려주는 의미입니다.",
+    "family": [
+      "reimbursement",
+      "refund"
+    ],
+    "priority": 5,
+    "prepositions": [
+      "reimburse someone for something"
+    ],
+    "confusion": [
+      "return",
+      "refund"
+    ]
+  },
+  "notice-announcement": {
+    "examples": [
+      {
+        "en": "The office requires two weeks of advance notice for large catering orders.",
+        "ko": "사무실은 대규모 출장 음식 주문에 대해 2주 전 사전 통지를 요구합니다."
+      }
+    ],
+    "aliases": [
+      "공지",
+      "통지",
+      "사전 통지"
+    ],
+    "misconception": "notice는 명사나 동사, notify는 동사입니다.",
+    "family": [
+      "notification",
+      "notify"
+    ],
+    "priority": 5,
+    "confusion": [
+      "notify"
+    ]
+  },
+  "notify-inform": {
+    "examples": [
+      {
+        "en": "The airline will notify passengers of any gate changes.",
+        "ko": "항공사는 탑승구 변경 사항을 승객에게 알릴 것입니다."
+      }
+    ],
+    "aliases": [
+      "알리다",
+      "통지하다"
+    ],
+    "misconception": "notify 사람 of 사항 구조를 확인하세요.",
+    "family": [
+      "notice",
+      "notification"
+    ],
+    "priority": 5,
+    "prepositions": [
+      "notify someone of something"
+    ],
+    "confusion": [
+      "notice"
+    ]
+  },
+  "carry-forward-transfer": {
+    "examples": [
+      {
+        "en": "Any unused credit will be carried forward to the next billing period.",
+        "ko": "사용하지 않은 크레딧은 다음 청구 기간으로 이월됩니다."
+      }
+    ],
+    "aliases": [
+      "이월하다"
+    ],
+    "misconception": "앞으로 운반한다는 문자 그대로의 의미가 아닙니다.",
+    "family": [
+      "carry over"
+    ],
+    "priority": 5
+  },
+  "refrain-from-avoid": {
+    "examples": [
+      {
+        "en": "Visitors are asked to refrain from taking photographs in the laboratory.",
+        "ko": "방문객은 실험실에서 사진 촬영을 삼가도록 요청받습니다."
+      }
+    ],
+    "aliases": [
+      "삼가다",
+      "자제하다"
+    ],
+    "misconception": "from 뒤에는 명사나 동명사가 옵니다.",
+    "family": [
+      "avoid"
+    ],
+    "priority": 5,
+    "prepositions": [
+      "refrain from + -ing"
+    ]
+  },
+  "contingency-unexpected": {
+    "examples": [
+      {
+        "en": "The budget includes a contingency fund for urgent repairs.",
+        "ko": "예산에는 긴급 수리를 위한 예비비가 포함되어 있습니다."
+      }
+    ],
+    "aliases": [
+      "우발 상황",
+      "만일의 사태",
+      "비상 사태"
+    ],
+    "misconception": "확정된 계획이 아니라 예상치 못한 상황에 대비합니다.",
+    "family": [
+      "contingent"
+    ],
+    "priority": 5
+  },
+  "placement-assignment": {
+    "confusion": [
+      "replacement"
+    ]
+  },
+  "replacement-substitute": {
+    "confusion": [
+      "placement"
+    ]
+  },
+  "amount-sum": {
+    "confusion": [
+      "quantity"
+    ]
+  },
+  "quantity-number": {
+    "confusion": [
+      "amount"
+    ]
+  },
+  "dispatch-send": {
+    "confusion": [
+      "deliver"
+    ]
+  },
+  "deliver-bring": {
+    "confusion": [
+      "dispatch"
+    ]
+  },
+  "return-giveback": {
+    "confusion": [
+      "refund",
+      "reimburse"
+    ]
+  },
+  "refund-money": {
+    "confusion": [
+      "return",
+      "reimburse"
+    ]
+  }
+}

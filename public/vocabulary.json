@@ -1,0 +1,8077 @@
+[
+  {
+    "id": "tentative-provisional",
+    "wordId": "tentative",
+    "lemma": "tentative",
+    "pos": "adj",
+    "meaning": "잠정적인 / 임시의",
+    "aliases": [
+      "잠정적인",
+      "임시의",
+      "미확정의"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "tentative-provisional-1",
+        "en": "The tentative schedule may change after the venue is confirmed.",
+        "ko": "장소가 확정되면 잠정 일정이 바뀔 수 있습니다."
+      },
+      {
+        "id": "tentative-provisional-2",
+        "en": "The dates remain tentative until both speakers confirm their availability.",
+        "ko": "두 연사가 참석 가능 여부를 확인할 때까지 날짜는 잠정적입니다."
+      }
+    ],
+    "expressions": [
+      "tentative schedule",
+      "tentative agreement"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "tentative schedule",
+      "provisional"
+    ],
+    "misconception": "확정적인이라는 뜻이 아닙니다. 변경 가능성을 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "prospective-potential",
+    "wordId": "prospective",
+    "lemma": "prospective",
+    "pos": "adj",
+    "meaning": "장래의 / 잠재적인",
+    "aliases": [
+      "잠재적인",
+      "장래의",
+      "예비의"
+    ],
+    "domain": "hr",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "prospective-potential-1",
+        "en": "Prospective employees are invited to tour the office before applying.",
+        "ko": "입사 지원을 고려하는 사람들은 지원 전에 사무실을 견학할 수 있습니다."
+      },
+      {
+        "id": "prospective-potential-2",
+        "en": "The brochure was sent to prospective buyers who had requested more information.",
+        "ko": "그 안내 책자는 추가 정보를 요청한 잠재 구매자들에게 발송되었습니다."
+      }
+    ],
+    "expressions": [
+      "prospective employee",
+      "prospective client"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "prospect",
+      "perspective"
+    ],
+    "misconception": "현재 고객이나 과거 고객으로 해석하지 마세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "retain-keep",
+    "wordId": "retain",
+    "lemma": "retain",
+    "pos": "v",
+    "meaning": "유지하다 / 보유하다",
+    "aliases": [
+      "유지하다",
+      "보유하다",
+      "보관하다"
+    ],
+    "domain": "hr",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "retain-keep-1",
+        "en": "Please retain a copy of the signed agreement for your records.",
+        "ko": "기록용으로 서명된 계약서 사본을 보관해 주세요."
+      },
+      {
+        "id": "retain-keep-2",
+        "en": "Members who renew before Friday will retain access to the online archive.",
+        "ko": "금요일 전에 갱신하는 회원은 온라인 자료실 접근 권한을 유지하게 됩니다."
+      }
+    ],
+    "expressions": [
+      "retain staff",
+      "retain a copy"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "retention",
+      "return"
+    ],
+    "misconception": "return(돌려주다), regain(되찾다)과 구별하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "stipulate-require",
+    "wordId": "stipulate",
+    "lemma": "stipulate",
+    "pos": "v",
+    "meaning": "규정하다",
+    "aliases": [
+      "규정하다",
+      "명시하다"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "stipulate-require-1",
+        "en": "The contract stipulates that payment must arrive within thirty days.",
+        "ko": "계약서는 대금이 30일 이내에 도착해야 한다고 규정합니다."
+      },
+      {
+        "id": "stipulate-require-2",
+        "en": "The lease stipulates that tenants must obtain permission before making alterations.",
+        "ko": "임대차 계약은 임차인이 변경 작업 전에 허락을 받아야 한다고 규정합니다."
+      }
+    ],
+    "expressions": [
+      "stipulate that",
+      "stipulate a deadline"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "stipulation"
+    ],
+    "misconception": "계약 조건을 정하는 의미입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "impose-levy",
+    "wordId": "impose",
+    "lemma": "impose",
+    "pos": "v",
+    "meaning": "부과하다",
+    "aliases": [
+      "부과하다",
+      "강제하다"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "impose-levy-1",
+        "en": "The bank will impose a fee on transfers made at a branch.",
+        "ko": "은행은 지점에서 이루어지는 이체에 수수료를 부과할 것입니다."
+      },
+      {
+        "id": "impose-levy-2",
+        "en": "The city imposed restrictions on deliveries during peak hours.",
+        "ko": "시는 혼잡 시간대 배송에 제한을 부과했습니다."
+      }
+    ],
+    "expressions": [
+      "impose a fee",
+      "impose restrictions"
+    ],
+    "prepositions": [
+      "impose something on someone"
+    ],
+    "confusion": [],
+    "family": [
+      "imposition"
+    ],
+    "misconception": "제안하는 것보다 구속력이 강합니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "reconcile-compare",
+    "wordId": "reconcile",
+    "lemma": "reconcile",
+    "pos": "v",
+    "meaning": "대조하여 조정하다",
+    "aliases": [
+      "대조하여 조정하다",
+      "대조하다",
+      "조정하다"
+    ],
+    "domain": "finance",
+    "difficulty": 4,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "reconcile-compare-1",
+        "en": "Please reconcile the bank statement with our payment records.",
+        "ko": "은행 거래 명세서를 당사의 결제 기록과 대조하여 맞춰 주세요."
+      },
+      {
+        "id": "reconcile-compare-2",
+        "en": "The accountant reconciled the expense report with the attached receipts.",
+        "ko": "회계사는 비용 보고서를 첨부된 영수증과 대조하여 맞췄습니다."
+      }
+    ],
+    "expressions": [
+      "reconcile accounts",
+      "reconcile differences"
+    ],
+    "prepositions": [
+      "reconcile A with B"
+    ],
+    "confusion": [],
+    "family": [
+      "reconciliation"
+    ],
+    "misconception": "단순 합산이 아니라 서로 다른 기록의 일치 여부를 확인합니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "remit-send",
+    "wordId": "remit",
+    "lemma": "remit",
+    "pos": "v",
+    "meaning": "송금하다",
+    "aliases": [
+      "송금하다",
+      "지급하다"
+    ],
+    "domain": "banking",
+    "difficulty": 4,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "remit-send-1",
+        "en": "Please remit payment to the account listed on the invoice.",
+        "ko": "청구서에 기재된 계좌로 대금을 송금해 주세요."
+      },
+      {
+        "id": "remit-send-2",
+        "en": "Please remit the remaining balance by Friday to avoid a late fee.",
+        "ko": "연체료를 피하려면 금요일까지 남은 잔액을 송금해 주세요."
+      }
+    ],
+    "expressions": [
+      "remit payment",
+      "remit funds"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "remittance"
+    ],
+    "misconception": "문맥상 돈을 보내는 행위입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "allocate-assign",
+    "wordId": "allocate",
+    "lemma": "allocate",
+    "pos": "v",
+    "meaning": "배정하다 / 할당하다",
+    "aliases": [
+      "배정하다",
+      "할당하다"
+    ],
+    "domain": "finance",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "allocate-assign-1",
+        "en": "The director allocated additional funds to staff training.",
+        "ko": "이사는 직원 교육에 추가 자금을 배정했습니다."
+      },
+      {
+        "id": "allocate-assign-2",
+        "en": "Two hours have been allocated for questions after the workshop.",
+        "ko": "워크숍 후 질의응답에 두 시간이 배정되었습니다."
+      }
+    ],
+    "expressions": [
+      "allocate funds",
+      "allocate resources"
+    ],
+    "prepositions": [
+      "allocate something to"
+    ],
+    "confusion": [],
+    "family": [
+      "allocation"
+    ],
+    "misconception": "돈뿐 아니라 시간과 인력도 배정할 수 있습니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "deduct-subtract",
+    "wordId": "deduct",
+    "lemma": "deduct",
+    "pos": "v",
+    "meaning": "공제하다 / 빼다",
+    "aliases": [
+      "공제하다 ",
+      " 빼다"
+    ],
+    "domain": "finance",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "deduct-subtract-1",
+        "en": "We will deduct the deposit from your final bill.",
+        "ko": "최종 청구 금액에서 보증금을 공제하겠습니다."
+      }
+    ],
+    "expressions": [
+      "deduct expenses",
+      "deduct from"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "accrue-accumulate",
+    "wordId": "accrue",
+    "lemma": "accrue",
+    "pos": "v",
+    "meaning": "발생하다 / 누적되다",
+    "aliases": [
+      "발생하다",
+      "누적되다",
+      "쌓이다"
+    ],
+    "domain": "finance",
+    "difficulty": 4,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "accrue-accumulate-1",
+        "en": "Interest will accrue on the unpaid balance each month.",
+        "ko": "미지급 잔액에 매달 이자가 발생할 것입니다."
+      },
+      {
+        "id": "accrue-accumulate-2",
+        "en": "Unused benefits may accrue over several months under the new policy.",
+        "ko": "새 정책에 따르면 사용하지 않은 혜택은 여러 달에 걸쳐 누적될 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "accrue interest",
+      "accrue benefits"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "accrual"
+    ],
+    "misconception": "시간이 흐르면서 누적되는 뜻입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "facilitate-enable",
+    "wordId": "facilitate",
+    "lemma": "facilitate",
+    "pos": "v",
+    "meaning": "촉진하다 / 원활하게 하다",
+    "aliases": [
+      "촉진하다 ",
+      " 원활하게 하다"
+    ],
+    "domain": "office",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "facilitate-enable-1",
+        "en": "The shared calendar will facilitate communication between departments.",
+        "ko": "공유 일정표는 부서 간 의사소통을 원활하게 할 것입니다."
+      }
+    ],
+    "expressions": [
+      "facilitate communication",
+      "facilitate access"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "designate-appoint",
+    "wordId": "designate",
+    "lemma": "designate",
+    "pos": "v",
+    "meaning": "지정하다 / 지명하다",
+    "aliases": [
+      "지정하다 ",
+      " 지명하다"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "designate-appoint-1",
+        "en": "Each team must designate a representative to attend the meeting.",
+        "ko": "각 팀은 회의에 참석할 대표를 지정해야 합니다."
+      }
+    ],
+    "expressions": [
+      "designate a representative",
+      "designate as"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "procurement-purchasing",
+    "wordId": "procurement",
+    "lemma": "procurement",
+    "pos": "n",
+    "meaning": "조달 / 구매",
+    "aliases": [
+      "조달 ",
+      " 구매"
+    ],
+    "domain": "procurement",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "procurement-purchasing-1",
+        "en": "The procurement department is reviewing bids for new equipment.",
+        "ko": "구매 부서는 새 장비에 대한 입찰을 검토하고 있습니다."
+      }
+    ],
+    "expressions": [
+      "procurement process",
+      "procurement department"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "expedite-speed",
+    "wordId": "expedite",
+    "lemma": "expedite",
+    "pos": "v",
+    "meaning": "신속히 처리하다",
+    "aliases": [
+      "신속히 처리하다",
+      "촉진하다"
+    ],
+    "domain": "logistics",
+    "difficulty": 4,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "expedite-speed-1",
+        "en": "Please expedite the shipment so it arrives before the exhibition.",
+        "ko": "전시회 전에 도착하도록 배송을 신속히 처리해 주세요."
+      },
+      {
+        "id": "expedite-speed-2",
+        "en": "Submitting complete documents will help expedite your application.",
+        "ko": "서류를 빠짐없이 제출하면 신청 처리를 신속하게 진행하는 데 도움이 됩니다."
+      }
+    ],
+    "expressions": [
+      "expedite delivery",
+      "expedite the process"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "expedited"
+    ],
+    "misconception": "expedition(원정)과 혼동하지 마세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "contingency-unexpected",
+    "wordId": "contingency",
+    "lemma": "contingency",
+    "pos": "n",
+    "meaning": "우발 상황 / 만일의 사태",
+    "aliases": [
+      "우발 상황",
+      "만일의 사태",
+      "비상 사태"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "contingency-unexpected-1",
+        "en": "We have a contingency plan in case the supplier misses the deadline.",
+        "ko": "공급업체가 기한을 지키지 못할 경우를 대비한 비상 계획이 있습니다."
+      },
+      {
+        "id": "contingency-unexpected-2",
+        "en": "The budget includes a contingency fund for urgent repairs.",
+        "ko": "예산에는 긴급 수리를 위한 예비비가 포함되어 있습니다."
+      }
+    ],
+    "expressions": [
+      "contingency plan",
+      "contingency fund"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "contingent"
+    ],
+    "misconception": "확정된 계획이 아니라 예상치 못한 상황에 대비합니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "quote-price",
+    "wordId": "quote",
+    "lemma": "quote",
+    "pos": "v",
+    "meaning": "견적을 제시하다",
+    "aliases": [
+      "견적을 제시하다",
+      "가격을 제시하다"
+    ],
+    "domain": "procurement",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "quote-price-1",
+        "en": "The supplier quoted a price of eight hundred dollars for installation.",
+        "ko": "공급업체는 설치비로 800달러를 제시했습니다."
+      },
+      {
+        "id": "quote-price-2",
+        "en": "Could you quote the cost of replacing all six windows?",
+        "ko": "창문 여섯 개를 모두 교체하는 비용의 견적을 제시해 주시겠어요?"
+      }
+    ],
+    "expressions": [
+      "quote a price",
+      "quoted amount"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "quotation",
+      "estimate"
+    ],
+    "misconception": "사람의 말을 인용하는 문맥이 아니라 비용을 제시하는 문맥입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "quote-cite",
+    "wordId": "quote",
+    "lemma": "quote",
+    "pos": "v",
+    "meaning": "인용하다",
+    "aliases": [
+      "인용하다"
+    ],
+    "domain": "news",
+    "difficulty": 2,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "quote-cite-1",
+        "en": "The article quotes an economist who predicts slower growth.",
+        "ko": "그 기사는 성장 둔화를 예상하는 경제학자의 말을 인용합니다."
+      },
+      {
+        "id": "quote-cite-2",
+        "en": "Please ask permission before quoting the speaker in the newsletter.",
+        "ko": "소식지에 연사의 말을 인용하기 전에 허락을 구해 주세요."
+      }
+    ],
+    "expressions": [
+      "quote an author",
+      "quote a passage"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "quotation"
+    ],
+    "misconception": "목적어가 가격인지 발언인지 구별하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "receipt-document",
+    "wordId": "receipt",
+    "lemma": "receipt",
+    "pos": "n",
+    "meaning": "영수증",
+    "aliases": [
+      "영수증"
+    ],
+    "domain": "banking",
+    "difficulty": 1,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "receipt-document-1",
+        "en": "Keep your receipt if you intend to return the item.",
+        "ko": "물건을 반품할 계획이라면 영수증을 보관하세요."
+      },
+      {
+        "id": "receipt-document-2",
+        "en": "Attach a copy of the receipt to your reimbursement request.",
+        "ko": "비용 상환 신청서에 영수증 사본을 첨부하세요."
+      }
+    ],
+    "expressions": [
+      "keep a receipt",
+      "issue a receipt"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "invoice"
+    ],
+    "misconception": "발행되는 서류와 수령 행위를 구별하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "receipt-receiving",
+    "wordId": "receipt",
+    "lemma": "receipt",
+    "pos": "n",
+    "meaning": "수령",
+    "aliases": [
+      "수령",
+      "받음"
+    ],
+    "domain": "logistics",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "receipt-receiving-1",
+        "en": "Please inspect the equipment upon receipt of the shipment.",
+        "ko": "화물을 수령하는 즉시 장비를 점검해 주세요."
+      },
+      {
+        "id": "receipt-receiving-2",
+        "en": "We will acknowledge receipt of your application by email.",
+        "ko": "지원서를 수령했음을 이메일로 알려드리겠습니다."
+      }
+    ],
+    "expressions": [
+      "upon receipt of",
+      "acknowledge receipt"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "receive",
+      "reception"
+    ],
+    "misconception": "여기서 receipt는 종이 영수증이 아닌 받는 행위입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "outstanding-unpaid",
+    "wordId": "outstanding",
+    "lemma": "outstanding",
+    "pos": "adj",
+    "meaning": "미결제의",
+    "aliases": [
+      "미결제의",
+      "미지급의",
+      "미납의"
+    ],
+    "domain": "finance",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "outstanding-unpaid-1",
+        "en": "Please pay the outstanding balance by the end of the month.",
+        "ko": "미결제 잔액을 월말까지 납부해 주세요."
+      },
+      {
+        "id": "outstanding-unpaid-2",
+        "en": "Our records show two outstanding invoices from last month.",
+        "ko": "기록에 따르면 지난달 청구서 두 건이 아직 결제되지 않았습니다."
+      }
+    ],
+    "expressions": [
+      "outstanding balance",
+      "outstanding invoice"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "overdue"
+    ],
+    "misconception": "뛰어나다가 아니라 대금이 아직 지급되지 않았다는 뜻입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "outstanding-excellent",
+    "wordId": "outstanding",
+    "lemma": "outstanding",
+    "pos": "adj",
+    "meaning": "뛰어난",
+    "aliases": [
+      "뛰어난",
+      "탁월한"
+    ],
+    "domain": "hr",
+    "difficulty": 2,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "outstanding-excellent-1",
+        "en": "The award recognizes her outstanding service to customers.",
+        "ko": "이 상은 고객에게 제공한 그녀의 뛰어난 서비스를 인정합니다."
+      },
+      {
+        "id": "outstanding-excellent-2",
+        "en": "The team received an award for its outstanding customer support.",
+        "ko": "팀은 뛰어난 고객 지원으로 상을 받았습니다."
+      }
+    ],
+    "expressions": [
+      "outstanding performance",
+      "outstanding service"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "excellent"
+    ],
+    "misconception": "잔액이나 청구서와 결합할 때와 다른 의미입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "outstanding-unresolved",
+    "wordId": "outstanding",
+    "lemma": "outstanding",
+    "pos": "adj",
+    "meaning": "미해결의",
+    "aliases": [
+      "미해결의",
+      "해결되지 않은"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "outstanding-unresolved-1",
+        "en": "We must address the outstanding issues before signing the agreement.",
+        "ko": "계약에 서명하기 전에 미해결 문제를 처리해야 합니다."
+      },
+      {
+        "id": "outstanding-unresolved-2",
+        "en": "Only one outstanding question remains before we can finalize the plan.",
+        "ko": "계획을 확정하기 전에 미해결 질문이 하나만 남아 있습니다."
+      }
+    ],
+    "expressions": [
+      "outstanding issue",
+      "outstanding matter"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "unresolved"
+    ],
+    "misconception": "칭찬이 아닌 아직 처리되지 않은 상태입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "settle-pay",
+    "wordId": "settle",
+    "lemma": "settle",
+    "pos": "v",
+    "meaning": "정산하다",
+    "aliases": [
+      "정산하다",
+      "결제하다"
+    ],
+    "domain": "finance",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "settle-pay-1",
+        "en": "Guests must settle their bills before leaving the hotel.",
+        "ko": "투숙객은 호텔을 떠나기 전에 요금을 정산해야 합니다."
+      },
+      {
+        "id": "settle-pay-2",
+        "en": "Please settle the account at reception before collecting your keys.",
+        "ko": "열쇠를 받기 전에 안내 데스크에서 대금을 정산해 주세요."
+      }
+    ],
+    "expressions": [
+      "settle an account",
+      "settle a bill"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "settlement"
+    ],
+    "misconception": "계좌를 정착시키는 것이 아니라 대금을 지급하는 뜻입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "settle-resolve",
+    "wordId": "settle",
+    "lemma": "settle",
+    "pos": "v",
+    "meaning": "해결하다",
+    "aliases": [
+      "해결하다"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "settle-resolve-1",
+        "en": "The two companies settled the dispute without going to court.",
+        "ko": "두 회사는 법정에 가지 않고 분쟁을 해결했습니다."
+      },
+      {
+        "id": "settle-resolve-2",
+        "en": "A mediator helped the partners settle their disagreement.",
+        "ko": "중재자가 동업자들의 의견 충돌 해결을 도왔습니다."
+      }
+    ],
+    "expressions": [
+      "settle a dispute",
+      "settle a claim"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "resolve"
+    ],
+    "misconception": "목적어가 분쟁인지 청구서인지 살펴보세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "settle-live",
+    "wordId": "settle",
+    "lemma": "settle",
+    "pos": "v",
+    "meaning": "정착하다",
+    "aliases": [
+      "정착하다"
+    ],
+    "domain": "general",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "settle-live-1",
+        "en": "It took the new employee a week to settle into the role.",
+        "ko": "신입 직원이 업무에 적응하는 데 일주일이 걸렸습니다."
+      }
+    ],
+    "expressions": [
+      "settle in",
+      "settle into"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "suspend-pause",
+    "wordId": "suspend",
+    "lemma": "suspend",
+    "pos": "v",
+    "meaning": "일시 중단하다",
+    "aliases": [
+      "일시 중단하다",
+      "일시 정지하다",
+      "중단하다"
+    ],
+    "domain": "service",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "suspend-pause-1",
+        "en": "We will suspend service while the equipment is being repaired.",
+        "ko": "장비를 수리하는 동안 서비스를 일시 중단하겠습니다."
+      },
+      {
+        "id": "suspend-pause-2",
+        "en": "Your account will be suspended until the overdue fee is paid.",
+        "ko": "연체 요금이 납부될 때까지 계정 이용이 일시 정지됩니다."
+      }
+    ],
+    "expressions": [
+      "suspend service",
+      "suspend operations"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "suspension",
+      "terminate"
+    ],
+    "misconception": "영구 해지와 반드시 같지는 않습니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "incur-cost",
+    "wordId": "incur",
+    "lemma": "incur",
+    "pos": "v",
+    "meaning": "비용을 부담하게 되다",
+    "aliases": [
+      "비용을 부담하게 되다",
+      "부담하다",
+      "발생시키다"
+    ],
+    "domain": "finance",
+    "difficulty": 4,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "incur-cost-1",
+        "en": "Late cancellations may incur an additional fee.",
+        "ko": "늦게 취소하면 추가 요금이 발생할 수 있습니다."
+      },
+      {
+        "id": "incur-cost-2",
+        "en": "The company incurred unexpected costs when the delivery was delayed.",
+        "ko": "회사는 배송이 지연되어 예상치 못한 비용을 부담하게 되었습니다."
+      }
+    ],
+    "expressions": [
+      "incur costs",
+      "incur a penalty"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "expense"
+    ],
+    "misconception": "수익을 얻는다는 뜻이 아닙니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "refrain-from-avoid",
+    "wordId": "refrain-from",
+    "lemma": "refrain from",
+    "pos": "phrase",
+    "meaning": "삼가다",
+    "aliases": [
+      "삼가다",
+      "자제하다"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "refrain-from-avoid-1",
+        "en": "Please refrain from using mobile phones during the presentation.",
+        "ko": "발표 중에는 휴대전화 사용을 삼가 주세요."
+      },
+      {
+        "id": "refrain-from-avoid-2",
+        "en": "Visitors are asked to refrain from taking photographs in the laboratory.",
+        "ko": "방문객은 실험실에서 사진 촬영을 삼가도록 요청받습니다."
+      }
+    ],
+    "expressions": [
+      "refrain from",
+      "refrain from smoking",
+      "refrain from using"
+    ],
+    "prepositions": [
+      "refrain from + -ing"
+    ],
+    "confusion": [],
+    "family": [
+      "avoid"
+    ],
+    "misconception": "from 뒤에는 명사나 동명사가 옵니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "carry-forward-transfer",
+    "wordId": "carry-forward",
+    "lemma": "carry forward",
+    "pos": "phrase",
+    "meaning": "이월하다",
+    "aliases": [
+      "이월하다"
+    ],
+    "domain": "finance",
+    "difficulty": 4,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "carry-forward-transfer-1",
+        "en": "Employees may carry forward up to five days of unused leave.",
+        "ko": "직원은 미사용 휴가를 최대 5일까지 이월할 수 있습니다."
+      },
+      {
+        "id": "carry-forward-transfer-2",
+        "en": "Any unused credit will be carried forward to the next billing period.",
+        "ko": "사용하지 않은 크레딧은 다음 청구 기간으로 이월됩니다."
+      }
+    ],
+    "expressions": [
+      "carry forward",
+      "carry forward a balance",
+      "carry forward unused leave"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "carry over"
+    ],
+    "misconception": "앞으로 운반한다는 문자 그대로의 의미가 아닙니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "claim-assert",
+    "wordId": "claim",
+    "lemma": "claim",
+    "pos": "v",
+    "meaning": "주장하다",
+    "aliases": [
+      "주장하다"
+    ],
+    "domain": "news",
+    "difficulty": 2,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "claim-assert-1",
+        "en": "The manufacturer claims that the new battery lasts longer.",
+        "ko": "제조업체는 새 배터리의 수명이 더 길다고 주장합니다."
+      },
+      {
+        "id": "claim-assert-2",
+        "en": "The report claims that remote work has increased productivity.",
+        "ko": "보고서는 원격 근무가 생산성을 높였다고 주장합니다."
+      }
+    ],
+    "expressions": [
+      "claim that",
+      "claim responsibility"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "assert"
+    ],
+    "misconception": "사실로 확인된 것과 보고서가 주장하는 것을 구별하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "claim-request",
+    "wordId": "claim",
+    "lemma": "claim",
+    "pos": "v",
+    "meaning": "청구하다",
+    "aliases": [
+      "청구하다",
+      "요구하다"
+    ],
+    "domain": "finance",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "claim-request-1",
+        "en": "Employees can claim travel expenses by submitting the original receipts.",
+        "ko": "직원은 영수증 원본을 제출하여 출장비를 청구할 수 있습니다."
+      },
+      {
+        "id": "claim-request-2",
+        "en": "You may claim a refund if the delivery is more than a week late.",
+        "ko": "배송이 일주일 넘게 늦어지면 환불을 청구할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "claim expenses",
+      "claim a refund"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "reclaim"
+    ],
+    "misconception": "주장하다와 구별하여 환불 권리를 요구하는 의미로 읽으세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "claim-take",
+    "wordId": "claim",
+    "lemma": "claim",
+    "pos": "v",
+    "meaning": "찾다 / 차지하다",
+    "aliases": [
+      "차지하다",
+      "확보하다",
+      "찾다"
+    ],
+    "domain": "travel",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "claim-take-1",
+        "en": "Passengers should claim their baggage before leaving the terminal.",
+        "ko": "승객은 터미널을 떠나기 전에 수하물을 찾아야 합니다."
+      },
+      {
+        "id": "claim-take-2",
+        "en": "Arrive early to claim a seat near the front.",
+        "ko": "앞쪽 자리를 확보하려면 일찍 도착하세요."
+      }
+    ],
+    "expressions": [
+      "claim baggage",
+      "claim a seat"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [
+      "reserve"
+    ],
+    "misconception": "좌석이나 수하물을 확보하는 의미입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "placement-assignment",
+    "wordId": "placement",
+    "lemma": "placement",
+    "pos": "n",
+    "meaning": "배치 / 취업 알선",
+    "aliases": [
+      "배치 ",
+      " 취업 알선"
+    ],
+    "domain": "hr",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "placement-assignment-1",
+        "en": "The college offers job placement assistance to recent graduates.",
+        "ko": "그 대학은 최근 졸업생들에게 취업 알선 지원을 제공합니다."
+      }
+    ],
+    "expressions": [
+      "job placement",
+      "staff placement"
+    ],
+    "prepositions": [],
+    "confusion": [
+      "replacement"
+    ],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "replacement-substitute",
+    "wordId": "replacement",
+    "lemma": "replacement",
+    "pos": "n",
+    "meaning": "교체품 / 대체 인력",
+    "aliases": [
+      "교체품 ",
+      " 대체 인력"
+    ],
+    "domain": "service",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "replacement-substitute-1",
+        "en": "A replacement part will be shipped at no additional cost.",
+        "ko": "교체 부품은 추가 비용 없이 발송될 것입니다."
+      }
+    ],
+    "expressions": [
+      "replacement part",
+      "replacement employee"
+    ],
+    "prepositions": [],
+    "confusion": [
+      "placement"
+    ],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "notice-announcement",
+    "wordId": "notice",
+    "lemma": "notice",
+    "pos": "n",
+    "meaning": "공지 / 통지",
+    "aliases": [
+      "공지",
+      "통지",
+      "사전 통지"
+    ],
+    "domain": "office",
+    "difficulty": 2,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "notice-announcement-1",
+        "en": "Tenants must give thirty days of written notice before moving out.",
+        "ko": "임차인은 퇴거하기 30일 전에 서면으로 통지해야 합니다."
+      },
+      {
+        "id": "notice-announcement-2",
+        "en": "The office requires two weeks of advance notice for large catering orders.",
+        "ko": "사무실은 대규모 출장 음식 주문에 대해 2주 전 사전 통지를 요구합니다."
+      }
+    ],
+    "expressions": [
+      "advance notice",
+      "written notice"
+    ],
+    "prepositions": [],
+    "confusion": [
+      "notify"
+    ],
+    "family": [
+      "notification",
+      "notify"
+    ],
+    "misconception": "notice는 명사나 동사, notify는 동사입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "notice-observe",
+    "wordId": "notice",
+    "lemma": "notice",
+    "pos": "v",
+    "meaning": "알아차리다",
+    "aliases": [
+      "알아차리다"
+    ],
+    "domain": "general",
+    "difficulty": 1,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "notice-observe-1",
+        "en": "Please contact us if you notice an error on your statement.",
+        "ko": "명세서에서 오류를 발견하면 연락해 주세요."
+      }
+    ],
+    "expressions": [
+      "notice a change",
+      "notice a difference"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "notify-inform",
+    "wordId": "notify",
+    "lemma": "notify",
+    "pos": "v",
+    "meaning": "알리다 / 통지하다",
+    "aliases": [
+      "알리다",
+      "통지하다"
+    ],
+    "domain": "office",
+    "difficulty": 2,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "notify-inform-1",
+        "en": "Please notify the manager of any changes to your address.",
+        "ko": "주소가 변경되면 관리자에게 알려 주세요."
+      },
+      {
+        "id": "notify-inform-2",
+        "en": "The airline will notify passengers of any gate changes.",
+        "ko": "항공사는 탑승구 변경 사항을 승객에게 알릴 것입니다."
+      }
+    ],
+    "expressions": [
+      "notify someone of",
+      "notify in advance"
+    ],
+    "prepositions": [
+      "notify someone of something"
+    ],
+    "confusion": [
+      "notice"
+    ],
+    "family": [
+      "notice",
+      "notification"
+    ],
+    "misconception": "notify 사람 of 사항 구조를 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "amount-sum",
+    "wordId": "amount",
+    "lemma": "amount",
+    "pos": "n",
+    "meaning": "금액 / 양",
+    "aliases": [
+      "금액 ",
+      " 양"
+    ],
+    "domain": "finance",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "amount-sum-1",
+        "en": "The total amount includes shipping and handling charges.",
+        "ko": "총금액에는 배송 및 취급 수수료가 포함됩니다."
+      }
+    ],
+    "expressions": [
+      "total amount",
+      "amount due"
+    ],
+    "prepositions": [],
+    "confusion": [
+      "quantity"
+    ],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "quantity-number",
+    "wordId": "quantity",
+    "lemma": "quantity",
+    "pos": "n",
+    "meaning": "수량",
+    "aliases": [
+      "수량"
+    ],
+    "domain": "procurement",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "quantity-number-1",
+        "en": "The unit price depends on the quantity ordered.",
+        "ko": "개당 가격은 주문 수량에 따라 달라집니다."
+      }
+    ],
+    "expressions": [
+      "order quantity",
+      "large quantities"
+    ],
+    "prepositions": [],
+    "confusion": [
+      "amount"
+    ],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "dispatch-send",
+    "wordId": "dispatch",
+    "lemma": "dispatch",
+    "pos": "v",
+    "meaning": "발송하다",
+    "aliases": [
+      "발송하다"
+    ],
+    "domain": "logistics",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "dispatch-send-1",
+        "en": "We will dispatch your order as soon as payment is confirmed.",
+        "ko": "결제가 확인되는 즉시 주문하신 물품을 발송하겠습니다."
+      }
+    ],
+    "expressions": [
+      "dispatch an order",
+      "dispatch a courier"
+    ],
+    "prepositions": [],
+    "confusion": [
+      "deliver"
+    ],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "deliver-bring",
+    "wordId": "deliver",
+    "lemma": "deliver",
+    "pos": "v",
+    "meaning": "배송하다 / 전달하다",
+    "aliases": [
+      "배송하다 ",
+      " 전달하다"
+    ],
+    "domain": "logistics",
+    "difficulty": 1,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "deliver-bring-1",
+        "en": "The courier delivered the package to the reception desk.",
+        "ko": "택배 기사가 소포를 안내 데스크에 배송했습니다."
+      }
+    ],
+    "expressions": [
+      "deliver a package",
+      "deliver goods"
+    ],
+    "prepositions": [],
+    "confusion": [
+      "dispatch"
+    ],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "return-giveback",
+    "wordId": "return",
+    "lemma": "return",
+    "pos": "v",
+    "meaning": "반품하다 / 돌려주다",
+    "aliases": [
+      "반품하다 ",
+      " 돌려주다"
+    ],
+    "domain": "service",
+    "difficulty": 1,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "return-giveback-1",
+        "en": "You may return unused items within fourteen days.",
+        "ko": "사용하지 않은 상품은 14일 이내에 반품할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "return an item",
+      "return a product"
+    ],
+    "prepositions": [],
+    "confusion": [
+      "refund",
+      "reimburse"
+    ],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "refund-money",
+    "wordId": "refund",
+    "lemma": "refund",
+    "pos": "n",
+    "meaning": "환불금",
+    "aliases": [
+      "환불금"
+    ],
+    "domain": "service",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "refund-money-1",
+        "en": "A full refund will be issued if the event is canceled.",
+        "ko": "행사가 취소되면 전액 환불됩니다."
+      }
+    ],
+    "expressions": [
+      "issue a refund",
+      "full refund"
+    ],
+    "prepositions": [],
+    "confusion": [
+      "return",
+      "reimburse"
+    ],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "reimburse-repay",
+    "wordId": "reimburse",
+    "lemma": "reimburse",
+    "pos": "v",
+    "meaning": "상환하다 / 실비를 지급하다",
+    "aliases": [
+      "상환하다",
+      "실비를 지급하다",
+      "변제하다"
+    ],
+    "domain": "finance",
+    "difficulty": 3,
+    "priority": 5,
+    "examples": [
+      {
+        "id": "reimburse-repay-1",
+        "en": "The company will reimburse employees for approved travel expenses.",
+        "ko": "회사는 승인된 출장비를 직원에게 지급할 것입니다."
+      },
+      {
+        "id": "reimburse-repay-2",
+        "en": "Bring your train ticket so we can reimburse you for the fare.",
+        "ko": "운임을 지급해 드릴 수 있도록 기차표를 가져오세요."
+      }
+    ],
+    "expressions": [
+      "reimburse expenses",
+      "reimburse someone for"
+    ],
+    "prepositions": [
+      "reimburse someone for something"
+    ],
+    "confusion": [
+      "return",
+      "refund"
+    ],
+    "family": [
+      "reimbursement",
+      "refund"
+    ],
+    "misconception": "환불보다 이미 대신 지출한 비용을 돌려주는 의미입니다.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "quotation-estimate",
+    "wordId": "quotation",
+    "lemma": "quotation",
+    "pos": "n",
+    "meaning": "견적서",
+    "aliases": [
+      "견적서"
+    ],
+    "domain": "procurement",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "quotation-estimate-1",
+        "en": "Please send us a written quotation for the repair work.",
+        "ko": "수리 작업에 대한 서면 견적서를 보내 주세요."
+      }
+    ],
+    "expressions": [
+      "request a quotation",
+      "written quotation"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "address-deal",
+    "wordId": "address",
+    "lemma": "address",
+    "pos": "v",
+    "meaning": "다루다 / 처리하다",
+    "aliases": [
+      "다루다 ",
+      " 처리하다"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "address-deal-1",
+        "en": "The revised policy addresses concerns raised by employees.",
+        "ko": "개정된 정책은 직원들이 제기한 우려를 다룹니다."
+      }
+    ],
+    "expressions": [
+      "address a concern",
+      "address an issue"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "charge-fee",
+    "wordId": "charge",
+    "lemma": "charge",
+    "pos": "n",
+    "meaning": "요금",
+    "aliases": [
+      "요금"
+    ],
+    "domain": "banking",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "charge-fee-1",
+        "en": "There is no additional charge for delivery within the city.",
+        "ko": "시내 배송에는 추가 요금이 없습니다."
+      }
+    ],
+    "expressions": [
+      "service charge",
+      "additional charge"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "charge-bill",
+    "wordId": "charge",
+    "lemma": "charge",
+    "pos": "v",
+    "meaning": "청구하다",
+    "aliases": [
+      "청구하다"
+    ],
+    "domain": "banking",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "charge-bill-1",
+        "en": "The hotel charges guests for parking overnight.",
+        "ko": "호텔은 투숙객에게 야간 주차 요금을 청구합니다."
+      }
+    ],
+    "expressions": [
+      "charge a fee",
+      "charge for"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "subject-to-conditional",
+    "wordId": "subject-to",
+    "lemma": "subject to",
+    "pos": "phrase",
+    "meaning": "조건부인 / 적용을 받는",
+    "aliases": [
+      "조건부인 ",
+      " 적용을 받는"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "subject-to-conditional-1",
+        "en": "All reservations are subject to availability.",
+        "ko": "모든 예약은 이용 가능한 자리가 있어야 확정됩니다."
+      }
+    ],
+    "expressions": [
+      "subject to",
+      "subject to approval",
+      "subject to change"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "due-payable",
+    "wordId": "due",
+    "lemma": "due",
+    "pos": "adj",
+    "meaning": "지불 기한이 된",
+    "aliases": [
+      "지불 기한이 된"
+    ],
+    "domain": "finance",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "due-payable-1",
+        "en": "Payment is due within ten days of the invoice date.",
+        "ko": "대금은 청구서 발행일로부터 10일 이내에 지급해야 합니다."
+      }
+    ],
+    "expressions": [
+      "payment due",
+      "amount due"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "comply-obey",
+    "wordId": "comply",
+    "lemma": "comply",
+    "pos": "v",
+    "meaning": "준수하다",
+    "aliases": [
+      "준수하다"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "comply-obey-1",
+        "en": "All contractors must comply with the new safety regulations.",
+        "ko": "모든 계약업체는 새로운 안전 규정을 준수해야 합니다."
+      }
+    ],
+    "expressions": [
+      "comply with regulations",
+      "comply with requirements"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "provision-clause",
+    "wordId": "provision",
+    "lemma": "provision",
+    "pos": "n",
+    "meaning": "조항",
+    "aliases": [
+      "조항"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "provision-clause-1",
+        "en": "The agreement contains a provision allowing either party to terminate it.",
+        "ko": "계약에는 어느 당사자든 계약을 해지할 수 있게 하는 조항이 있습니다."
+      }
+    ],
+    "expressions": [
+      "contract provision",
+      "under a provision"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "terminate-end",
+    "wordId": "terminate",
+    "lemma": "terminate",
+    "pos": "v",
+    "meaning": "해지하다 / 종료하다",
+    "aliases": [
+      "해지하다 ",
+      " 종료하다"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "terminate-end-1",
+        "en": "Either party may terminate the contract with written notice.",
+        "ko": "어느 당사자든 서면 통지로 계약을 해지할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "terminate a contract",
+      "terminate employment"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "renew-extend",
+    "wordId": "renew",
+    "lemma": "renew",
+    "pos": "v",
+    "meaning": "갱신하다",
+    "aliases": [
+      "갱신하다"
+    ],
+    "domain": "contract",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "renew-extend-1",
+        "en": "You must renew your license before it expires.",
+        "ko": "면허가 만료되기 전에 갱신해야 합니다."
+      }
+    ],
+    "expressions": [
+      "renew a contract",
+      "renew a license"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "waive-giveup",
+    "wordId": "waive",
+    "lemma": "waive",
+    "pos": "v",
+    "meaning": "면제하다 / 포기하다",
+    "aliases": [
+      "면제하다 ",
+      " 포기하다"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "waive-giveup-1",
+        "en": "The bank agreed to waive the monthly maintenance fee.",
+        "ko": "은행은 월 계좌 유지 수수료를 면제하기로 했습니다."
+      }
+    ],
+    "expressions": [
+      "waive a fee",
+      "waive a right"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "liable-responsible",
+    "wordId": "liable",
+    "lemma": "liable",
+    "pos": "adj",
+    "meaning": "책임이 있는",
+    "aliases": [
+      "책임이 있는"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "liable-responsible-1",
+        "en": "The tenant is liable for damage caused by negligence.",
+        "ko": "임차인은 부주의로 발생한 손해에 책임이 있습니다."
+      }
+    ],
+    "expressions": [
+      "liable for damages",
+      "legally liable"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "binding-obligatory",
+    "wordId": "binding",
+    "lemma": "binding",
+    "pos": "adj",
+    "meaning": "구속력 있는",
+    "aliases": [
+      "구속력 있는"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "binding-obligatory-1",
+        "en": "The agreement becomes legally binding when both parties sign it.",
+        "ko": "양 당사자가 서명하면 계약에 법적 구속력이 생깁니다."
+      }
+    ],
+    "expressions": [
+      "legally binding",
+      "binding agreement"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "amend-revise",
+    "wordId": "amend",
+    "lemma": "amend",
+    "pos": "v",
+    "meaning": "수정하다 / 개정하다",
+    "aliases": [
+      "수정하다 ",
+      " 개정하다"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "amend-revise-1",
+        "en": "The committee voted to amend the reimbursement policy.",
+        "ko": "위원회는 비용 상환 정책을 개정하기로 의결했습니다."
+      }
+    ],
+    "expressions": [
+      "amend a contract",
+      "amend a policy"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "breach-violation",
+    "wordId": "breach",
+    "lemma": "breach",
+    "pos": "n",
+    "meaning": "위반",
+    "aliases": [
+      "위반"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "breach-violation-1",
+        "en": "Failure to deliver the goods may constitute a breach of contract.",
+        "ko": "물품을 납품하지 못하면 계약 위반에 해당할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "breach of contract",
+      "security breach"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "consent-permission",
+    "wordId": "consent",
+    "lemma": "consent",
+    "pos": "n",
+    "meaning": "동의",
+    "aliases": [
+      "동의"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "consent-permission-1",
+        "en": "No changes may be made without the owner's written consent.",
+        "ko": "소유자의 서면 동의 없이는 변경할 수 없습니다."
+      }
+    ],
+    "expressions": [
+      "written consent",
+      "prior consent"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "invoice-bill",
+    "wordId": "invoice",
+    "lemma": "invoice",
+    "pos": "n",
+    "meaning": "청구서",
+    "aliases": [
+      "청구서"
+    ],
+    "domain": "finance",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "invoice-bill-1",
+        "en": "The invoice lists each service and its associated cost.",
+        "ko": "청구서에는 각 서비스와 해당 비용이 기재되어 있습니다."
+      }
+    ],
+    "expressions": [
+      "issue an invoice",
+      "itemized invoice"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "revenue-income",
+    "wordId": "revenue",
+    "lemma": "revenue",
+    "pos": "n",
+    "meaning": "매출 / 수입",
+    "aliases": [
+      "매출 ",
+      " 수입"
+    ],
+    "domain": "finance",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "revenue-income-1",
+        "en": "Revenue increased after the company opened two new stores.",
+        "ko": "회사가 새 매장 두 곳을 연 뒤 매출이 증가했습니다."
+      }
+    ],
+    "expressions": [
+      "annual revenue",
+      "generate revenue"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "expenditure-spending",
+    "wordId": "expenditure",
+    "lemma": "expenditure",
+    "pos": "n",
+    "meaning": "지출",
+    "aliases": [
+      "지출"
+    ],
+    "domain": "finance",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "expenditure-spending-1",
+        "en": "The board approved expenditure on new manufacturing equipment.",
+        "ko": "이사회는 새 제조 장비에 대한 지출을 승인했습니다."
+      }
+    ],
+    "expressions": [
+      "capital expenditure",
+      "reduce expenditure"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "asset-property",
+    "wordId": "asset",
+    "lemma": "asset",
+    "pos": "n",
+    "meaning": "자산",
+    "aliases": [
+      "자산"
+    ],
+    "domain": "finance",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "asset-property-1",
+        "en": "The company sold several assets to repay its loans.",
+        "ko": "회사는 대출을 상환하기 위해 여러 자산을 매각했습니다."
+      }
+    ],
+    "expressions": [
+      "fixed assets",
+      "valuable asset"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "liability-debt",
+    "wordId": "liability",
+    "lemma": "liability",
+    "pos": "n",
+    "meaning": "부채",
+    "aliases": [
+      "부채"
+    ],
+    "domain": "finance",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "liability-debt-1",
+        "en": "The report lists the company's assets and liabilities.",
+        "ko": "보고서에는 회사의 자산과 부채가 기재되어 있습니다."
+      }
+    ],
+    "expressions": [
+      "current liabilities",
+      "financial liability"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "audit-examination",
+    "wordId": "audit",
+    "lemma": "audit",
+    "pos": "n",
+    "meaning": "감사",
+    "aliases": [
+      "감사"
+    ],
+    "domain": "finance",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "audit-examination-1",
+        "en": "An external firm will conduct an audit of our accounts.",
+        "ko": "외부 업체가 당사의 회계 감사를 실시할 것입니다."
+      }
+    ],
+    "expressions": [
+      "conduct an audit",
+      "annual audit"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "surplus-excess",
+    "wordId": "surplus",
+    "lemma": "surplus",
+    "pos": "n",
+    "meaning": "잉여금 / 잉여분",
+    "aliases": [
+      "잉여금 ",
+      " 잉여분"
+    ],
+    "domain": "finance",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "surplus-excess-1",
+        "en": "The budget surplus will be used to upgrade the facility.",
+        "ko": "예산 잉여금은 시설 개선에 사용될 것입니다."
+      }
+    ],
+    "expressions": [
+      "budget surplus",
+      "surplus stock"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "deficit-shortfall",
+    "wordId": "deficit",
+    "lemma": "deficit",
+    "pos": "n",
+    "meaning": "적자 / 부족액",
+    "aliases": [
+      "적자 ",
+      " 부족액"
+    ],
+    "domain": "finance",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "deficit-shortfall-1",
+        "en": "The department must reduce spending to avoid a budget deficit.",
+        "ko": "부서는 예산 적자를 피하기 위해 지출을 줄여야 합니다."
+      }
+    ],
+    "expressions": [
+      "budget deficit",
+      "reduce a deficit"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "installment-payment",
+    "wordId": "installment",
+    "lemma": "installment",
+    "pos": "n",
+    "meaning": "분할 납부금",
+    "aliases": [
+      "분할 납부금"
+    ],
+    "domain": "banking",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "installment-payment-1",
+        "en": "Customers can pay for the equipment in six monthly installments.",
+        "ko": "고객은 장비 대금을 6개월에 걸쳐 분할 납부할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "monthly installment",
+      "pay in installments"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "collateral-security",
+    "wordId": "collateral",
+    "lemma": "collateral",
+    "pos": "n",
+    "meaning": "담보",
+    "aliases": [
+      "담보"
+    ],
+    "domain": "banking",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "collateral-security-1",
+        "en": "The lender requires property as collateral for the loan.",
+        "ko": "대출 기관은 대출의 담보로 부동산을 요구합니다."
+      }
+    ],
+    "expressions": [
+      "provide collateral",
+      "use as collateral"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "withdraw-take",
+    "wordId": "withdraw",
+    "lemma": "withdraw",
+    "pos": "v",
+    "meaning": "인출하다",
+    "aliases": [
+      "인출하다"
+    ],
+    "domain": "banking",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "withdraw-take-1",
+        "en": "You can withdraw cash from any of our branch locations.",
+        "ko": "당사의 모든 지점에서 현금을 인출할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "withdraw cash",
+      "withdraw funds"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "transfer-move",
+    "wordId": "transfer",
+    "lemma": "transfer",
+    "pos": "v",
+    "meaning": "이체하다 / 옮기다",
+    "aliases": [
+      "이체하다 ",
+      " 옮기다"
+    ],
+    "domain": "banking",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "transfer-move-1",
+        "en": "Please transfer the remaining funds to your savings account.",
+        "ko": "남은 자금을 저축 계좌로 이체해 주세요."
+      }
+    ],
+    "expressions": [
+      "transfer funds",
+      "bank transfer"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "balance-remainder",
+    "wordId": "balance",
+    "lemma": "balance",
+    "pos": "n",
+    "meaning": "잔액",
+    "aliases": [
+      "잔액"
+    ],
+    "domain": "banking",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "balance-remainder-1",
+        "en": "Your account balance is shown at the top of the statement.",
+        "ko": "계좌 잔액은 명세서 상단에 표시됩니다."
+      }
+    ],
+    "expressions": [
+      "account balance",
+      "remaining balance"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "remittance-payment",
+    "wordId": "remittance",
+    "lemma": "remittance",
+    "pos": "n",
+    "meaning": "송금 / 송금액",
+    "aliases": [
+      "송금 ",
+      " 송금액"
+    ],
+    "domain": "banking",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "remittance-payment-1",
+        "en": "Please include the invoice number with your remittance.",
+        "ko": "송금 시 청구서 번호를 함께 기재해 주세요."
+      }
+    ],
+    "expressions": [
+      "remittance advice",
+      "overseas remittance"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "overdue-late",
+    "wordId": "overdue",
+    "lemma": "overdue",
+    "pos": "adj",
+    "meaning": "기한이 지난",
+    "aliases": [
+      "기한이 지난"
+    ],
+    "domain": "finance",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "overdue-late-1",
+        "en": "A reminder will be sent for any overdue payment.",
+        "ko": "납부 기한이 지난 대금에 대해서는 안내문이 발송됩니다."
+      }
+    ],
+    "expressions": [
+      "overdue payment",
+      "overdue invoice"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "applicant-candidate",
+    "wordId": "applicant",
+    "lemma": "applicant",
+    "pos": "n",
+    "meaning": "지원자",
+    "aliases": [
+      "지원자"
+    ],
+    "domain": "hr",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "applicant-candidate-1",
+        "en": "Applicants must submit a resume and two references.",
+        "ko": "지원자는 이력서와 추천인 두 명의 정보를 제출해야 합니다."
+      }
+    ],
+    "expressions": [
+      "job applicant",
+      "qualified applicant"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "recruit-hire",
+    "wordId": "recruit",
+    "lemma": "recruit",
+    "pos": "v",
+    "meaning": "채용하다",
+    "aliases": [
+      "채용하다"
+    ],
+    "domain": "hr",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "recruit-hire-1",
+        "en": "The firm plans to recruit engineers for its new office.",
+        "ko": "그 회사는 새 사무실에서 근무할 엔지니어를 채용할 계획입니다."
+      }
+    ],
+    "expressions": [
+      "recruit staff",
+      "recruit employees"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "vacancy-opening",
+    "wordId": "vacancy",
+    "lemma": "vacancy",
+    "pos": "n",
+    "meaning": "공석",
+    "aliases": [
+      "공석"
+    ],
+    "domain": "hr",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "vacancy-opening-1",
+        "en": "The department has a vacancy for an experienced accountant.",
+        "ko": "그 부서에는 경력 회계사 공석이 있습니다."
+      }
+    ],
+    "expressions": [
+      "fill a vacancy",
+      "job vacancy"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "probation-trial",
+    "wordId": "probation",
+    "lemma": "probation",
+    "pos": "n",
+    "meaning": "수습 기간",
+    "aliases": [
+      "수습 기간"
+    ],
+    "domain": "hr",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "probation-trial-1",
+        "en": "New employees receive a performance review after their probation period.",
+        "ko": "신입 직원은 수습 기간 후에 근무 평가를 받습니다."
+      }
+    ],
+    "expressions": [
+      "probation period",
+      "on probation"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "tenure-service",
+    "wordId": "tenure",
+    "lemma": "tenure",
+    "pos": "n",
+    "meaning": "재직 기간",
+    "aliases": [
+      "재직 기간"
+    ],
+    "domain": "hr",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "tenure-service-1",
+        "en": "During her tenure as director, sales increased steadily.",
+        "ko": "그녀가 이사로 재직하는 동안 매출이 꾸준히 증가했습니다."
+      }
+    ],
+    "expressions": [
+      "during one's tenure",
+      "long tenure"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "resign-leave",
+    "wordId": "resign",
+    "lemma": "resign",
+    "pos": "v",
+    "meaning": "사임하다",
+    "aliases": [
+      "사임하다"
+    ],
+    "domain": "hr",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "resign-leave-1",
+        "en": "He resigned from his position to start his own business.",
+        "ko": "그는 자기 사업을 시작하기 위해 직책에서 사임했습니다."
+      }
+    ],
+    "expressions": [
+      "resign from",
+      "resign as"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "eligible-qualified",
+    "wordId": "eligible",
+    "lemma": "eligible",
+    "pos": "adj",
+    "meaning": "자격이 있는",
+    "aliases": [
+      "자격이 있는"
+    ],
+    "domain": "hr",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "eligible-qualified-1",
+        "en": "Employees are eligible for paid leave after six months.",
+        "ko": "직원은 6개월 후 유급 휴가를 사용할 자격이 생깁니다."
+      }
+    ],
+    "expressions": [
+      "eligible for",
+      "eligible to apply"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "compensation-pay",
+    "wordId": "compensation",
+    "lemma": "compensation",
+    "pos": "n",
+    "meaning": "보수 / 보상",
+    "aliases": [
+      "보수 ",
+      " 보상"
+    ],
+    "domain": "hr",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "compensation-pay-1",
+        "en": "The compensation package includes health insurance and an annual bonus.",
+        "ko": "보수 패키지에는 건강 보험과 연간 보너스가 포함됩니다."
+      }
+    ],
+    "expressions": [
+      "compensation package",
+      "receive compensation"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "appraisal-evaluation",
+    "wordId": "appraisal",
+    "lemma": "appraisal",
+    "pos": "n",
+    "meaning": "평가",
+    "aliases": [
+      "평가"
+    ],
+    "domain": "hr",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "appraisal-evaluation-1",
+        "en": "Your supervisor will discuss your goals during the annual appraisal.",
+        "ko": "상사는 연례 평가에서 귀하의 목표를 논의할 것입니다."
+      }
+    ],
+    "expressions": [
+      "performance appraisal",
+      "annual appraisal"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "mandatory-required",
+    "wordId": "mandatory",
+    "lemma": "mandatory",
+    "pos": "adj",
+    "meaning": "의무적인",
+    "aliases": [
+      "의무적인"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "mandatory-required-1",
+        "en": "Attendance at the safety training session is mandatory.",
+        "ko": "안전 교육 참석은 의무입니다."
+      }
+    ],
+    "expressions": [
+      "mandatory training",
+      "mandatory attendance"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "circulate-distribute",
+    "wordId": "circulate",
+    "lemma": "circulate",
+    "pos": "v",
+    "meaning": "배포하다 / 회람시키다",
+    "aliases": [
+      "배포하다 ",
+      " 회람시키다"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "circulate-distribute-1",
+        "en": "Please circulate the revised agenda before the meeting.",
+        "ko": "회의 전에 수정된 안건을 배포해 주세요."
+      }
+    ],
+    "expressions": [
+      "circulate a memo",
+      "circulate information"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "agenda-topics",
+    "wordId": "agenda",
+    "lemma": "agenda",
+    "pos": "n",
+    "meaning": "안건 / 의제",
+    "aliases": [
+      "안건 ",
+      " 의제"
+    ],
+    "domain": "office",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "agenda-topics-1",
+        "en": "The first item on the agenda is the office relocation.",
+        "ko": "안건의 첫 번째 항목은 사무실 이전입니다."
+      }
+    ],
+    "expressions": [
+      "meeting agenda",
+      "on the agenda"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "minutes-record",
+    "wordId": "minutes",
+    "lemma": "minutes",
+    "pos": "n",
+    "meaning": "회의록",
+    "aliases": [
+      "회의록"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "minutes-record-1",
+        "en": "The secretary distributed the minutes of last week's meeting.",
+        "ko": "비서는 지난주 회의의 회의록을 배포했습니다."
+      }
+    ],
+    "expressions": [
+      "meeting minutes",
+      "take minutes"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "delegate-assign",
+    "wordId": "delegate",
+    "lemma": "delegate",
+    "pos": "v",
+    "meaning": "위임하다",
+    "aliases": [
+      "위임하다"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "delegate-assign-1",
+        "en": "Managers should delegate routine tasks to their team members.",
+        "ko": "관리자는 일상적인 업무를 팀원에게 위임해야 합니다."
+      }
+    ],
+    "expressions": [
+      "delegate responsibility",
+      "delegate tasks"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "confidential-private",
+    "wordId": "confidential",
+    "lemma": "confidential",
+    "pos": "adj",
+    "meaning": "기밀의",
+    "aliases": [
+      "기밀의"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "confidential-private-1",
+        "en": "Please keep all client information confidential.",
+        "ko": "모든 고객 정보를 기밀로 유지해 주세요."
+      }
+    ],
+    "expressions": [
+      "confidential information",
+      "strictly confidential"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "adhere-follow",
+    "wordId": "adhere",
+    "lemma": "adhere",
+    "pos": "v",
+    "meaning": "준수하다 / 따르다",
+    "aliases": [
+      "준수하다 ",
+      " 따르다"
+    ],
+    "domain": "office",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "adhere-follow-1",
+        "en": "All staff must adhere to the updated security guidelines.",
+        "ko": "모든 직원은 갱신된 보안 지침을 준수해야 합니다."
+      }
+    ],
+    "expressions": [
+      "adhere to guidelines",
+      "adhere to a schedule"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "prompt-quick",
+    "wordId": "prompt",
+    "lemma": "prompt",
+    "pos": "adj",
+    "meaning": "신속한",
+    "aliases": [
+      "신속한"
+    ],
+    "domain": "service",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "prompt-quick-1",
+        "en": "Thank you for your prompt response to our inquiry.",
+        "ko": "문의에 신속하게 답변해 주셔서 감사합니다."
+      }
+    ],
+    "expressions": [
+      "prompt response",
+      "prompt payment"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "resolve-solve",
+    "wordId": "resolve",
+    "lemma": "resolve",
+    "pos": "v",
+    "meaning": "해결하다",
+    "aliases": [
+      "해결하다"
+    ],
+    "domain": "service",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "resolve-solve-1",
+        "en": "Our support team will help resolve the issue.",
+        "ko": "지원팀이 문제 해결을 도울 것입니다."
+      }
+    ],
+    "expressions": [
+      "resolve an issue",
+      "resolve a complaint"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "assure-reassure",
+    "wordId": "assure",
+    "lemma": "assure",
+    "pos": "v",
+    "meaning": "확신시키다 / 안심시키다",
+    "aliases": [
+      "확신시키다 ",
+      " 안심시키다"
+    ],
+    "domain": "service",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "assure-reassure-1",
+        "en": "The manager assured us that the order would arrive on time.",
+        "ko": "관리자는 주문품이 제시간에 도착할 것이라고 우리를 안심시켰습니다."
+      }
+    ],
+    "expressions": [
+      "assure a customer",
+      "assure someone that"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "ensure-makecertain",
+    "wordId": "ensure",
+    "lemma": "ensure",
+    "pos": "v",
+    "meaning": "보장하다 / 확실하게 하다",
+    "aliases": [
+      "보장하다 ",
+      " 확실하게 하다"
+    ],
+    "domain": "production",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "ensure-makecertain-1",
+        "en": "Please check the labels to ensure that each box reaches the correct customer.",
+        "ko": "각 상자가 올바른 고객에게 도착하도록 라벨을 확인해 주세요."
+      }
+    ],
+    "expressions": [
+      "ensure safety",
+      "ensure compliance"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "complimentary-free",
+    "wordId": "complimentary",
+    "lemma": "complimentary",
+    "pos": "adj",
+    "meaning": "무료의",
+    "aliases": [
+      "무료의"
+    ],
+    "domain": "hotel",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "complimentary-free-1",
+        "en": "All guests receive a complimentary breakfast during their stay.",
+        "ko": "모든 투숙객은 숙박 기간에 무료 조식을 제공받습니다."
+      }
+    ],
+    "expressions": [
+      "complimentary breakfast",
+      "complimentary ticket"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "complaint-grievance",
+    "wordId": "complaint",
+    "lemma": "complaint",
+    "pos": "n",
+    "meaning": "불만 / 항의",
+    "aliases": [
+      "불만 ",
+      " 항의"
+    ],
+    "domain": "service",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "complaint-grievance-1",
+        "en": "Customers can file a complaint through our website.",
+        "ko": "고객은 당사 웹사이트를 통해 불만을 접수할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "file a complaint",
+      "handle complaints"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "warranty-guarantee",
+    "wordId": "warranty",
+    "lemma": "warranty",
+    "pos": "n",
+    "meaning": "품질 보증",
+    "aliases": [
+      "품질 보증"
+    ],
+    "domain": "service",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "warranty-guarantee-1",
+        "en": "The repair is free because the device is still under warranty.",
+        "ko": "기기가 아직 보증 기간 내에 있어 수리는 무료입니다."
+      }
+    ],
+    "expressions": [
+      "under warranty",
+      "extended warranty"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "redeem-exchange",
+    "wordId": "redeem",
+    "lemma": "redeem",
+    "pos": "v",
+    "meaning": "교환하여 사용하다",
+    "aliases": [
+      "교환하여 사용하다"
+    ],
+    "domain": "service",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "redeem-exchange-1",
+        "en": "You can redeem this voucher at any participating store.",
+        "ko": "이 상품권은 모든 참여 매장에서 사용할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "redeem a voucher",
+      "redeem points"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "accommodate-meet",
+    "wordId": "accommodate",
+    "lemma": "accommodate",
+    "pos": "v",
+    "meaning": "수용하다 / 요구에 맞추다",
+    "aliases": [
+      "수용하다 ",
+      " 요구에 맞추다"
+    ],
+    "domain": "service",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "accommodate-meet-1",
+        "en": "We can adjust the schedule to accommodate your request.",
+        "ko": "요청에 맞추어 일정을 조정할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "accommodate a request",
+      "accommodate guests"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "shipment-goods",
+    "wordId": "shipment",
+    "lemma": "shipment",
+    "pos": "n",
+    "meaning": "배송 물품 / 화물",
+    "aliases": [
+      "배송 물품 ",
+      " 화물"
+    ],
+    "domain": "logistics",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "shipment-goods-1",
+        "en": "The shipment contains fifty replacement keyboards.",
+        "ko": "배송 물품에는 교체용 키보드 50개가 들어 있습니다."
+      }
+    ],
+    "expressions": [
+      "track a shipment",
+      "partial shipment"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "consignment-goods",
+    "wordId": "consignment",
+    "lemma": "consignment",
+    "pos": "n",
+    "meaning": "탁송 화물",
+    "aliases": [
+      "탁송 화물"
+    ],
+    "domain": "logistics",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "consignment-goods-1",
+        "en": "The consignment was inspected before it left the warehouse.",
+        "ko": "탁송 화물은 창고를 떠나기 전에 검사를 받았습니다."
+      }
+    ],
+    "expressions": [
+      "consignment note",
+      "on consignment"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "freight-cargo",
+    "wordId": "freight",
+    "lemma": "freight",
+    "pos": "n",
+    "meaning": "화물 / 운송",
+    "aliases": [
+      "화물 ",
+      " 운송"
+    ],
+    "domain": "logistics",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "freight-cargo-1",
+        "en": "Air freight is faster but more expensive than shipping by sea.",
+        "ko": "항공 운송은 해상 운송보다 빠르지만 더 비쌉니다."
+      }
+    ],
+    "expressions": [
+      "freight charges",
+      "air freight"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "customs-border",
+    "wordId": "customs",
+    "lemma": "customs",
+    "pos": "n",
+    "meaning": "세관",
+    "aliases": [
+      "세관"
+    ],
+    "domain": "logistics",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "customs-border-1",
+        "en": "The goods cannot be released until customs clearance is complete.",
+        "ko": "통관이 완료될 때까지 물품을 반출할 수 없습니다."
+      }
+    ],
+    "expressions": [
+      "customs clearance",
+      "customs declaration"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "warehouse-storage",
+    "wordId": "warehouse",
+    "lemma": "warehouse",
+    "pos": "n",
+    "meaning": "창고",
+    "aliases": [
+      "창고"
+    ],
+    "domain": "logistics",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "warehouse-storage-1",
+        "en": "The new warehouse has enough space for seasonal inventory.",
+        "ko": "새 창고에는 계절 재고를 보관할 공간이 충분합니다."
+      }
+    ],
+    "expressions": [
+      "warehouse capacity",
+      "warehouse staff"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "inventory-stock",
+    "wordId": "inventory",
+    "lemma": "inventory",
+    "pos": "n",
+    "meaning": "재고",
+    "aliases": [
+      "재고"
+    ],
+    "domain": "procurement",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "inventory-stock-1",
+        "en": "We check inventory levels before placing new orders.",
+        "ko": "새 주문을 하기 전에 재고 수준을 확인합니다."
+      }
+    ],
+    "expressions": [
+      "inventory levels",
+      "take inventory"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "vendor-seller",
+    "wordId": "vendor",
+    "lemma": "vendor",
+    "pos": "n",
+    "meaning": "판매업체",
+    "aliases": [
+      "판매업체"
+    ],
+    "domain": "procurement",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "vendor-seller-1",
+        "en": "Please choose a supplier from the approved vendor list.",
+        "ko": "승인된 판매업체 목록에서 공급업체를 선택해 주세요."
+      }
+    ],
+    "expressions": [
+      "approved vendor",
+      "vendor agreement"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "bid-offer",
+    "wordId": "bid",
+    "lemma": "bid",
+    "pos": "n",
+    "meaning": "입찰",
+    "aliases": [
+      "입찰"
+    ],
+    "domain": "procurement",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "bid-offer-1",
+        "en": "Three firms submitted bids for the renovation project.",
+        "ko": "세 업체가 개보수 사업에 입찰서를 제출했습니다."
+      }
+    ],
+    "expressions": [
+      "submit a bid",
+      "competitive bid"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "specification-requirement",
+    "wordId": "specification",
+    "lemma": "specification",
+    "pos": "n",
+    "meaning": "사양",
+    "aliases": [
+      "사양"
+    ],
+    "domain": "procurement",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "specification-requirement-1",
+        "en": "The equipment must meet the specifications in the purchase order.",
+        "ko": "장비는 구매 주문서에 명시된 사양을 충족해야 합니다."
+      }
+    ],
+    "expressions": [
+      "technical specifications",
+      "meet specifications"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "bulk-largequantity",
+    "wordId": "bulk",
+    "lemma": "bulk",
+    "pos": "n",
+    "meaning": "대량",
+    "aliases": [
+      "대량"
+    ],
+    "domain": "procurement",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "bulk-largequantity-1",
+        "en": "Ordering paper in bulk reduces the cost per box.",
+        "ko": "종이를 대량 주문하면 상자당 비용이 줄어듭니다."
+      }
+    ],
+    "expressions": [
+      "in bulk",
+      "bulk order"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "backorder-unfilled",
+    "wordId": "backorder",
+    "lemma": "backorder",
+    "pos": "n",
+    "meaning": "재고 부족으로 미처리된 주문",
+    "aliases": [
+      "재고 부족으로 미처리된 주문"
+    ],
+    "domain": "procurement",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "backorder-unfilled-1",
+        "en": "The printer is on backorder and will ship next week.",
+        "ko": "프린터는 재고 부족으로 주문이 미처리된 상태이며 다음 주에 발송될 예정입니다."
+      }
+    ],
+    "expressions": [
+      "on backorder",
+      "fill a backorder"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "defect-fault",
+    "wordId": "defect",
+    "lemma": "defect",
+    "pos": "n",
+    "meaning": "결함",
+    "aliases": [
+      "결함"
+    ],
+    "domain": "production",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "defect-fault-1",
+        "en": "The inspection revealed a defect in the cooling system.",
+        "ko": "검사에서 냉각 시스템의 결함이 발견되었습니다."
+      }
+    ],
+    "expressions": [
+      "manufacturing defect",
+      "detect a defect"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "recall-withdraw",
+    "wordId": "recall",
+    "lemma": "recall",
+    "pos": "v",
+    "meaning": "리콜하다 / 회수하다",
+    "aliases": [
+      "리콜하다 ",
+      " 회수하다"
+    ],
+    "domain": "production",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "recall-withdraw-1",
+        "en": "The manufacturer recalled the heaters after discovering a safety issue.",
+        "ko": "제조업체는 안전 문제를 발견한 후 난방기를 회수했습니다."
+      }
+    ],
+    "expressions": [
+      "recall a product",
+      "recall defective units"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "recall-remember",
+    "wordId": "recall",
+    "lemma": "recall",
+    "pos": "v",
+    "meaning": "기억해 내다",
+    "aliases": [
+      "기억해 내다"
+    ],
+    "domain": "general",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "recall-remember-1",
+        "en": "I cannot recall the exact date of our last inspection.",
+        "ko": "지난 검사 날짜를 정확히 기억해 낼 수 없습니다."
+      }
+    ],
+    "expressions": [
+      "recall a detail",
+      "recall a conversation"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "assemble-puttogether",
+    "wordId": "assemble",
+    "lemma": "assemble",
+    "pos": "v",
+    "meaning": "조립하다",
+    "aliases": [
+      "조립하다"
+    ],
+    "domain": "production",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "assemble-puttogether-1",
+        "en": "Workers assemble the components before testing the finished product.",
+        "ko": "작업자들은 완제품을 시험하기 전에 부품을 조립합니다."
+      }
+    ],
+    "expressions": [
+      "assemble components",
+      "assemble a product"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "inspect-examine",
+    "wordId": "inspect",
+    "lemma": "inspect",
+    "pos": "v",
+    "meaning": "점검하다 / 검사하다",
+    "aliases": [
+      "점검하다 ",
+      " 검사하다"
+    ],
+    "domain": "production",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "inspect-examine-1",
+        "en": "Please inspect each package for damage before signing the receipt.",
+        "ko": "인수증에 서명하기 전에 각 소포의 파손 여부를 확인해 주세요."
+      }
+    ],
+    "expressions": [
+      "inspect equipment",
+      "inspect for damage"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "capacity-maximum",
+    "wordId": "capacity",
+    "lemma": "capacity",
+    "pos": "n",
+    "meaning": "수용 능력 / 생산 능력",
+    "aliases": [
+      "수용 능력 ",
+      " 생산 능력"
+    ],
+    "domain": "production",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "capacity-maximum-1",
+        "en": "The factory is operating at full capacity to meet demand.",
+        "ko": "공장은 수요를 충족하기 위해 최대 생산 능력으로 가동되고 있습니다."
+      }
+    ],
+    "expressions": [
+      "production capacity",
+      "at full capacity"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "maintenance-upkeep",
+    "wordId": "maintenance",
+    "lemma": "maintenance",
+    "pos": "n",
+    "meaning": "유지 보수",
+    "aliases": [
+      "유지 보수"
+    ],
+    "domain": "facility",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "maintenance-upkeep-1",
+        "en": "The elevator will be unavailable during scheduled maintenance.",
+        "ko": "예정된 유지 보수 중에는 엘리베이터를 이용할 수 없습니다."
+      }
+    ],
+    "expressions": [
+      "routine maintenance",
+      "scheduled maintenance"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "premises-property",
+    "wordId": "premises",
+    "lemma": "premises",
+    "pos": "n",
+    "meaning": "사업장 / 건물과 부지",
+    "aliases": [
+      "사업장 ",
+      " 건물과 부지"
+    ],
+    "domain": "facility",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "premises-property-1",
+        "en": "Visitors must wear identification badges while on the premises.",
+        "ko": "방문객은 사업장 내에서 신분증을 착용해야 합니다."
+      }
+    ],
+    "expressions": [
+      "on the premises",
+      "leave the premises"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "lease-rental",
+    "wordId": "lease",
+    "lemma": "lease",
+    "pos": "n",
+    "meaning": "임대차 계약",
+    "aliases": [
+      "임대차 계약"
+    ],
+    "domain": "facility",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "lease-rental-1",
+        "en": "The company signed a five-year lease for the office.",
+        "ko": "회사는 그 사무실에 대해 5년 임대차 계약을 체결했습니다."
+      }
+    ],
+    "expressions": [
+      "sign a lease",
+      "lease agreement"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "renovate-improve",
+    "wordId": "renovate",
+    "lemma": "renovate",
+    "pos": "v",
+    "meaning": "개보수하다",
+    "aliases": [
+      "개보수하다"
+    ],
+    "domain": "facility",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "renovate-improve-1",
+        "en": "The library will close for two weeks while workers renovate the entrance.",
+        "ko": "작업자들이 입구를 개보수하는 동안 도서관은 2주간 문을 닫습니다."
+      }
+    ],
+    "expressions": [
+      "renovate a building",
+      "newly renovated"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "tenant-renter",
+    "wordId": "tenant",
+    "lemma": "tenant",
+    "pos": "n",
+    "meaning": "임차인",
+    "aliases": [
+      "임차인"
+    ],
+    "domain": "facility",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "tenant-renter-1",
+        "en": "Tenants are responsible for keeping shared areas clean.",
+        "ko": "임차인은 공용 공간을 깨끗하게 유지할 책임이 있습니다."
+      }
+    ],
+    "expressions": [
+      "commercial tenant",
+      "tenant agreement"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "utility-service",
+    "wordId": "utility",
+    "lemma": "utility",
+    "pos": "n",
+    "meaning": "공공요금 관련 서비스",
+    "aliases": [
+      "공공요금 관련 서비스"
+    ],
+    "domain": "facility",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "utility-service-1",
+        "en": "The monthly rent does not include utility costs.",
+        "ko": "월세에는 공과금이 포함되지 않습니다."
+      }
+    ],
+    "expressions": [
+      "utility bill",
+      "utility costs"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "occupancy-use",
+    "wordId": "occupancy",
+    "lemma": "occupancy",
+    "pos": "n",
+    "meaning": "입주 / 객실 사용",
+    "aliases": [
+      "입주 ",
+      " 객실 사용"
+    ],
+    "domain": "facility",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "occupancy-use-1",
+        "en": "The renovated offices will be ready for occupancy in June.",
+        "ko": "개보수한 사무실은 6월에 입주할 수 있게 됩니다."
+      }
+    ],
+    "expressions": [
+      "occupancy rate",
+      "ready for occupancy"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "itinerary-plan",
+    "wordId": "itinerary",
+    "lemma": "itinerary",
+    "pos": "n",
+    "meaning": "여행 일정표",
+    "aliases": [
+      "여행 일정표"
+    ],
+    "domain": "travel",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "itinerary-plan-1",
+        "en": "Please review the updated itinerary before your departure.",
+        "ko": "출발 전에 갱신된 여행 일정표를 확인해 주세요."
+      }
+    ],
+    "expressions": [
+      "travel itinerary",
+      "revised itinerary"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "fare-price",
+    "wordId": "fare",
+    "lemma": "fare",
+    "pos": "n",
+    "meaning": "교통 요금",
+    "aliases": [
+      "교통 요금"
+    ],
+    "domain": "travel",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "fare-price-1",
+        "en": "The fare includes one checked bag and a light meal.",
+        "ko": "요금에는 위탁 수하물 한 개와 간단한 식사가 포함됩니다."
+      }
+    ],
+    "expressions": [
+      "round-trip fare",
+      "reduced fare"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "commute-travel",
+    "wordId": "commute",
+    "lemma": "commute",
+    "pos": "v",
+    "meaning": "통근하다",
+    "aliases": [
+      "통근하다"
+    ],
+    "domain": "travel",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "commute-travel-1",
+        "en": "Many employees commute by train to avoid traffic.",
+        "ko": "많은 직원은 교통 체증을 피하기 위해 기차로 통근합니다."
+      }
+    ],
+    "expressions": [
+      "commute to work",
+      "commute by train"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "detour-alternative",
+    "wordId": "detour",
+    "lemma": "detour",
+    "pos": "n",
+    "meaning": "우회로",
+    "aliases": [
+      "우회로"
+    ],
+    "domain": "travel",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "detour-alternative-1",
+        "en": "Drivers should follow the marked detour while the bridge is closed.",
+        "ko": "다리가 폐쇄된 동안 운전자는 표시된 우회로를 따라야 합니다."
+      }
+    ],
+    "expressions": [
+      "take a detour",
+      "follow a detour"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "valid-usable",
+    "wordId": "valid",
+    "lemma": "valid",
+    "pos": "adj",
+    "meaning": "유효한",
+    "aliases": [
+      "유효한"
+    ],
+    "domain": "travel",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "valid-usable-1",
+        "en": "This ticket is valid for thirty days from the date of purchase.",
+        "ko": "이 표는 구매일로부터 30일간 유효합니다."
+      }
+    ],
+    "expressions": [
+      "valid ticket",
+      "valid for"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "boarding-entering",
+    "wordId": "boarding",
+    "lemma": "boarding",
+    "pos": "n",
+    "meaning": "탑승",
+    "aliases": [
+      "탑승"
+    ],
+    "domain": "travel",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "boarding-entering-1",
+        "en": "Boarding will begin twenty minutes before the scheduled departure.",
+        "ko": "탑승은 예정된 출발 시각 20분 전에 시작됩니다."
+      }
+    ],
+    "expressions": [
+      "boarding pass",
+      "boarding gate"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "layover-stop",
+    "wordId": "layover",
+    "lemma": "layover",
+    "pos": "n",
+    "meaning": "경유 대기",
+    "aliases": [
+      "경유 대기"
+    ],
+    "domain": "travel",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "layover-stop-1",
+        "en": "The flight includes a two-hour layover in Singapore.",
+        "ko": "그 항공편에는 싱가포르에서 두 시간의 경유 대기가 포함됩니다."
+      }
+    ],
+    "expressions": [
+      "short layover",
+      "overnight layover"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "amenity-facility",
+    "wordId": "amenity",
+    "lemma": "amenity",
+    "pos": "n",
+    "meaning": "편의 시설",
+    "aliases": [
+      "편의 시설"
+    ],
+    "domain": "hotel",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "amenity-facility-1",
+        "en": "Hotel amenities include a gym and a heated pool.",
+        "ko": "호텔 편의 시설에는 체육관과 온수 수영장이 포함됩니다."
+      }
+    ],
+    "expressions": [
+      "hotel amenities",
+      "modern amenities"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "reservation-booking",
+    "wordId": "reservation",
+    "lemma": "reservation",
+    "pos": "n",
+    "meaning": "예약",
+    "aliases": [
+      "예약"
+    ],
+    "domain": "hotel",
+    "difficulty": 1,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "reservation-booking-1",
+        "en": "Please confirm your reservation at least one day before arrival.",
+        "ko": "도착하기 최소 하루 전에 예약을 확인해 주세요."
+      }
+    ],
+    "expressions": [
+      "confirm a reservation",
+      "make a reservation"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "vacancy-room",
+    "wordId": "vacancy",
+    "lemma": "vacancy",
+    "pos": "n",
+    "meaning": "빈 객실",
+    "aliases": [
+      "빈 객실"
+    ],
+    "domain": "hotel",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "vacancy-room-1",
+        "en": "The hotel has no vacancies during the annual festival.",
+        "ko": "연례 축제 기간에는 호텔에 빈 객실이 없습니다."
+      }
+    ],
+    "expressions": [
+      "no vacancies",
+      "room vacancy"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "concierge-assistant",
+    "wordId": "concierge",
+    "lemma": "concierge",
+    "pos": "n",
+    "meaning": "호텔 안내 직원",
+    "aliases": [
+      "호텔 안내 직원"
+    ],
+    "domain": "hotel",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "concierge-assistant-1",
+        "en": "The concierge can help you book tickets for local attractions.",
+        "ko": "호텔 안내 직원이 지역 관광 명소의 입장권 예약을 도와드릴 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "concierge desk",
+      "concierge service"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "venue-place",
+    "wordId": "venue",
+    "lemma": "venue",
+    "pos": "n",
+    "meaning": "행사 장소",
+    "aliases": [
+      "행사 장소"
+    ],
+    "domain": "education",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "venue-place-1",
+        "en": "The organizers selected a larger venue for the workshop.",
+        "ko": "주최 측은 워크숍을 위해 더 큰 장소를 선정했습니다."
+      }
+    ],
+    "expressions": [
+      "conference venue",
+      "change of venue"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "registration-enrollment",
+    "wordId": "registration",
+    "lemma": "registration",
+    "pos": "n",
+    "meaning": "등록",
+    "aliases": [
+      "등록"
+    ],
+    "domain": "education",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "registration-enrollment-1",
+        "en": "Advance registration is required for all training sessions.",
+        "ko": "모든 교육 과정은 사전 등록이 필요합니다."
+      }
+    ],
+    "expressions": [
+      "registration fee",
+      "advance registration"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "prerequisite-requirement",
+    "wordId": "prerequisite",
+    "lemma": "prerequisite",
+    "pos": "n",
+    "meaning": "선수 요건 / 필수 조건",
+    "aliases": [
+      "선수 요건 ",
+      " 필수 조건"
+    ],
+    "domain": "education",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "prerequisite-requirement-1",
+        "en": "Basic spreadsheet skills are a prerequisite for this course.",
+        "ko": "기본적인 스프레드시트 활용 능력은 이 과정의 필수 조건입니다."
+      }
+    ],
+    "expressions": [
+      "course prerequisite",
+      "prerequisite for"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "attendee-participant",
+    "wordId": "attendee",
+    "lemma": "attendee",
+    "pos": "n",
+    "meaning": "참석자",
+    "aliases": [
+      "참석자"
+    ],
+    "domain": "education",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "attendee-participant-1",
+        "en": "Each attendee will receive a digital copy of the presentation.",
+        "ko": "각 참석자는 발표 자료의 디지털 사본을 받게 됩니다."
+      }
+    ],
+    "expressions": [
+      "conference attendee",
+      "registered attendee"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "compatible-workswith",
+    "wordId": "compatible",
+    "lemma": "compatible",
+    "pos": "adj",
+    "meaning": "호환되는",
+    "aliases": [
+      "호환되는"
+    ],
+    "domain": "it",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "compatible-workswith-1",
+        "en": "The software is compatible with most recent operating systems.",
+        "ko": "이 소프트웨어는 대부분의 최신 운영 체제와 호환됩니다."
+      }
+    ],
+    "expressions": [
+      "compatible with",
+      "fully compatible"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "subscription-service",
+    "wordId": "subscription",
+    "lemma": "subscription",
+    "pos": "n",
+    "meaning": "구독",
+    "aliases": [
+      "구독"
+    ],
+    "domain": "it",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "subscription-service-1",
+        "en": "Your subscription will renew automatically unless you cancel it.",
+        "ko": "취소하지 않으면 구독이 자동으로 갱신됩니다."
+      }
+    ],
+    "expressions": [
+      "annual subscription",
+      "renew a subscription"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "outage-interruption",
+    "wordId": "outage",
+    "lemma": "outage",
+    "pos": "n",
+    "meaning": "서비스 중단",
+    "aliases": [
+      "서비스 중단"
+    ],
+    "domain": "it",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "outage-interruption-1",
+        "en": "A network outage prevented staff from accessing the shared drive.",
+        "ko": "네트워크 중단으로 직원들이 공유 드라이브에 접근하지 못했습니다."
+      }
+    ],
+    "expressions": [
+      "power outage",
+      "network outage"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "retrieve-getback",
+    "wordId": "retrieve",
+    "lemma": "retrieve",
+    "pos": "v",
+    "meaning": "검색하여 가져오다 / 복구하다",
+    "aliases": [
+      "검색하여 가져오다 ",
+      " 복구하다"
+    ],
+    "domain": "it",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "retrieve-getback-1",
+        "en": "You can retrieve archived invoices through the customer portal.",
+        "ko": "고객 포털에서 보관된 청구서를 조회할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "retrieve a file",
+      "retrieve data"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "deploy-install",
+    "wordId": "deploy",
+    "lemma": "deploy",
+    "pos": "v",
+    "meaning": "배포하다 / 배치하다",
+    "aliases": [
+      "배포하다 ",
+      " 배치하다"
+    ],
+    "domain": "it",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "deploy-install-1",
+        "en": "The team will deploy the update after business hours.",
+        "ko": "팀은 업무 시간 이후에 업데이트를 배포할 것입니다."
+      }
+    ],
+    "expressions": [
+      "deploy software",
+      "deploy an update"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "credential-proof",
+    "wordId": "credential",
+    "lemma": "credential",
+    "pos": "n",
+    "meaning": "자격 증명",
+    "aliases": [
+      "자격 증명"
+    ],
+    "domain": "it",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "credential-proof-1",
+        "en": "Never share your login credentials with other users.",
+        "ko": "로그인 자격 증명을 다른 사용자와 공유하지 마세요."
+      }
+    ],
+    "expressions": [
+      "login credentials",
+      "verify credentials"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "backup-copy",
+    "wordId": "backup",
+    "lemma": "backup",
+    "pos": "n",
+    "meaning": "백업 사본",
+    "aliases": [
+      "백업 사본"
+    ],
+    "domain": "it",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "backup-copy-1",
+        "en": "Create a backup before installing the new software.",
+        "ko": "새 소프트웨어를 설치하기 전에 백업 사본을 만드세요."
+      }
+    ],
+    "expressions": [
+      "create a backup",
+      "restore a backup"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "coverage-insurance",
+    "wordId": "coverage",
+    "lemma": "coverage",
+    "pos": "n",
+    "meaning": "보장 범위",
+    "aliases": [
+      "보장 범위"
+    ],
+    "domain": "health",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "coverage-insurance-1",
+        "en": "The new plan provides coverage for routine dental examinations.",
+        "ko": "새 보험은 정기 치과 검진을 보장합니다."
+      }
+    ],
+    "expressions": [
+      "insurance coverage",
+      "extend coverage"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "benefit-advantage",
+    "wordId": "benefit",
+    "lemma": "benefit",
+    "pos": "n",
+    "meaning": "복리후생 혜택",
+    "aliases": [
+      "복리후생 혜택"
+    ],
+    "domain": "health",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "benefit-advantage-1",
+        "en": "Details of employee benefits are available from human resources.",
+        "ko": "직원 복리후생 혜택의 자세한 내용은 인사부에서 확인할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "employee benefits",
+      "health benefits"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "prescription-medicine",
+    "wordId": "prescription",
+    "lemma": "prescription",
+    "pos": "n",
+    "meaning": "처방전",
+    "aliases": [
+      "처방전"
+    ],
+    "domain": "health",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "prescription-medicine-1",
+        "en": "You will need a valid prescription to obtain this medication.",
+        "ko": "이 약을 받으려면 유효한 처방전이 필요합니다."
+      }
+    ],
+    "expressions": [
+      "fill a prescription",
+      "valid prescription"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "launch-introduce",
+    "wordId": "launch",
+    "lemma": "launch",
+    "pos": "v",
+    "meaning": "출시하다",
+    "aliases": [
+      "출시하다"
+    ],
+    "domain": "sales",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "launch-introduce-1",
+        "en": "The company will launch its new product in September.",
+        "ko": "회사는 9월에 신제품을 출시할 것입니다."
+      }
+    ],
+    "expressions": [
+      "launch a product",
+      "launch a campaign"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "endorse-support",
+    "wordId": "endorse",
+    "lemma": "endorse",
+    "pos": "v",
+    "meaning": "지지하다 / 보증하다",
+    "aliases": [
+      "지지하다 ",
+      " 보증하다"
+    ],
+    "domain": "sales",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "endorse-support-1",
+        "en": "Several industry experts endorsed the new training program.",
+        "ko": "여러 업계 전문가가 새 교육 프로그램을 지지했습니다."
+      }
+    ],
+    "expressions": [
+      "endorse a product",
+      "endorse a proposal"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "prospect-possibility",
+    "wordId": "prospect",
+    "lemma": "prospect",
+    "pos": "n",
+    "meaning": "전망 / 가능성",
+    "aliases": [
+      "전망 ",
+      " 가능성"
+    ],
+    "domain": "sales",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "prospect-possibility-1",
+        "en": "The report discusses the company's prospects for international growth.",
+        "ko": "보고서는 회사의 해외 성장 전망을 논의합니다."
+      }
+    ],
+    "expressions": [
+      "growth prospects",
+      "future prospects"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "forecast-predict",
+    "wordId": "forecast",
+    "lemma": "forecast",
+    "pos": "v",
+    "meaning": "예측하다",
+    "aliases": [
+      "예측하다"
+    ],
+    "domain": "news",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "forecast-predict-1",
+        "en": "Analysts forecast slower growth in the second half of the year.",
+        "ko": "분석가들은 하반기에 성장이 둔화될 것으로 예측합니다."
+      }
+    ],
+    "expressions": [
+      "forecast demand",
+      "forecast growth"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "merge-combine",
+    "wordId": "merge",
+    "lemma": "merge",
+    "pos": "v",
+    "meaning": "합병하다",
+    "aliases": [
+      "합병하다"
+    ],
+    "domain": "news",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "merge-combine-1",
+        "en": "The two firms plan to merge their regional operations.",
+        "ko": "두 회사는 지역 사업 부문을 합병할 계획입니다."
+      }
+    ],
+    "expressions": [
+      "merge with",
+      "merge operations"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "acquisition-purchase",
+    "wordId": "acquisition",
+    "lemma": "acquisition",
+    "pos": "n",
+    "meaning": "인수",
+    "aliases": [
+      "인수"
+    ],
+    "domain": "news",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "acquisition-purchase-1",
+        "en": "The acquisition will expand the company's distribution network.",
+        "ko": "그 인수는 회사의 유통망을 확대할 것입니다."
+      }
+    ],
+    "expressions": [
+      "company acquisition",
+      "complete an acquisition"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "subsidiary-company",
+    "wordId": "subsidiary",
+    "lemma": "subsidiary",
+    "pos": "n",
+    "meaning": "자회사",
+    "aliases": [
+      "자회사"
+    ],
+    "domain": "news",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "subsidiary-company-1",
+        "en": "The company established a subsidiary to manage its overseas sales.",
+        "ko": "회사는 해외 영업을 관리하기 위해 자회사를 설립했습니다."
+      }
+    ],
+    "expressions": [
+      "wholly owned subsidiary",
+      "overseas subsidiary"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "pledge-promise",
+    "wordId": "pledge",
+    "lemma": "pledge",
+    "pos": "v",
+    "meaning": "약속하다",
+    "aliases": [
+      "약속하다"
+    ],
+    "domain": "news",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "pledge-promise-1",
+        "en": "The company pledged to reduce packaging waste over the next year.",
+        "ko": "회사는 내년에 포장 폐기물을 줄이겠다고 약속했습니다."
+      }
+    ],
+    "expressions": [
+      "pledge support",
+      "pledge to reduce"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "substantial-large",
+    "wordId": "substantial",
+    "lemma": "substantial",
+    "pos": "adj",
+    "meaning": "상당한",
+    "aliases": [
+      "상당한"
+    ],
+    "domain": "general",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "substantial-large-1",
+        "en": "The new lighting system has produced substantial energy savings.",
+        "ko": "새 조명 시스템으로 상당한 에너지가 절약되었습니다."
+      }
+    ],
+    "expressions": [
+      "substantial increase",
+      "substantial savings"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "otherwise-alternative",
+    "wordId": "otherwise",
+    "lemma": "otherwise",
+    "pos": "adv",
+    "meaning": "그렇지 않으면",
+    "aliases": [
+      "그렇지 않으면"
+    ],
+    "domain": "general",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "otherwise-alternative-1",
+        "en": "Please submit the form today; otherwise, processing may be delayed.",
+        "ko": "오늘 양식을 제출해 주세요. 그렇지 않으면 처리가 지연될 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "unless otherwise stated",
+      "otherwise required"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "provided-that-condition",
+    "wordId": "provided-that",
+    "lemma": "provided that",
+    "pos": "phrase",
+    "meaning": "조건으로 / 만약 한다면",
+    "aliases": [
+      "조건으로 ",
+      " 만약 한다면"
+    ],
+    "domain": "general",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "provided-that-condition-1",
+        "en": "We can ship today provided that payment arrives before noon.",
+        "ko": "정오 전에 대금이 도착하면 오늘 발송할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "provided that",
+      "provided that payment is received"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "regardless-of-irrespective",
+    "wordId": "regardless-of",
+    "lemma": "regardless of",
+    "pos": "phrase",
+    "meaning": "관계없이",
+    "aliases": [
+      "관계없이"
+    ],
+    "domain": "general",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "regardless-of-irrespective-1",
+        "en": "All employees may apply, regardless of their length of service.",
+        "ko": "모든 직원은 근속 기간과 관계없이 지원할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "regardless of",
+      "regardless of size",
+      "regardless of experience"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "in-lieu-of-instead",
+    "wordId": "in-lieu-of",
+    "lemma": "in lieu of",
+    "pos": "phrase",
+    "meaning": "대신에",
+    "aliases": [
+      "대신에"
+    ],
+    "domain": "finance",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "in-lieu-of-instead-1",
+        "en": "Customers may accept store credit in lieu of a cash refund.",
+        "ko": "고객은 현금 환불 대신 매장 적립금을 받을 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "in lieu of",
+      "in lieu of payment",
+      "in lieu of cash"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "on-behalf-of-represent",
+    "wordId": "on-behalf-of",
+    "lemma": "on behalf of",
+    "pos": "phrase",
+    "meaning": "대신하여 / 대표하여",
+    "aliases": [
+      "대신하여 ",
+      " 대표하여"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "on-behalf-of-represent-1",
+        "en": "I am writing on behalf of the director, who is traveling this week.",
+        "ko": "이번 주 출장 중인 이사를 대신하여 글을 씁니다."
+      }
+    ],
+    "expressions": [
+      "on behalf of",
+      "on behalf of the team",
+      "on behalf of a client"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "in-accordance-with-conform",
+    "wordId": "in-accordance-with",
+    "lemma": "in accordance with",
+    "pos": "phrase",
+    "meaning": "따라서 / 부합하여",
+    "aliases": [
+      "따라서 ",
+      " 부합하여"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "in-accordance-with-conform-1",
+        "en": "Refunds will be processed in accordance with our return policy.",
+        "ko": "환불은 당사의 반품 정책에 따라 처리됩니다."
+      }
+    ],
+    "expressions": [
+      "in accordance with",
+      "in accordance with policy",
+      "in accordance with the agreement"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "as-of-starting",
+    "wordId": "as-of",
+    "lemma": "as of",
+    "pos": "phrase",
+    "meaning": "기준으로 / 부터",
+    "aliases": [
+      "기준으로 ",
+      " 부터"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "as-of-starting-1",
+        "en": "As of next month, the office will close at six.",
+        "ko": "다음 달부터 사무실은 6시에 문을 닫습니다."
+      }
+    ],
+    "expressions": [
+      "as of",
+      "as of today",
+      "as of next month"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "pending-awaiting",
+    "wordId": "pending",
+    "lemma": "pending",
+    "pos": "prep",
+    "meaning": "기다리는 동안 / 까지",
+    "aliases": [
+      "기다리는 동안 ",
+      " 까지"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "pending-awaiting-1",
+        "en": "The project is on hold pending final approval.",
+        "ko": "프로젝트는 최종 승인을 기다리며 보류 중입니다."
+      }
+    ],
+    "expressions": [
+      "pending approval",
+      "pending investigation"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "account-for-explain",
+    "wordId": "account-for",
+    "lemma": "account for",
+    "pos": "phrase",
+    "meaning": "설명하다",
+    "aliases": [
+      "설명하다"
+    ],
+    "domain": "general",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "account-for-explain-1",
+        "en": "Can you account for the difference between these two figures?",
+        "ko": "이 두 수치의 차이를 설명할 수 있나요?"
+      }
+    ],
+    "expressions": [
+      "account for",
+      "account for a difference",
+      "account for a delay"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "account-for-proportion",
+    "wordId": "account-for",
+    "lemma": "account for",
+    "pos": "phrase",
+    "meaning": "차지하다",
+    "aliases": [
+      "차지하다"
+    ],
+    "domain": "news",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "account-for-proportion-1",
+        "en": "Online orders account for half of our total sales.",
+        "ko": "온라인 주문이 총매출의 절반을 차지합니다."
+      }
+    ],
+    "expressions": [
+      "account for",
+      "account for sales",
+      "account for a share"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "turnover-revenue",
+    "wordId": "turnover",
+    "lemma": "turnover",
+    "pos": "n",
+    "meaning": "매출액",
+    "aliases": [
+      "매출액"
+    ],
+    "domain": "finance",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "turnover-revenue-1",
+        "en": "Annual turnover rose after the company entered the overseas market.",
+        "ko": "회사가 해외 시장에 진출한 후 연간 매출액이 증가했습니다."
+      }
+    ],
+    "expressions": [
+      "annual turnover",
+      "total turnover"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "turnover-staff",
+    "wordId": "turnover",
+    "lemma": "turnover",
+    "pos": "n",
+    "meaning": "직원 이직률",
+    "aliases": [
+      "직원 이직률"
+    ],
+    "domain": "hr",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "turnover-staff-1",
+        "en": "Flexible working hours have helped reduce staff turnover.",
+        "ko": "유연 근무 시간이 직원 이직률을 줄이는 데 도움이 되었습니다."
+      }
+    ],
+    "expressions": [
+      "staff turnover",
+      "reduce turnover"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "issue-problem",
+    "wordId": "issue",
+    "lemma": "issue",
+    "pos": "n",
+    "meaning": "문제",
+    "aliases": [
+      "문제"
+    ],
+    "domain": "general",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "issue-problem-1",
+        "en": "Please report any technical issues to the help desk.",
+        "ko": "기술적 문제가 있으면 지원 데스크에 알려 주세요."
+      }
+    ],
+    "expressions": [
+      "technical issue",
+      "resolve an issue"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "issue-provide",
+    "wordId": "issue",
+    "lemma": "issue",
+    "pos": "v",
+    "meaning": "발급하다",
+    "aliases": [
+      "발급하다"
+    ],
+    "domain": "service",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "issue-provide-1",
+        "en": "The office will issue your parking permit after receiving the form.",
+        "ko": "사무실은 양식을 받은 후 주차 허가증을 발급할 것입니다."
+      }
+    ],
+    "expressions": [
+      "issue a permit",
+      "issue a ticket"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "meet-satisfy",
+    "wordId": "meet",
+    "lemma": "meet",
+    "pos": "v",
+    "meaning": "충족하다",
+    "aliases": [
+      "충족하다"
+    ],
+    "domain": "general",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "meet-satisfy-1",
+        "en": "The revised design meets all of the client's requirements.",
+        "ko": "수정된 설계는 고객의 모든 요구 사항을 충족합니다."
+      }
+    ],
+    "expressions": [
+      "meet a deadline",
+      "meet requirements"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "waiver-exemption",
+    "wordId": "waiver",
+    "lemma": "waiver",
+    "pos": "n",
+    "meaning": "면제 / 권리 포기",
+    "aliases": [
+      "면제 ",
+      " 권리 포기"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "waiver-exemption-1",
+        "en": "Students may apply for a waiver of the registration fee.",
+        "ko": "학생은 등록비 면제를 신청할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "fee waiver",
+      "sign a waiver"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "initiative-plan",
+    "wordId": "initiative",
+    "lemma": "initiative",
+    "pos": "n",
+    "meaning": "새로운 계획 / 주도적 활동",
+    "aliases": [
+      "새로운 계획 ",
+      " 주도적 활동"
+    ],
+    "domain": "news",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "initiative-plan-1",
+        "en": "The company launched an initiative to reduce water use at its factories.",
+        "ko": "회사는 공장의 물 사용량을 줄이기 위한 계획을 시작했습니다."
+      }
+    ],
+    "expressions": [
+      "launch an initiative",
+      "environmental initiative"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "sustainable-lasting",
+    "wordId": "sustainable",
+    "lemma": "sustainable",
+    "pos": "adj",
+    "meaning": "지속 가능한",
+    "aliases": [
+      "지속 가능한"
+    ],
+    "domain": "news",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "sustainable-lasting-1",
+        "en": "The report outlines sustainable practices for small businesses.",
+        "ko": "보고서는 소기업을 위한 지속 가능한 운영 방식을 설명합니다."
+      }
+    ],
+    "expressions": [
+      "sustainable growth",
+      "sustainable practices"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "fluctuate-vary",
+    "wordId": "fluctuate",
+    "lemma": "fluctuate",
+    "pos": "v",
+    "meaning": "변동하다",
+    "aliases": [
+      "변동하다"
+    ],
+    "domain": "finance",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "fluctuate-vary-1",
+        "en": "Shipping costs fluctuate depending on fuel prices and seasonal demand.",
+        "ko": "배송비는 연료 가격과 계절 수요에 따라 변동합니다."
+      }
+    ],
+    "expressions": [
+      "prices fluctuate",
+      "fluctuate widely"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "lucrative-profitable",
+    "wordId": "lucrative",
+    "lemma": "lucrative",
+    "pos": "adj",
+    "meaning": "수익성이 좋은",
+    "aliases": [
+      "수익성이 좋은"
+    ],
+    "domain": "sales",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "lucrative-profitable-1",
+        "en": "The firm secured a lucrative contract to supply office furniture.",
+        "ko": "그 회사는 사무용 가구를 공급하는 수익성 좋은 계약을 따냈습니다."
+      }
+    ],
+    "expressions": [
+      "lucrative market",
+      "lucrative contract"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "feasible-possible",
+    "wordId": "feasible",
+    "lemma": "feasible",
+    "pos": "adj",
+    "meaning": "실현 가능한",
+    "aliases": [
+      "실현 가능한"
+    ],
+    "domain": "general",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "feasible-possible-1",
+        "en": "The proposed expansion is not financially feasible at this time.",
+        "ko": "제안된 확장은 현재 재정적으로 실현 가능하지 않습니다."
+      }
+    ],
+    "expressions": [
+      "feasible solution",
+      "financially feasible"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "viable-workable",
+    "wordId": "viable",
+    "lemma": "viable",
+    "pos": "adj",
+    "meaning": "실행 가능한",
+    "aliases": [
+      "실행 가능한"
+    ],
+    "domain": "general",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "viable-workable-1",
+        "en": "We need a viable alternative if the current supplier closes.",
+        "ko": "현재 공급업체가 폐업할 경우 실행 가능한 대안이 필요합니다."
+      }
+    ],
+    "expressions": [
+      "viable alternative",
+      "commercially viable"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "comprehensive-complete",
+    "wordId": "comprehensive",
+    "lemma": "comprehensive",
+    "pos": "adj",
+    "meaning": "종합적인",
+    "aliases": [
+      "종합적인"
+    ],
+    "domain": "general",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "comprehensive-complete-1",
+        "en": "The consultant prepared a comprehensive review of our purchasing procedures.",
+        "ko": "컨설턴트는 당사 구매 절차에 대한 종합적인 검토 보고서를 작성했습니다."
+      }
+    ],
+    "expressions": [
+      "comprehensive review",
+      "comprehensive guide"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "consecutive-successive",
+    "wordId": "consecutive",
+    "lemma": "consecutive",
+    "pos": "adj",
+    "meaning": "연속적인",
+    "aliases": [
+      "연속적인"
+    ],
+    "domain": "news",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "consecutive-successive-1",
+        "en": "Sales have increased for four consecutive months.",
+        "ko": "매출이 4개월 연속 증가했습니다."
+      }
+    ],
+    "expressions": [
+      "consecutive months",
+      "three consecutive years"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "respective-individual",
+    "wordId": "respective",
+    "lemma": "respective",
+    "pos": "adj",
+    "meaning": "각각의",
+    "aliases": [
+      "각각의"
+    ],
+    "domain": "office",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "respective-individual-1",
+        "en": "Team leaders should inform their respective departments of the changes.",
+        "ko": "팀장은 각자의 부서에 변경 사항을 알려야 합니다."
+      }
+    ],
+    "expressions": [
+      "respective departments",
+      "respective roles"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "respectively-inorder",
+    "wordId": "respectively",
+    "lemma": "respectively",
+    "pos": "adv",
+    "meaning": "각각 / 순서대로",
+    "aliases": [
+      "각각 ",
+      " 순서대로"
+    ],
+    "domain": "general",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "respectively-inorder-1",
+        "en": "The small and large packages cost ten and fifteen dollars, respectively.",
+        "ko": "소형 및 대형 포장의 가격은 각각 10달러와 15달러입니다."
+      }
+    ],
+    "expressions": [
+      "listed respectively",
+      "priced respectively"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "considerable-large",
+    "wordId": "considerable",
+    "lemma": "considerable",
+    "pos": "adj",
+    "meaning": "상당한",
+    "aliases": [
+      "상당한"
+    ],
+    "domain": "general",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "considerable-large-1",
+        "en": "The upgrade resulted in considerable savings on energy costs.",
+        "ko": "업그레이드로 에너지 비용이 상당히 절감되었습니다."
+      }
+    ],
+    "expressions": [
+      "considerable effort",
+      "considerable savings"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "considerate-thoughtful",
+    "wordId": "considerate",
+    "lemma": "considerate",
+    "pos": "adj",
+    "meaning": "배려하는",
+    "aliases": [
+      "배려하는"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "considerate-thoughtful-1",
+        "en": "Please be considerate of colleagues when using shared workspaces.",
+        "ko": "공유 업무 공간을 이용할 때 동료를 배려해 주세요."
+      }
+    ],
+    "expressions": [
+      "considerate of others",
+      "considerate behavior"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "pertinent-relevant",
+    "wordId": "pertinent",
+    "lemma": "pertinent",
+    "pos": "adj",
+    "meaning": "관련 있는",
+    "aliases": [
+      "관련 있는"
+    ],
+    "domain": "contract",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "pertinent-relevant-1",
+        "en": "Please include all information pertinent to your application.",
+        "ko": "신청과 관련된 모든 정보를 포함해 주세요."
+      }
+    ],
+    "expressions": [
+      "pertinent information",
+      "pertinent to"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "subsequent-later",
+    "wordId": "subsequent",
+    "lemma": "subsequent",
+    "pos": "adj",
+    "meaning": "후속의 / 그다음의",
+    "aliases": [
+      "후속의 ",
+      " 그다음의"
+    ],
+    "domain": "general",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "subsequent-later-1",
+        "en": "A discount will be applied to all subsequent orders placed this month.",
+        "ko": "이번 달에 이루어지는 모든 후속 주문에는 할인이 적용됩니다."
+      }
+    ],
+    "expressions": [
+      "subsequent order",
+      "subsequent changes"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "prior-previous",
+    "wordId": "prior",
+    "lemma": "prior",
+    "pos": "adj",
+    "meaning": "이전의",
+    "aliases": [
+      "이전의"
+    ],
+    "domain": "hr",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "prior-previous-1",
+        "en": "Prior experience in customer service is preferred but not required.",
+        "ko": "고객 서비스 분야의 경력이 있으면 우대하지만 필수는 아닙니다."
+      }
+    ],
+    "expressions": [
+      "prior experience",
+      "prior approval"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "solely-only",
+    "wordId": "solely",
+    "lemma": "solely",
+    "pos": "adv",
+    "meaning": "오로지",
+    "aliases": [
+      "오로지"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "solely-only-1",
+        "en": "This entrance is reserved solely for authorized personnel.",
+        "ko": "이 출입구는 허가받은 직원만 이용할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "solely responsible",
+      "solely for"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "promptly-quickly",
+    "wordId": "promptly",
+    "lemma": "promptly",
+    "pos": "adv",
+    "meaning": "신속하게",
+    "aliases": [
+      "신속하게"
+    ],
+    "domain": "service",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "promptly-quickly-1",
+        "en": "We will respond promptly to all inquiries received during business hours.",
+        "ko": "업무 시간 중 접수한 모든 문의에 신속하게 답변하겠습니다."
+      }
+    ],
+    "expressions": [
+      "respond promptly",
+      "pay promptly"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "adjacent-neighboring",
+    "wordId": "adjacent",
+    "lemma": "adjacent",
+    "pos": "adj",
+    "meaning": "인접한",
+    "aliases": [
+      "인접한"
+    ],
+    "domain": "facility",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "adjacent-neighboring-1",
+        "en": "Parking is available in the lot adjacent to the main building.",
+        "ko": "본관에 인접한 주차장을 이용할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "adjacent to",
+      "adjacent building"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "accessible-reachable",
+    "wordId": "accessible",
+    "lemma": "accessible",
+    "pos": "adj",
+    "meaning": "접근 가능한",
+    "aliases": [
+      "접근 가능한"
+    ],
+    "domain": "facility",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "accessible-reachable-1",
+        "en": "The conference room is accessible by elevator from the main lobby.",
+        "ko": "회의실은 본 로비에서 엘리베이터로 접근할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "accessible entrance",
+      "easily accessible"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "prohibit-forbid",
+    "wordId": "prohibit",
+    "lemma": "prohibit",
+    "pos": "v",
+    "meaning": "금지하다",
+    "aliases": [
+      "금지하다"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "prohibit-forbid-1",
+        "en": "The building rules prohibit storing bicycles in emergency exits.",
+        "ko": "건물 규정은 비상구에 자전거를 보관하는 것을 금지합니다."
+      }
+    ],
+    "expressions": [
+      "prohibit smoking",
+      "prohibit access"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "restrict-limit",
+    "wordId": "restrict",
+    "lemma": "restrict",
+    "pos": "v",
+    "meaning": "제한하다",
+    "aliases": [
+      "제한하다"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "restrict-limit-1",
+        "en": "Access to the records room is restricted to authorized staff.",
+        "ko": "기록실 접근은 허가받은 직원으로 제한됩니다."
+      }
+    ],
+    "expressions": [
+      "restrict access",
+      "restrict use"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "verify-check",
+    "wordId": "verify",
+    "lemma": "verify",
+    "pos": "v",
+    "meaning": "확인하다 / 검증하다",
+    "aliases": [
+      "확인하다 ",
+      " 검증하다"
+    ],
+    "domain": "banking",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "verify-check-1",
+        "en": "The bank will verify your identity before opening the account.",
+        "ko": "은행은 계좌를 개설하기 전에 신원을 확인할 것입니다."
+      }
+    ],
+    "expressions": [
+      "verify identity",
+      "verify information"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "authorize-permit",
+    "wordId": "authorize",
+    "lemma": "authorize",
+    "pos": "v",
+    "meaning": "승인하다 / 권한을 부여하다",
+    "aliases": [
+      "승인하다 ",
+      " 권한을 부여하다"
+    ],
+    "domain": "banking",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "authorize-permit-1",
+        "en": "Only department heads may authorize payments above five thousand dollars.",
+        "ko": "부서장만 5천 달러를 초과하는 지급을 승인할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "authorize a payment",
+      "authorized personnel"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "payroll-wages",
+    "wordId": "payroll",
+    "lemma": "payroll",
+    "pos": "n",
+    "meaning": "급여 명부 / 급여 지급",
+    "aliases": [
+      "급여 명부 ",
+      " 급여 지급"
+    ],
+    "domain": "hr",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "payroll-wages-1",
+        "en": "Please send changes to your bank details to the payroll department.",
+        "ko": "은행 정보가 변경되면 급여 담당 부서에 알려 주세요."
+      }
+    ],
+    "expressions": [
+      "payroll department",
+      "on the payroll"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "severance-termination",
+    "wordId": "severance",
+    "lemma": "severance",
+    "pos": "n",
+    "meaning": "퇴직에 따른 보상",
+    "aliases": [
+      "퇴직에 따른 보상"
+    ],
+    "domain": "hr",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "severance-termination-1",
+        "en": "Employees affected by the closure will receive severance pay.",
+        "ko": "폐쇄로 영향을 받는 직원은 퇴직 보상금을 받게 됩니다."
+      }
+    ],
+    "expressions": [
+      "severance pay",
+      "severance package"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "referral-recommendation",
+    "wordId": "referral",
+    "lemma": "referral",
+    "pos": "n",
+    "meaning": "추천 / 소개",
+    "aliases": [
+      "추천 ",
+      " 소개"
+    ],
+    "domain": "health",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "referral-recommendation-1",
+        "en": "A referral from your primary doctor is required to see this specialist.",
+        "ko": "이 전문의에게 진료를 받으려면 주치의의 의뢰가 필요합니다."
+      }
+    ],
+    "expressions": [
+      "medical referral",
+      "employee referral"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "deductible-threshold",
+    "wordId": "deductible",
+    "lemma": "deductible",
+    "pos": "n",
+    "meaning": "보험 자기부담금",
+    "aliases": [
+      "보험 자기부담금"
+    ],
+    "domain": "health",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "deductible-threshold-1",
+        "en": "You must pay the annual deductible before the plan covers these expenses.",
+        "ko": "보험에서 이 비용을 보장하기 전에 연간 자기부담금을 내야 합니다."
+      }
+    ],
+    "expressions": [
+      "annual deductible",
+      "meet a deductible"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "premium-payment",
+    "wordId": "premium",
+    "lemma": "premium",
+    "pos": "n",
+    "meaning": "보험료",
+    "aliases": [
+      "보험료"
+    ],
+    "domain": "health",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "premium-payment-1",
+        "en": "Your monthly insurance premium will remain unchanged next year.",
+        "ko": "월 보험료는 내년에도 변하지 않을 것입니다."
+      }
+    ],
+    "expressions": [
+      "insurance premium",
+      "monthly premium"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "preventive-protective",
+    "wordId": "preventive",
+    "lemma": "preventive",
+    "pos": "adj",
+    "meaning": "예방의",
+    "aliases": [
+      "예방의"
+    ],
+    "domain": "health",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "preventive-protective-1",
+        "en": "The health plan includes preventive care at no additional cost.",
+        "ko": "이 건강 보험에는 추가 비용 없는 예방 진료가 포함됩니다."
+      }
+    ],
+    "expressions": [
+      "preventive care",
+      "preventive measures"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "wellness-health",
+    "wordId": "wellness",
+    "lemma": "wellness",
+    "pos": "n",
+    "meaning": "건강 관리",
+    "aliases": [
+      "건강 관리"
+    ],
+    "domain": "health",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "wellness-health-1",
+        "en": "Employees can join the wellness program at any time.",
+        "ko": "직원은 언제든 건강 관리 프로그램에 참여할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "wellness program",
+      "wellness center"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "appointment-meeting",
+    "wordId": "appointment",
+    "lemma": "appointment",
+    "pos": "n",
+    "meaning": "예약 / 약속",
+    "aliases": [
+      "예약 ",
+      " 약속"
+    ],
+    "domain": "health",
+    "difficulty": 1,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "appointment-meeting-1",
+        "en": "Please arrive ten minutes before your scheduled appointment.",
+        "ko": "예약 시각보다 10분 일찍 도착해 주세요."
+      }
+    ],
+    "expressions": [
+      "make an appointment",
+      "cancel an appointment"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "refurbish-renew",
+    "wordId": "refurbish",
+    "lemma": "refurbish",
+    "pos": "v",
+    "meaning": "새로 꾸미다 / 재정비하다",
+    "aliases": [
+      "새로 꾸미다 ",
+      " 재정비하다"
+    ],
+    "domain": "facility",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "refurbish-renew-1",
+        "en": "The company will refurbish the reception area during the holiday break.",
+        "ko": "회사는 연휴 동안 안내 데스크 구역을 새로 꾸밀 것입니다."
+      }
+    ],
+    "expressions": [
+      "refurbish an office",
+      "refurbished equipment"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "ventilation-airflow",
+    "wordId": "ventilation",
+    "lemma": "ventilation",
+    "pos": "n",
+    "meaning": "환기",
+    "aliases": [
+      "환기"
+    ],
+    "domain": "facility",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "ventilation-airflow-1",
+        "en": "The laboratory requires adequate ventilation at all times.",
+        "ko": "실험실은 항상 충분히 환기되어야 합니다."
+      }
+    ],
+    "expressions": [
+      "ventilation system",
+      "adequate ventilation"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "inspection-examination",
+    "wordId": "inspection",
+    "lemma": "inspection",
+    "pos": "n",
+    "meaning": "검사 / 점검",
+    "aliases": [
+      "검사 ",
+      " 점검"
+    ],
+    "domain": "production",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "inspection-examination-1",
+        "en": "The building must pass a safety inspection before it can open.",
+        "ko": "건물은 개장 전에 안전 점검을 통과해야 합니다."
+      }
+    ],
+    "expressions": [
+      "safety inspection",
+      "final inspection"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "calibrate-adjust",
+    "wordId": "calibrate",
+    "lemma": "calibrate",
+    "pos": "v",
+    "meaning": "교정하다 / 보정하다",
+    "aliases": [
+      "교정하다 ",
+      " 보정하다"
+    ],
+    "domain": "production",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "calibrate-adjust-1",
+        "en": "Technicians calibrate the measuring instruments every six months.",
+        "ko": "기술자들은 6개월마다 측정 기기를 교정합니다."
+      }
+    ],
+    "expressions": [
+      "calibrate equipment",
+      "calibrate a sensor"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "tolerance-allowance",
+    "wordId": "tolerance",
+    "lemma": "tolerance",
+    "pos": "n",
+    "meaning": "허용 오차",
+    "aliases": [
+      "허용 오차"
+    ],
+    "domain": "production",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "tolerance-allowance-1",
+        "en": "Each component must fall within the specified tolerance.",
+        "ko": "각 부품은 지정된 허용 오차 범위 안에 있어야 합니다."
+      }
+    ],
+    "expressions": [
+      "within tolerance",
+      "manufacturing tolerance"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "durable-lasting",
+    "wordId": "durable",
+    "lemma": "durable",
+    "pos": "adj",
+    "meaning": "내구성이 있는",
+    "aliases": [
+      "내구성이 있는"
+    ],
+    "domain": "production",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "durable-lasting-1",
+        "en": "The new containers are made from durable recycled plastic.",
+        "ko": "새 용기는 내구성 있는 재활용 플라스틱으로 만들어졌습니다."
+      }
+    ],
+    "expressions": [
+      "durable materials",
+      "durable goods"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "obsolete-outdated",
+    "wordId": "obsolete",
+    "lemma": "obsolete",
+    "pos": "adj",
+    "meaning": "구식의",
+    "aliases": [
+      "구식의"
+    ],
+    "domain": "it",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "obsolete-outdated-1",
+        "en": "We are replacing obsolete equipment to improve security.",
+        "ko": "보안을 개선하기 위해 구식 장비를 교체하고 있습니다."
+      }
+    ],
+    "expressions": [
+      "obsolete equipment",
+      "become obsolete"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "configure-setup",
+    "wordId": "configure",
+    "lemma": "configure",
+    "pos": "v",
+    "meaning": "설정하다",
+    "aliases": [
+      "설정하다"
+    ],
+    "domain": "it",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "configure-setup-1",
+        "en": "The technician will configure the printer for wireless access.",
+        "ko": "기술자는 프린터를 무선으로 이용할 수 있도록 설정할 것입니다."
+      }
+    ],
+    "expressions": [
+      "configure a device",
+      "configure settings"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "troubleshoot-diagnose",
+    "wordId": "troubleshoot",
+    "lemma": "troubleshoot",
+    "pos": "v",
+    "meaning": "문제를 진단하고 해결하다",
+    "aliases": [
+      "문제를 진단하고 해결하다"
+    ],
+    "domain": "it",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "troubleshoot-diagnose-1",
+        "en": "The support team can troubleshoot connection problems remotely.",
+        "ko": "지원팀은 연결 문제를 원격으로 진단하고 해결할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "troubleshoot a problem",
+      "troubleshoot equipment"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "attachment-file",
+    "wordId": "attachment",
+    "lemma": "attachment",
+    "pos": "n",
+    "meaning": "첨부 파일",
+    "aliases": [
+      "첨부 파일"
+    ],
+    "domain": "office",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "attachment-file-1",
+        "en": "The revised schedule is included as an attachment to this email.",
+        "ko": "수정된 일정표가 이 이메일에 첨부되어 있습니다."
+      }
+    ],
+    "expressions": [
+      "email attachment",
+      "open an attachment"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "correspondence-letters",
+    "wordId": "correspondence",
+    "lemma": "correspondence",
+    "pos": "n",
+    "meaning": "서신 / 연락",
+    "aliases": [
+      "서신 ",
+      " 연락"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "correspondence-letters-1",
+        "en": "Please include your account number in all correspondence.",
+        "ko": "모든 서신에 계좌 번호를 기재해 주세요."
+      }
+    ],
+    "expressions": [
+      "business correspondence",
+      "written correspondence"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "acknowledge-confirm",
+    "wordId": "acknowledge",
+    "lemma": "acknowledge",
+    "pos": "v",
+    "meaning": "수령을 확인하다 / 인정하다",
+    "aliases": [
+      "수령을 확인하다 ",
+      " 인정하다"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "acknowledge-confirm-1",
+        "en": "Please acknowledge receipt of these documents by replying to this message.",
+        "ko": "이 메시지에 회신하여 문서 수령을 확인해 주세요."
+      }
+    ],
+    "expressions": [
+      "acknowledge receipt",
+      "acknowledge a contribution"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "enclose-include",
+    "wordId": "enclose",
+    "lemma": "enclose",
+    "pos": "v",
+    "meaning": "동봉하다",
+    "aliases": [
+      "동봉하다"
+    ],
+    "domain": "office",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "enclose-include-1",
+        "en": "Please enclose a copy of your identification with the application.",
+        "ko": "신청서와 함께 신분증 사본을 동봉해 주세요."
+      }
+    ],
+    "expressions": [
+      "enclose a check",
+      "enclosed documents"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "clarify-explain",
+    "wordId": "clarify",
+    "lemma": "clarify",
+    "pos": "v",
+    "meaning": "명확히 하다",
+    "aliases": [
+      "명확히 하다"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "clarify-explain-1",
+        "en": "Could you clarify which documents are required for the renewal?",
+        "ko": "갱신에 어떤 서류가 필요한지 명확히 알려주시겠어요?"
+      }
+    ],
+    "expressions": [
+      "clarify a point",
+      "clarify requirements"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "promotional-advertising",
+    "wordId": "promotional",
+    "lemma": "promotional",
+    "pos": "adj",
+    "meaning": "판촉의",
+    "aliases": [
+      "판촉의"
+    ],
+    "domain": "sales",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "promotional-advertising-1",
+        "en": "The promotional offer is available only to first-time customers.",
+        "ko": "이 판촉 혜택은 처음 이용하는 고객에게만 제공됩니다."
+      }
+    ],
+    "expressions": [
+      "promotional offer",
+      "promotional materials"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "redeemable-exchangeable",
+    "wordId": "redeemable",
+    "lemma": "redeemable",
+    "pos": "adj",
+    "meaning": "교환하여 사용할 수 있는",
+    "aliases": [
+      "교환하여 사용할 수 있는"
+    ],
+    "domain": "sales",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "redeemable-exchangeable-1",
+        "en": "The voucher is redeemable for a free beverage at any branch.",
+        "ko": "이 쿠폰은 어느 지점에서나 무료 음료로 교환할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "redeemable for",
+      "redeemable at"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "loyalty-faithfulness",
+    "wordId": "loyalty",
+    "lemma": "loyalty",
+    "pos": "n",
+    "meaning": "충성도",
+    "aliases": [
+      "충성도"
+    ],
+    "domain": "sales",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "loyalty-faithfulness-1",
+        "en": "The new loyalty program rewards customers for repeat purchases.",
+        "ko": "새 고객 우대 프로그램은 재구매 고객에게 혜택을 제공합니다."
+      }
+    ],
+    "expressions": [
+      "customer loyalty",
+      "loyalty program"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "merchandise-goods",
+    "wordId": "merchandise",
+    "lemma": "merchandise",
+    "pos": "n",
+    "meaning": "상품",
+    "aliases": [
+      "상품"
+    ],
+    "domain": "sales",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "merchandise-goods-1",
+        "en": "Discounted merchandise cannot be exchanged without a receipt.",
+        "ko": "할인 상품은 영수증 없이 교환할 수 없습니다."
+      }
+    ],
+    "expressions": [
+      "display merchandise",
+      "return merchandise"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "retail-selling",
+    "wordId": "retail",
+    "lemma": "retail",
+    "pos": "n",
+    "meaning": "소매",
+    "aliases": [
+      "소매"
+    ],
+    "domain": "sales",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "retail-selling-1",
+        "en": "The advertised price is lower than the usual retail price.",
+        "ko": "광고된 가격은 일반 소매가보다 낮습니다."
+      }
+    ],
+    "expressions": [
+      "retail price",
+      "retail outlet"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "in-advance-beforehand",
+    "wordId": "in-advance",
+    "lemma": "in advance",
+    "pos": "phrase",
+    "meaning": "미리",
+    "aliases": [
+      "미리"
+    ],
+    "domain": "travel",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "in-advance-beforehand-1",
+        "en": "Seats must be reserved at least three days in advance.",
+        "ko": "좌석은 최소 3일 전에 예약해야 합니다."
+      }
+    ],
+    "expressions": [
+      "in advance",
+      "book in advance",
+      "pay in advance"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "at-your-earliest-convenience-soon",
+    "wordId": "at-your-earliest-convenience",
+    "lemma": "at your earliest convenience",
+    "pos": "phrase",
+    "meaning": "가능한 한 빠른 편리한 때에",
+    "aliases": [
+      "가능한 한 빠른 편리한 때에"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "at-your-earliest-convenience-soon-1",
+        "en": "Please return the completed form at your earliest convenience.",
+        "ko": "가능한 한 빠른 편리한 때에 작성한 양식을 반환해 주세요."
+      }
+    ],
+    "expressions": [
+      "at your earliest convenience",
+      "reply at your earliest convenience",
+      "contact us at your earliest convenience"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "in-light-of-considering",
+    "wordId": "in-light-of",
+    "lemma": "in light of",
+    "pos": "phrase",
+    "meaning": "고려하여",
+    "aliases": [
+      "고려하여"
+    ],
+    "domain": "general",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "in-light-of-considering-1",
+        "en": "In light of the inspection results, we will replace the equipment.",
+        "ko": "검사 결과를 고려하여 장비를 교체하겠습니다."
+      }
+    ],
+    "expressions": [
+      "in light of",
+      "in light of recent events",
+      "in light of the findings"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "with-regard-to-concerning",
+    "wordId": "with-regard-to",
+    "lemma": "with regard to",
+    "pos": "phrase",
+    "meaning": "관하여",
+    "aliases": [
+      "관하여"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "with-regard-to-concerning-1",
+        "en": "I am writing with regard to your request for a quotation.",
+        "ko": "귀하의 견적 요청에 관하여 글을 씁니다."
+      }
+    ],
+    "expressions": [
+      "with regard to",
+      "with regard to your request",
+      "with regard to payment"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "in-the-event-of-if",
+    "wordId": "in-the-event-of",
+    "lemma": "in the event of",
+    "pos": "phrase",
+    "meaning": "발생할 경우",
+    "aliases": [
+      "발생할 경우"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "in-the-event-of-if-1",
+        "en": "In the event of a power failure, use the stairs instead of the elevator.",
+        "ko": "정전이 발생하면 엘리베이터 대신 계단을 이용하세요."
+      }
+    ],
+    "expressions": [
+      "in the event of",
+      "in the event of a delay",
+      "in the event of an emergency"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "as-opposed-to-contrast",
+    "wordId": "as-opposed-to",
+    "lemma": "as opposed to",
+    "pos": "phrase",
+    "meaning": "대비하여 / 대신에",
+    "aliases": [
+      "대비하여 ",
+      " 대신에"
+    ],
+    "domain": "general",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "as-opposed-to-contrast-1",
+        "en": "This year, training will be held online as opposed to in person.",
+        "ko": "올해 교육은 대면 방식 대신 온라인으로 진행됩니다."
+      }
+    ],
+    "expressions": [
+      "as opposed to",
+      "as opposed to cash",
+      "as opposed to last year"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "no-later-than-deadline",
+    "wordId": "no-later-than",
+    "lemma": "no later than",
+    "pos": "phrase",
+    "meaning": "늦어도 까지",
+    "aliases": [
+      "늦어도 까지"
+    ],
+    "domain": "office",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "no-later-than-deadline-1",
+        "en": "Submit your proposal no later than noon on Wednesday.",
+        "ko": "늦어도 수요일 정오까지 제안서를 제출하세요."
+      }
+    ],
+    "expressions": [
+      "no later than",
+      "no later than friday",
+      "no later than noon"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "be-entitled-to-right",
+    "wordId": "be-entitled-to",
+    "lemma": "be entitled to",
+    "pos": "phrase",
+    "meaning": "받을 권리가 있다",
+    "aliases": [
+      "받을 권리가 있다"
+    ],
+    "domain": "hr",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "be-entitled-to-right-1",
+        "en": "Full-time staff are entitled to twenty days of paid leave each year.",
+        "ko": "정규직 직원은 매년 20일의 유급 휴가를 받을 권리가 있습니다."
+      }
+    ],
+    "expressions": [
+      "be entitled to",
+      "be entitled to leave",
+      "be entitled to a refund"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "follow-up-on-check",
+    "wordId": "follow-up-on",
+    "lemma": "follow up on",
+    "pos": "phrase",
+    "meaning": "후속 확인을 하다",
+    "aliases": [
+      "후속 확인을 하다"
+    ],
+    "domain": "service",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "follow-up-on-check-1",
+        "en": "I am calling to follow up on the repair request you submitted yesterday.",
+        "ko": "어제 제출하신 수리 요청을 후속 확인하기 위해 전화드립니다."
+      }
+    ],
+    "expressions": [
+      "follow up on",
+      "follow up on an inquiry",
+      "follow up on a request"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "put-off-postpone",
+    "wordId": "put-off",
+    "lemma": "put off",
+    "pos": "phrase",
+    "meaning": "연기하다",
+    "aliases": [
+      "연기하다"
+    ],
+    "domain": "office",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "put-off-postpone-1",
+        "en": "We cannot put off the decision any longer.",
+        "ko": "더 이상 결정을 미룰 수 없습니다."
+      }
+    ],
+    "expressions": [
+      "put off",
+      "put off a meeting",
+      "put off a decision"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "carry-out-perform",
+    "wordId": "carry-out",
+    "lemma": "carry out",
+    "pos": "phrase",
+    "meaning": "수행하다",
+    "aliases": [
+      "수행하다"
+    ],
+    "domain": "production",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "carry-out-perform-1",
+        "en": "Only certified technicians may carry out repairs on this equipment.",
+        "ko": "자격을 갖춘 기술자만 이 장비의 수리를 수행할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "carry out",
+      "carry out an inspection",
+      "carry out repairs"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "phase-out-discontinue",
+    "wordId": "phase-out",
+    "lemma": "phase out",
+    "pos": "phrase",
+    "meaning": "단계적으로 폐지하다",
+    "aliases": [
+      "단계적으로 폐지하다"
+    ],
+    "domain": "production",
+    "difficulty": 4,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "phase-out-discontinue-1",
+        "en": "The company plans to phase out older models over the next two years.",
+        "ko": "회사는 향후 2년에 걸쳐 구형 모델을 단계적으로 단종할 계획입니다."
+      }
+    ],
+    "expressions": [
+      "phase out",
+      "phase out a product",
+      "phase out older models"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "run-out-of-deplete",
+    "wordId": "run-out-of",
+    "lemma": "run out of",
+    "pos": "phrase",
+    "meaning": "다 써버리다",
+    "aliases": [
+      "다 써버리다"
+    ],
+    "domain": "procurement",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "run-out-of-deplete-1",
+        "en": "Please reorder labels before we run out of them.",
+        "ko": "라벨을 다 쓰기 전에 다시 주문해 주세요."
+      }
+    ],
+    "expressions": [
+      "run out of",
+      "run out of supplies",
+      "run out of stock"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "look-into-investigate",
+    "wordId": "look-into",
+    "lemma": "look into",
+    "pos": "phrase",
+    "meaning": "조사하다",
+    "aliases": [
+      "조사하다"
+    ],
+    "domain": "service",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "look-into-investigate-1",
+        "en": "Our manager will look into the complaint and contact you tomorrow.",
+        "ko": "관리자가 불만 사항을 조사한 후 내일 연락드릴 것입니다."
+      }
+    ],
+    "expressions": [
+      "look into",
+      "look into a complaint",
+      "look into a matter"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "make-up-for-compensate",
+    "wordId": "make-up-for",
+    "lemma": "make up for",
+    "pos": "phrase",
+    "meaning": "보상하다 / 만회하다",
+    "aliases": [
+      "보상하다 ",
+      " 만회하다"
+    ],
+    "domain": "service",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "make-up-for-compensate-1",
+        "en": "We are offering free shipping to make up for the inconvenience.",
+        "ko": "불편을 보상하기 위해 무료 배송을 제공합니다."
+      }
+    ],
+    "expressions": [
+      "make up for",
+      "make up for a delay",
+      "make up for lost time"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "on-short-notice-littlewarning",
+    "wordId": "on-short-notice",
+    "lemma": "on short notice",
+    "pos": "phrase",
+    "meaning": "촉박한 통보로",
+    "aliases": [
+      "촉박한 통보로"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "on-short-notice-littlewarning-1",
+        "en": "Thank you for agreeing to attend the meeting on short notice.",
+        "ko": "촉박한 통보에도 회의 참석에 동의해 주셔서 감사합니다."
+      }
+    ],
+    "expressions": [
+      "on short notice",
+      "available on short notice",
+      "arrange on short notice"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "at-no-extra-charge-free",
+    "wordId": "at-no-extra-charge",
+    "lemma": "at no extra charge",
+    "pos": "phrase",
+    "meaning": "추가 요금 없이",
+    "aliases": [
+      "추가 요금 없이"
+    ],
+    "domain": "service",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "at-no-extra-charge-free-1",
+        "en": "We will install the replacement unit at no extra charge.",
+        "ko": "추가 요금 없이 교체 기기를 설치해 드리겠습니다."
+      }
+    ],
+    "expressions": [
+      "at no extra charge",
+      "delivery at no extra charge",
+      "installation at no extra charge"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "in-stock-available",
+    "wordId": "in-stock",
+    "lemma": "in stock",
+    "pos": "phrase",
+    "meaning": "재고가 있는",
+    "aliases": [
+      "재고가 있는"
+    ],
+    "domain": "procurement",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "in-stock-available-1",
+        "en": "The blue model is in stock and can be shipped today.",
+        "ko": "파란색 모델은 재고가 있어 오늘 발송할 수 있습니다."
+      }
+    ],
+    "expressions": [
+      "in stock",
+      "currently in stock",
+      "keep in stock"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "out-of-stock-unavailable",
+    "wordId": "out-of-stock",
+    "lemma": "out of stock",
+    "pos": "phrase",
+    "meaning": "재고가 없는",
+    "aliases": [
+      "재고가 없는"
+    ],
+    "domain": "procurement",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "out-of-stock-unavailable-1",
+        "en": "The item is temporarily out of stock, but more units will arrive next week.",
+        "ko": "그 상품은 일시 품절이지만 다음 주에 추가 물량이 입고될 예정입니다."
+      }
+    ],
+    "expressions": [
+      "out of stock",
+      "currently out of stock",
+      "temporarily out of stock"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "on-a-regular-basis-regularly",
+    "wordId": "on-a-regular-basis",
+    "lemma": "on a regular basis",
+    "pos": "phrase",
+    "meaning": "정기적으로",
+    "aliases": [
+      "정기적으로"
+    ],
+    "domain": "office",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "on-a-regular-basis-regularly-1",
+        "en": "The committee reviews safety procedures on a regular basis.",
+        "ko": "위원회는 정기적으로 안전 절차를 검토합니다."
+      }
+    ],
+    "expressions": [
+      "on a regular basis",
+      "meet on a regular basis",
+      "review on a regular basis"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "in-charge-of-responsible",
+    "wordId": "in-charge-of",
+    "lemma": "in charge of",
+    "pos": "phrase",
+    "meaning": "담당하는",
+    "aliases": [
+      "담당하는"
+    ],
+    "domain": "office",
+    "difficulty": 2,
+    "priority": 3,
+    "examples": [
+      {
+        "id": "in-charge-of-responsible-1",
+        "en": "Ms. Lee is in charge of coordinating the training sessions.",
+        "ko": "이 씨는 교육 일정 조정을 담당하고 있습니다."
+      }
+    ],
+    "expressions": [
+      "in charge of",
+      "in charge of training",
+      "in charge of purchasing"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "take-effect-begin",
+    "wordId": "take-effect",
+    "lemma": "take effect",
+    "pos": "phrase",
+    "meaning": "효력이 발생하다",
+    "aliases": [
+      "효력이 발생하다"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "take-effect-begin-1",
+        "en": "The revised rates will take effect on the first of next month.",
+        "ko": "개정 요금은 다음 달 1일부터 적용됩니다."
+      }
+    ],
+    "expressions": [
+      "take effect",
+      "take effect immediately",
+      "take effect next month"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "come-into-effect-begin",
+    "wordId": "come-into-effect",
+    "lemma": "come into effect",
+    "pos": "phrase",
+    "meaning": "시행되다",
+    "aliases": [
+      "시행되다"
+    ],
+    "domain": "contract",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "come-into-effect-begin-1",
+        "en": "The new regulations come into effect at the beginning of July.",
+        "ko": "새 규정은 7월 초에 시행됩니다."
+      }
+    ],
+    "expressions": [
+      "come into effect",
+      "come into effect in july",
+      "come into effect immediately"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  },
+  {
+    "id": "keep-track-of-monitor",
+    "wordId": "keep-track-of",
+    "lemma": "keep track of",
+    "pos": "phrase",
+    "meaning": "계속 파악하다",
+    "aliases": [
+      "계속 파악하다"
+    ],
+    "domain": "logistics",
+    "difficulty": 3,
+    "priority": 4,
+    "examples": [
+      {
+        "id": "keep-track-of-monitor-1",
+        "en": "Use the tracking number to keep track of your shipment.",
+        "ko": "운송장 번호를 사용하여 배송 상황을 계속 확인하세요."
+      }
+    ],
+    "expressions": [
+      "keep track of",
+      "keep track of shipments",
+      "keep track of expenses"
+    ],
+    "prepositions": [],
+    "confusion": [],
+    "family": [],
+    "misconception": "문장 속 목적어와 주변 표현을 함께 확인하세요.",
+    "reviewStatus": "needs-review",
+    "source": "original",
+    "cefr": null
+  }
+]

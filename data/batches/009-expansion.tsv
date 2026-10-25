@@ -1,0 +1,25 @@
+referral	recommendation	n	추천 / 소개	health	3	medical referral;employee referral	A referral from your primary doctor is required to see this specialist.	이 전문의에게 진료를 받으려면 주치의의 의뢰가 필요합니다.
+deductible	threshold	n	보험 자기부담금	health	4	annual deductible;meet a deductible	You must pay the annual deductible before the plan covers these expenses.	보험에서 이 비용을 보장하기 전에 연간 자기부담금을 내야 합니다.
+premium	payment	n	보험료	health	3	insurance premium;monthly premium	Your monthly insurance premium will remain unchanged next year.	월 보험료는 내년에도 변하지 않을 것입니다.
+preventive	protective	adj	예방의	health	3	preventive care;preventive measures	The health plan includes preventive care at no additional cost.	이 건강 보험에는 추가 비용 없는 예방 진료가 포함됩니다.
+wellness	health	n	건강 관리	health	3	wellness program;wellness center	Employees can join the wellness program at any time.	직원은 언제든 건강 관리 프로그램에 참여할 수 있습니다.
+appointment	meeting	n	예약 / 약속	health	1	make an appointment;cancel an appointment	Please arrive ten minutes before your scheduled appointment.	예약 시각보다 10분 일찍 도착해 주세요.
+refurbish	renew	v	새로 꾸미다 / 재정비하다	facility	4	refurbish an office;refurbished equipment	The company will refurbish the reception area during the holiday break.	회사는 연휴 동안 안내 데스크 구역을 새로 꾸밀 것입니다.
+ventilation	airflow	n	환기	facility	3	ventilation system;adequate ventilation	The laboratory requires adequate ventilation at all times.	실험실은 항상 충분히 환기되어야 합니다.
+inspection	examination	n	검사 / 점검	production	2	safety inspection;final inspection	The building must pass a safety inspection before it can open.	건물은 개장 전에 안전 점검을 통과해야 합니다.
+calibrate	adjust	v	교정하다 / 보정하다	production	4	calibrate equipment;calibrate a sensor	Technicians calibrate the measuring instruments every six months.	기술자들은 6개월마다 측정 기기를 교정합니다.
+tolerance	allowance	n	허용 오차	production	4	within tolerance;manufacturing tolerance	Each component must fall within the specified tolerance.	각 부품은 지정된 허용 오차 범위 안에 있어야 합니다.
+durable	lasting	adj	내구성이 있는	production	3	durable materials;durable goods	The new containers are made from durable recycled plastic.	새 용기는 내구성 있는 재활용 플라스틱으로 만들어졌습니다.
+obsolete	outdated	adj	구식의	it	4	obsolete equipment;become obsolete	We are replacing obsolete equipment to improve security.	보안을 개선하기 위해 구식 장비를 교체하고 있습니다.
+configure	setup	v	설정하다	it	3	configure a device;configure settings	The technician will configure the printer for wireless access.	기술자는 프린터를 무선으로 이용할 수 있도록 설정할 것입니다.
+troubleshoot	diagnose	v	문제를 진단하고 해결하다	it	4	troubleshoot a problem;troubleshoot equipment	The support team can troubleshoot connection problems remotely.	지원팀은 연결 문제를 원격으로 진단하고 해결할 수 있습니다.
+attachment	file	n	첨부 파일	office	2	email attachment;open an attachment	The revised schedule is included as an attachment to this email.	수정된 일정표가 이 이메일에 첨부되어 있습니다.
+correspondence	letters	n	서신 / 연락	office	3	business correspondence;written correspondence	Please include your account number in all correspondence.	모든 서신에 계좌 번호를 기재해 주세요.
+acknowledge	confirm	v	수령을 확인하다 / 인정하다	office	3	acknowledge receipt;acknowledge a contribution	Please acknowledge receipt of these documents by replying to this message.	이 메시지에 회신하여 문서 수령을 확인해 주세요.
+enclose	include	v	동봉하다	office	2	enclose a check;enclosed documents	Please enclose a copy of your identification with the application.	신청서와 함께 신분증 사본을 동봉해 주세요.
+clarify	explain	v	명확히 하다	office	3	clarify a point;clarify requirements	Could you clarify which documents are required for the renewal?	갱신에 어떤 서류가 필요한지 명확히 알려주시겠어요?
+promotional	advertising	adj	판촉의	sales	2	promotional offer;promotional materials	The promotional offer is available only to first-time customers.	이 판촉 혜택은 처음 이용하는 고객에게만 제공됩니다.
+redeemable	exchangeable	adj	교환하여 사용할 수 있는	sales	3	redeemable for;redeemable at	The voucher is redeemable for a free beverage at any branch.	이 쿠폰은 어느 지점에서나 무료 음료로 교환할 수 있습니다.
+loyalty	faithfulness	n	충성도	sales	2	customer loyalty;loyalty program	The new loyalty program rewards customers for repeat purchases.	새 고객 우대 프로그램은 재구매 고객에게 혜택을 제공합니다.
+merchandise	goods	n	상품	sales	3	display merchandise;return merchandise	Discounted merchandise cannot be exchanged without a receipt.	할인 상품은 영수증 없이 교환할 수 없습니다.
+retail	selling	n	소매	sales	2	retail price;retail outlet	The advertised price is lower than the usual retail price.	광고된 가격은 일반 소매가보다 낮습니다.

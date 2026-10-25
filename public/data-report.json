@@ -1,0 +1,131 @@
+{
+  "counts": {
+    "candidates": 5288,
+    "learningWords": 199,
+    "learningExpressions": 34,
+    "senses": 248,
+    "expressions": 526,
+    "examples": 278,
+    "humanReviewed": 0,
+    "sourceRows": 5803,
+    "duplicatesMerged": 575,
+    "domains": {
+      "contract": 25,
+      "finance": 24,
+      "banking": 12,
+      "hr": 18,
+      "office": 31,
+      "logistics": 10,
+      "procurement": 13,
+      "production": 12,
+      "sales": 9,
+      "service": 17,
+      "travel": 9,
+      "hotel": 5,
+      "facility": 11,
+      "it": 10,
+      "education": 4,
+      "health": 9,
+      "news": 11,
+      "general": 18
+    }
+  },
+  "sources": [
+    {
+      "id": "ngsl",
+      "url": "https://www.newgeneralservicelist.com/s/NGSL_12_alphabetized_description.txt",
+      "authors": "Browne, Culligan; NGSL also Phillips",
+      "license": "CC-BY-SA-4.0",
+      "retrieved": "2026-10-25",
+      "rows": 2809,
+      "sha256": "8056a5252576ddc5a3c2e96b1422eb2bc7991bdc527ecb2e00181fadff51d9dc"
+    },
+    {
+      "id": "tsl",
+      "url": "https://www.newgeneralservicelist.com/s/TSL_12_alphabetized_description.txt",
+      "authors": "Browne, Culligan; NGSL also Phillips",
+      "license": "CC-BY-SA-4.0",
+      "retrieved": "2026-10-25",
+      "rows": 1250,
+      "sha256": "935b89bdad27755b91f5b1b49b755af3dd7ee60c50d7b899f36520691c88eea8"
+    },
+    {
+      "id": "bsl",
+      "url": "https://www.newgeneralservicelist.com/s/BSL_120_alphabetized_description.txt",
+      "authors": "Browne, Culligan; NGSL also Phillips",
+      "license": "CC-BY-SA-4.0",
+      "retrieved": "2026-10-25",
+      "rows": 1744,
+      "sha256": "8a17b77465ecb382b33af4567ab1427c0950e2c0db8490cb83abf286bf9379ac"
+    }
+  ],
+  "checks": {
+    "schema": "passed",
+    "duplicateSenses": 0,
+    "duplicateHeadwords": "merged",
+    "linguisticReview": "pending human review"
+  },
+  "batches": [
+    {
+      "file": "001-priority.tsv",
+      "rows": 25,
+      "sha256": "299e5d355c4f0cc0a6c243c064d628657b4b15c32eea481b2f78a0446152b008"
+    },
+    {
+      "file": "002-confusions.tsv",
+      "rows": 25,
+      "sha256": "b38263c834c26afa4d24b36e2786f85bff19ec7c73fa35f2e389c422cbbf1913"
+    },
+    {
+      "file": "003-contract-finance.tsv",
+      "rows": 25,
+      "sha256": "5d1ba7ecca332c63cc0341320de514aefd338ecf3441995c8f5afb69b06259f3"
+    },
+    {
+      "file": "004-workplace.tsv",
+      "rows": 25,
+      "sha256": "ac9b6edb6ae7d0ca48d8b3d267dbedfb2c7a4907708f001eb760f1d3394d0559"
+    },
+    {
+      "file": "005-operations.tsv",
+      "rows": 24,
+      "sha256": "615a66ceaeab0e353fd9addb9d40396582032026767b0ab98937e1fcd054d1ae"
+    },
+    {
+      "file": "006-travel-technology.tsv",
+      "rows": 25,
+      "sha256": "7d0a0df95da81a965522aa3c2c07ae59986565fb993ed13fe11b5f55a392ca72"
+    },
+    {
+      "file": "007-reading.tsv",
+      "rows": 25,
+      "sha256": "958966976580c0cc087ec8bf73b7c532fe2bac55e4e0c985f43049253a9015b4"
+    },
+    {
+      "file": "008-expansion.tsv",
+      "rows": 25,
+      "sha256": "9d435be6cc24104e33a67ce92281979a8d30bbb5bdcc3fafaa37dbd78ec9ab25"
+    },
+    {
+      "file": "009-expansion.tsv",
+      "rows": 25,
+      "sha256": "7956a898ee0a78f5182671120fb5963b1ac20499ad3dc740d52af49f2d4bbe9b"
+    },
+    {
+      "file": "010-expressions.tsv",
+      "rows": 24,
+      "sha256": "b13016a63e015ab89c43209c57a45a09001d5a56b7875112abb7c697d71136cc"
+    }
+  ],
+  "remaining": {
+    "candidateWordsWithoutSenses": 5055,
+    "expressionTarget": [
+      1500,
+      3000
+    ],
+    "wordTarget": [
+      4000,
+      6000
+    ]
+  }
+}

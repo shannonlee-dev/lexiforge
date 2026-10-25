@@ -1,0 +1,231 @@
+{
+  "batchSize": 25,
+  "instructions": "Add a new numbered TSV, then run build. Never label generated content reviewed.",
+  "candidates": [
+    {
+      "id": "absorb",
+      "lemma": "absorb",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "acceptance",
+      "lemma": "acceptance",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "accomplishment",
+      "lemma": "accomplishment",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "accordingly",
+      "lemma": "accordingly",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "accountant",
+      "lemma": "accountant",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "accumulate",
+      "lemma": "accumulate",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "accuracy",
+      "lemma": "accuracy",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "accurately",
+      "lemma": "accurately",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "actively",
+      "lemma": "actively",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "administer",
+      "lemma": "administer",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "administrative",
+      "lemma": "administrative",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "administrator",
+      "lemma": "administrator",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "admission",
+      "lemma": "admission",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "advertiser",
+      "lemma": "advertiser",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "advisor",
+      "lemma": "advisor",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "advisory",
+      "lemma": "advisory",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "affordable",
+      "lemma": "affordable",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "afterward",
+      "lemma": "afterward",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "airport",
+      "lemma": "airport",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "alert",
+      "lemma": "alert",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "alike",
+      "lemma": "alike",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "ambassador",
+      "lemma": "ambassador",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "ambitious",
+      "lemma": "ambitious",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "anniversary",
+      "lemma": "anniversary",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "annually",
+      "lemma": "annually",
+      "sources": [
+        "tsl",
+        "bsl"
+      ],
+      "status": "candidate"
+    }
+  ]
+}
